@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.6.0
+- Added CacheControl (HTTP Cache-Control header builder) to Developer — now 206 tools; sitemap + JSON-LD updated.
+
 ## 8.5.0
 - Added ChangeMaker (cash change breakdown) to Everyday — now 205 tools; sitemap + JSON-LD updated.
 
