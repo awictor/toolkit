@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.43.0
+- Added URLParse (URL inspector) to Developer — now 42 tools; sitemap + JSON-LD updated.
+
 ## 0.42.0
 - Added WageCalc (salary ↔ hourly converter) to Finance — now 41 tools; sitemap + JSON-LD updated.
 
