@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.0.0
+- 🎉 210 tools! Added CronDescribe (cron → plain English) to Developer. Milestone release.
+- sitemap + JSON-LD updated to 210 tools.
+
 ## 8.9.0
 - Added Zodiac (star sign & Chinese zodiac finder) to Everyday — now 209 tools; sitemap + JSON-LD updated.
 
