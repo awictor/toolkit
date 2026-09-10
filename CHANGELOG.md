@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.3.0
+- Added LinkExtract (URL & markdown link extractor) to Writing — now 193 tools; sitemap + JSON-LD updated.
+
 ## 7.2.0
 - Added RoasCalc (ROAS/ACOS & break-even ad calculator) to Finance — now 192 tools; sitemap + JSON-LD updated.
 
