@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.9.0
+- Added ResistorCalc (resistor color-code decoder) to Everyday — now 159 tools; sitemap + JSON-LD updated.
+
 ## 3.8.0
 - Added CardCheck (card brand detector & Luhn validator) to Security — now 158 tools; sitemap + JSON-LD updated.
 
