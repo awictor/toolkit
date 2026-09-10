@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.14.0
+- Added Barcode (Code 128 barcode generator) to Everyday — now 134 tools; sitemap + JSON-LD updated.
+
 ## 2.13.0
 - Added TimeZone (time zone converter & meeting planner) to Everyday — now 133 tools; sitemap + JSON-LD updated.
 
