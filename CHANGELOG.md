@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.4.0
+- Added MacAddress (MAC formatter & inspector) to Security — now 204 tools; sitemap + JSON-LD updated.
+
 ## 8.3.0
 - Added Deburr (accent remover / ASCII folder) to Writing — now 203 tools; sitemap + JSON-LD updated.
 
