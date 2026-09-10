@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.75.0
+- Added TokenGen (secure random token & API-key generator) to Security — now 74 tools; sitemap + JSON-LD updated.
+
 ## 0.74.0
 - Added ShadowGen (CSS box-shadow generator) to Design — now 73 tools; sitemap + JSON-LD updated.
 
