@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.89.0
+- Added GPACalc (weighted GPA calculator) to Everyday — now 88 tools; sitemap + JSON-LD updated.
+
 ## 0.88.0
 - Added A1C (A1C to average glucose converter) to Health — now 87 tools; sitemap + JSON-LD updated.
 
