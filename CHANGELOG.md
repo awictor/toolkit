@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.72.0
+- Added BodyFat (U.S. Navy body fat estimator) to Health — now 71 tools; sitemap + JSON-LD updated.
+
 ## 0.71.0
 - Added JsonToTs (JSON to TypeScript interface generator) to Developer — now 70 tools; sitemap + JSON-LD updated.
 
