@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.61.0
+- Added ShadeGen (color tint / shade scale generator) to Design — now 60 tools. Milestone: 60 tools in the hub. Sitemap + JSON-LD updated.
+
 ## 0.60.0
 - Added HoursCalc (work hours / timesheet calculator) to Everyday — now 59 tools; sitemap + JSON-LD updated.
 
