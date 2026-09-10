@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.42.0
+- Added WageCalc (salary ↔ hourly converter) to Finance — now 41 tools; sitemap + JSON-LD updated.
+
 ## 0.41.0
 - Added MorseCode (text ↔ Morse translator) to Everyday — now 40 tools; sitemap + JSON-LD updated.
 
