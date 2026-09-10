@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.90.0
+- Added FilterGen (CSS filter generator) to Design — now 89 tools; sitemap + JSON-LD updated.
+
 ## 0.89.0
 - Added GPACalc (weighted GPA calculator) to Everyday — now 88 tools; sitemap + JSON-LD updated.
 
