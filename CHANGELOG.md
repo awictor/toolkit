@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.27.0
+- Added Keyframes (CSS @keyframes animation generator) to Design — now 147 tools; sitemap + JSON-LD updated.
+
 ## 2.26.0
 - Added VatCalc (add/extract sales tax) to Finance — now 146 tools; sitemap + JSON-LD updated.
 
