@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.47.0
+- Added StrengthCheck (password strength analyzer) to Security — now 46 tools; sitemap + JSON-LD updated.
+
 ## 0.46.0
 - Added HTMLEntities (HTML entity encoder/decoder) to Developer — now 45 tools; sitemap + JSON-LD updated.
 
