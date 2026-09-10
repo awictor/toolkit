@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.87.0
+- Added RotCipher (Caesar/ROT13/ROT47/Atbash cipher) to Writing — now 86 tools; sitemap + JSON-LD updated.
+
 ## 0.86.0
 - Added SriGen (Subresource Integrity hash generator) to Security — now 85 tools; sitemap + JSON-LD updated.
 
