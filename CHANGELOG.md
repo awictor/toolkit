@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.93.0
+- Added DueDate (pregnancy due date calculator) to Health — now 92 tools; sitemap + JSON-LD updated.
+
 ## 0.92.0
 - Added SciNotation (scientific & engineering notation converter) to Everyday — now 91 tools; sitemap + JSON-LD updated.
 

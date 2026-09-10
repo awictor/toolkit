@@ -99,6 +99,7 @@ const tools = [
   ['FilterGen', 'https://awictor.github.io/filter-gen/'],
   ['UlidGen', 'https://awictor.github.io/ulid-gen/'],
   ['SciNotation', 'https://awictor.github.io/sci-notation/'],
+  ['DueDate', 'https://awictor.github.io/due-date/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -109,27 +110,27 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 91 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 91);
+check('exactly 92 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 92);
 });
 check('tools grouped into category sections', () => {
   assert.equal((html.match(/class="cat"/g) || []).length, 7);
   for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing', 'Health', 'Everyday'])
     assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
 });
-check('valid JSON-LD ItemList with 91 items', () => {
+check('valid JSON-LD ItemList with 92 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 91);
+  assert.equal(data.itemListElement.length, 92);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 91 pages', () => {
+check('sitemap.xml lists all 92 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 92);
+  assert.equal((sm.match(/<loc>/g) || []).length, 93);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
