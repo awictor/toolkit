@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.12.0
+- Added JWTPeek (offline JWT decoder) — now 12 tools; sitemap + JSON-LD updated.
+
 ## 0.11.0
 - Added CronPal (cron expression explainer) — now 11 tools; first developer tool. sitemap + JSON-LD updated.
 
