@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.6.0
+- Added Pluralize (English plural/singular converter) to Writing — now 186 tools; sitemap + JSON-LD updated.
+
 ## 6.5.0
 - Added PPICalc (pixel density calculator) to Everyday — now 185 tools; sitemap + JSON-LD updated.
 
