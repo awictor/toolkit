@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.6.0
+- Added IbanCheck (IBAN validator & formatter) to Finance — now 126 tools; sitemap + JSON-LD updated.
+
 ## 2.5.0
 - Added Bitwise (bitwise operations calculator) to Developer — now 125 tools; sitemap + JSON-LD updated.
 
