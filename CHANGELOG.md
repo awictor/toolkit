@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.4.0
+- SEO: sitemap.xml (all 6 pages) + robots.txt.
+
 ## 0.3.0
 - Added BreakEven (business break-even calculator) to the hub — now 5 tools.
 

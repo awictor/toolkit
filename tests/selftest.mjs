@@ -35,4 +35,12 @@ check('valid JSON-LD ItemList with 5 items', () => {
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
+check('sitemap.xml lists all 6 pages', () => {
+  const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
+  const urls = ['toolkit', ...tools.map(t => t[1])];
+  assert.equal((sm.match(/<loc>/g) || []).length, 6);
+  assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
+  for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
+});
+
 console.log(`\n${n} checks passed.`);

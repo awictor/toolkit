@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awictor.github.io/toolkit/sitemap.xml
