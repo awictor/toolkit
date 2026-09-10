@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.86.0
+- Added SriGen (Subresource Integrity hash generator) to Security — now 85 tools; sitemap + JSON-LD updated.
+
 ## 0.85.0
 - Added IdealWeight (ideal body weight calculator) to Health — now 84 tools; sitemap + JSON-LD updated.
 
