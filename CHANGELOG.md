@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.2.0
+- Added JsonToYaml (JSON to YAML converter) to Developer — now 122 tools; sitemap + JSON-LD updated.
+
 ## 2.1.0
 - Added Fixate (fixation reading formatter) to Writing — now 121 tools; sitemap + JSON-LD updated.
 
