@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.52.0
+- Added WaterIntake (daily water intake calculator) to Health — now 51 tools; sitemap + JSON-LD updated.
+
 ## 0.51.0
 - Added InflationCalc (inflation & purchasing power) to Finance — now 50 tools; sitemap + JSON-LD updated.
 
