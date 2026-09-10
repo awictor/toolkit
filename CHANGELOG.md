@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.5.0
+- Added TipSplit (tip & bill splitter) — now 6 tools; sitemap + JSON-LD updated.
+
 ## 0.4.0
 - SEO: sitemap.xml (all 6 pages) + robots.txt.
 
