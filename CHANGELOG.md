@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.26.0
+- Added PercentCalc (percentage calculator) to Finance — now 25 tools; sitemap + JSON-LD updated.
+
 ## 0.25.0
 - Added AspectRatio (aspect ratio calculator) to Design — now 24 tools; sitemap + JSON-LD updated.
 
