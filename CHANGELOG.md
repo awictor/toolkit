@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.15.0
+- Added PregnancyDue (due date & gestational age calculator) to Health — now 135 tools; sitemap + JSON-LD updated.
+
 ## 2.14.0
 - Added Barcode (Code 128 barcode generator) to Everyday — now 134 tools; sitemap + JSON-LD updated.
 
