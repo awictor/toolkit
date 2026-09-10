@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.1.0
+- Added Scrollbar (custom CSS scrollbar generator) to Design — now 191 tools; sitemap + JSON-LD updated.
+
 ## 7.0.0
 - 🎉 190 tools! Added StringEscape (multi-target string escaper) to Developer. Milestone release.
 - sitemap + JSON-LD updated to 190 tools.
