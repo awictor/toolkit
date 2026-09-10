@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.5.0
+- Added PPICalc (pixel density calculator) to Everyday — now 185 tools; sitemap + JSON-LD updated.
+
 ## 6.4.0
 - Added JsonToGo (JSON → Go struct generator) to Developer — now 184 tools; sitemap + JSON-LD updated.
 
