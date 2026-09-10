@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.66.0
+- Added GradientGen (CSS gradient generator) to Design — now 65 tools; sitemap + JSON-LD updated.
+
 ## 0.65.0
 - Added CSPKit (Content-Security-Policy builder & auditor) to Security — now 64 tools; sitemap + JSON-LD updated.
 
