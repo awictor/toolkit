@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.17.0
+- Added SchemaGen (JSON to JSON Schema generator) to Developer — now 117 tools; sitemap + JSON-LD updated.
+
 ## 1.16.0
 - Added GridGen (CSS Grid layout generator) to Design — now 116 tools; sitemap + JSON-LD updated.
 
