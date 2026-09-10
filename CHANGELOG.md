@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.78.0
+- Added CheckDigit (barcode & ISBN check-digit validator) to Everyday — now 77 tools; sitemap + JSON-LD updated.
+
 ## 0.77.0
 - Added Similarity (string similarity & edit distance) to Writing — now 76 tools; sitemap + JSON-LD updated.
 
