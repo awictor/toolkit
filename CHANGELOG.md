@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.0.0
+- 🎉 180 tools! Added Spinner (CSS loading spinner generator) to Design. Milestone release.
+- sitemap + JSON-LD updated to 180 tools.
+
 ## 5.9.0
 - Added Syllables (syllable counter & haiku checker) to Writing — now 179 tools; sitemap + JSON-LD updated.
 
