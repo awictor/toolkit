@@ -1,5 +1,8 @@
 # Changelog
 
+## 9.2.0
+- Added StackDiscount (stacked discount calculator) to Finance — now 212 tools; sitemap + JSON-LD updated.
+
 ## 9.1.0
 - Added ConicPie (CSS pie chart / conic-gradient generator) to Design — now 211 tools; sitemap + JSON-LD updated.
 
