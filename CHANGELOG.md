@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.44.0
+- Added TypeScale (modular type scale generator) to Design — now 43 tools; sitemap + JSON-LD updated.
+
 ## 0.43.0
 - Added URLParse (URL inspector) to Developer — now 42 tools; sitemap + JSON-LD updated.
 
