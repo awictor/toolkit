@@ -35,6 +35,11 @@ for (const [name, url] of tools) {
 check('exactly 14 tool cards', () => {
   assert.equal((html.match(/class="card"/g) || []).length, 14);
 });
+check('tools grouped into category sections', () => {
+  assert.equal((html.match(/class="cat"/g) || []).length, 5);
+  for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing'])
+    assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
+});
 check('valid JSON-LD ItemList with 14 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');

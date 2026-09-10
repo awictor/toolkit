@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.15.0
+- Tools grouped into categories (Finance & business, Developer, Design, Security, Writing). Search now hides empty sections.
+
 ## 0.14.0
 - Added EpochConvert (Unix timestamp converter) — now 14 tools; sitemap + JSON-LD updated.
 

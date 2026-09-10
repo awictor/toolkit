@@ -48,7 +48,10 @@
   .search input:focus{outline:none;border-color:#FF6100;box-shadow:0 0 0 3px rgba(255,97,0,.15)}
   #noRes{max-width:900px;margin:0 auto;padding:0 20px 20px;text-align:center;color:var(--muted);font-size:15px}
   #themeBtn{position:absolute;top:20px;right:20px;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:17px;cursor:pointer;box-shadow:var(--shadow)}
-  .grid{max-width:900px;margin:28px auto;padding:0 20px;display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  .cat{max-width:900px;margin:0 auto}
+  .cat h3{margin:26px 20px 0;font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+  .cat[hidden]{display:none}
+  .grid{max-width:900px;margin:12px auto 8px;padding:0 20px;display:grid;grid-template-columns:1fr 1fr;gap:20px}
   @media(max-width:680px){.grid{grid-template-columns:1fr}}
   a.card{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);
     border-radius:16px;padding:22px;box-shadow:var(--shadow);transition:transform .12s ease,box-shadow .12s ease;border-top:3px solid var(--c)}
@@ -71,91 +74,105 @@
   <div class="search"><input id="q" type="search" placeholder="Search tools…" aria-label="Search tools" autocomplete="off"></div>
 </header>
 
-<main class="grid">
-  <a class="card" style="--c:#FF6100" href="https://awictor.github.io/margin-master/">
-    <div class="ico">M</div>
-    <h2>MarginMaster</h2>
-    <p>Amazon FBA true-profit calculator — margin, ROI, breakeven ACOS, FBA &amp; storage fees, across 9 marketplaces.</p>
-    <div class="go">Open MarginMaster →</div>
-  </a>
-  <a class="card" style="--c:#4F46E5" href="https://awictor.github.io/runway-calc/">
-    <div class="ico">R</div>
-    <h2>Runway</h2>
-    <p>SaaS metrics &amp; cash runway — LTV:CAC, payback, NRR, Rule of 40, burn multiple, and an MRR projection.</p>
-    <div class="go">Open Runway →</div>
-  </a>
-  <a class="card" style="--c:#0E9488" href="https://awictor.github.io/rate-right/">
-    <div class="ico">$</div>
-    <h2>RateRight</h2>
-    <p>Freelance rate calculator — the hourly/day/week rate to hit your take-home goal after tax, expenses &amp; unbillable time.</p>
-    <div class="go">Open RateRight →</div>
-  </a>
-  <a class="card" style="--c:#059669" href="https://awictor.github.io/payoff/">
-    <div class="ico">✓</div>
-    <h2>Payoff</h2>
-    <p>Debt snowball vs avalanche planner — debt-free date, total interest, and the fastest way out.</p>
-    <div class="go">Open Payoff →</div>
-  </a>
-  <a class="card" style="--c:#d97706" href="https://awictor.github.io/breakeven/">
-    <div class="ico">⟋</div>
-    <h2>BreakEven</h2>
-    <p>Business break-even calculator — units and revenue to cover costs, contribution margin, and margin of safety.</p>
-    <div class="go">Open BreakEven →</div>
-  </a>
-  <a class="card" style="--c:#e11d48" href="https://awictor.github.io/tip-split/">
-    <div class="ico">%</div>
-    <h2>TipSplit</h2>
-    <p>Tip &amp; bill splitter — tip, grand total, and each person's share, with optional round-up.</p>
-    <div class="go">Open TipSplit &rarr;</div>
-  </a>
-  <a class="card" style="--c:#0284c7" href="https://awictor.github.io/loan-calc/">
-    <div class="ico">≈</div>
-    <h2>LoanCalc</h2>
-    <p>Loan &amp; amortization calculator — monthly payment, total interest, payoff, and a balance-over-time chart.</p>
-    <div class="go">Open LoanCalc &rarr;</div>
-  </a>
-  <a class="card" style="--c:#7c3aed" href="https://awictor.github.io/nest-egg/">
-    <div class="ico">🥚</div>
-    <h2>NestEgg</h2>
-    <p>Savings &amp; compound interest — future value from a starting amount plus monthly contributions, split into deposits vs. growth.</p>
-    <div class="go">Open NestEgg &rarr;</div>
-  </a>
-  <a class="card" style="--c:#0891b2" href="https://awictor.github.io/pass-forge/">
-    <div class="ico">🔐</div>
-    <h2>PassForge</h2>
-    <p>Password generator &amp; strength meter — cryptographically-random passwords with real entropy and crack-time estimates. Nothing leaves your device.</p>
-    <div class="go">Open PassForge &rarr;</div>
-  </a>
-  <a class="card" style="--c:#475569" href="https://awictor.github.io/contrast/">
-    <div class="ico">◑</div>
-    <h2>Contrast</h2>
-    <p>WCAG color contrast checker — exact ratio and AA/AAA pass-fail for normal &amp; large text, with a live preview.</p>
-    <div class="go">Open Contrast &rarr;</div>
-  </a>
-  <a class="card" style="--c:#0d9488" href="https://awictor.github.io/cron-pal/">
-    <div class="ico">⏱</div>
-    <h2>CronPal</h2>
-    <p>Cron expression explainer — read any schedule in plain English and preview its next run times.</p>
-    <div class="go">Open CronPal &rarr;</div>
-  </a>
-  <a class="card" style="--c:#9333ea" href="https://awictor.github.io/jwt-peek/">
-    <div class="ico">🔑</div>
-    <h2>JWTPeek</h2>
-    <p>Offline JWT decoder — header, payload claims, and expiry, decoded locally. Your token never leaves your device.</p>
-    <div class="go">Open JWTPeek &rarr;</div>
-  </a>
-  <a class="card" style="--c:#dc2626" href="https://awictor.github.io/word-count/">
-    <div class="ico">¶</div>
-    <h2>WordCount</h2>
-    <p>Word &amp; character counter — live words, characters, sentences, reading time, and top keywords as you type.</p>
-    <div class="go">Open WordCount &rarr;</div>
-  </a>
-  <a class="card" style="--c:#16a34a" href="https://awictor.github.io/epoch-convert/">
-    <div class="ico">🕑</div>
-    <h2>EpochConvert</h2>
-    <p>Unix timestamp ↔ date — UTC, local, ISO, and relative time, both directions. Auto-detects seconds vs ms.</p>
-    <div class="go">Open EpochConvert &rarr;</div>
-  </a>
+<main>
+  <section class="cat"><h3>Finance &amp; business</h3><div class="grid">
+    <a class="card" style="--c:#FF6100" href="https://awictor.github.io/margin-master/">
+      <div class="ico">M</div>
+      <h2>MarginMaster</h2>
+      <p>Amazon FBA true-profit calculator — margin, ROI, breakeven ACOS, FBA &amp; storage fees, across 9 marketplaces.</p>
+      <div class="go">Open MarginMaster →</div>
+    </a>
+    <a class="card" style="--c:#4F46E5" href="https://awictor.github.io/runway-calc/">
+      <div class="ico">R</div>
+      <h2>Runway</h2>
+      <p>SaaS metrics &amp; cash runway — LTV:CAC, payback, NRR, Rule of 40, burn multiple, and an MRR projection.</p>
+      <div class="go">Open Runway →</div>
+    </a>
+    <a class="card" style="--c:#0E9488" href="https://awictor.github.io/rate-right/">
+      <div class="ico">$</div>
+      <h2>RateRight</h2>
+      <p>Freelance rate calculator — the hourly/day/week rate to hit your take-home goal after tax, expenses &amp; unbillable time.</p>
+      <div class="go">Open RateRight →</div>
+    </a>
+    <a class="card" style="--c:#059669" href="https://awictor.github.io/payoff/">
+      <div class="ico">✓</div>
+      <h2>Payoff</h2>
+      <p>Debt snowball vs avalanche planner — debt-free date, total interest, and the fastest way out.</p>
+      <div class="go">Open Payoff →</div>
+    </a>
+    <a class="card" style="--c:#d97706" href="https://awictor.github.io/breakeven/">
+      <div class="ico">⟋</div>
+      <h2>BreakEven</h2>
+      <p>Business break-even calculator — units and revenue to cover costs, contribution margin, and margin of safety.</p>
+      <div class="go">Open BreakEven →</div>
+    </a>
+    <a class="card" style="--c:#e11d48" href="https://awictor.github.io/tip-split/">
+      <div class="ico">%</div>
+      <h2>TipSplit</h2>
+      <p>Tip &amp; bill splitter — tip, grand total, and each person's share, with optional round-up.</p>
+      <div class="go">Open TipSplit &rarr;</div>
+    </a>
+    <a class="card" style="--c:#0284c7" href="https://awictor.github.io/loan-calc/">
+      <div class="ico">≈</div>
+      <h2>LoanCalc</h2>
+      <p>Loan &amp; amortization calculator — monthly payment, total interest, payoff, and a balance-over-time chart.</p>
+      <div class="go">Open LoanCalc &rarr;</div>
+    </a>
+    <a class="card" style="--c:#7c3aed" href="https://awictor.github.io/nest-egg/">
+      <div class="ico">🥚</div>
+      <h2>NestEgg</h2>
+      <p>Savings &amp; compound interest — future value from a starting amount plus monthly contributions, split into deposits vs. growth.</p>
+      <div class="go">Open NestEgg &rarr;</div>
+    </a>
+  </div></section>
+
+  <section class="cat"><h3>Developer</h3><div class="grid">
+    <a class="card" style="--c:#0d9488" href="https://awictor.github.io/cron-pal/">
+      <div class="ico">⏱</div>
+      <h2>CronPal</h2>
+      <p>Cron expression explainer — read any schedule in plain English and preview its next run times.</p>
+      <div class="go">Open CronPal &rarr;</div>
+    </a>
+    <a class="card" style="--c:#9333ea" href="https://awictor.github.io/jwt-peek/">
+      <div class="ico">🔑</div>
+      <h2>JWTPeek</h2>
+      <p>Offline JWT decoder — header, payload claims, and expiry, decoded locally. Your token never leaves your device.</p>
+      <div class="go">Open JWTPeek &rarr;</div>
+    </a>
+    <a class="card" style="--c:#16a34a" href="https://awictor.github.io/epoch-convert/">
+      <div class="ico">🕑</div>
+      <h2>EpochConvert</h2>
+      <p>Unix timestamp ↔ date — UTC, local, ISO, and relative time, both directions. Auto-detects seconds vs ms.</p>
+      <div class="go">Open EpochConvert &rarr;</div>
+    </a>
+  </div></section>
+
+  <section class="cat"><h3>Design</h3><div class="grid">
+    <a class="card" style="--c:#475569" href="https://awictor.github.io/contrast/">
+      <div class="ico">◑</div>
+      <h2>Contrast</h2>
+      <p>WCAG color contrast checker — exact ratio and AA/AAA pass-fail for normal &amp; large text, with a live preview.</p>
+      <div class="go">Open Contrast &rarr;</div>
+    </a>
+  </div></section>
+
+  <section class="cat"><h3>Security</h3><div class="grid">
+    <a class="card" style="--c:#0891b2" href="https://awictor.github.io/pass-forge/">
+      <div class="ico">🔐</div>
+      <h2>PassForge</h2>
+      <p>Password generator &amp; strength meter — cryptographically-random passwords with real entropy and crack-time estimates. Nothing leaves your device.</p>
+      <div class="go">Open PassForge &rarr;</div>
+    </a>
+  </div></section>
+
+  <section class="cat"><h3>Writing</h3><div class="grid">
+    <a class="card" style="--c:#dc2626" href="https://awictor.github.io/word-count/">
+      <div class="ico">¶</div>
+      <h2>WordCount</h2>
+      <p>Word &amp; character counter — live words, characters, sentences, reading time, and top keywords as you type.</p>
+      <div class="go">Open WordCount &rarr;</div>
+    </a>
+  </div></section>
 </main>
 <div id="noRes" style="display:none">No tools match “<span id="qEcho"></span>”.</div>
 
@@ -178,6 +195,11 @@ function filterTools(items,q){const s=(q||"").trim().toLowerCase();return items.
     const vis=filterTools(cards,q.value);
     const show=new Set(vis.map(v=>v.el));
     cards.forEach(c=>{c.el.style.display=show.has(c.el)?"":"none";});
+    // hide a category section when none of its cards are visible
+    document.querySelectorAll("section.cat").forEach(sec=>{
+      const any=[...sec.querySelectorAll("a.card")].some(a=>show.has(a));
+      sec.hidden=!any;
+    });
     const none=cards.length&&vis.length===0;
     $("noRes").style.display=none?"":"none";
     if(none)$("qEcho").textContent=q.value;
