@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.65.0
+- Added CSPKit (Content-Security-Policy builder & auditor) to Security — now 64 tools; sitemap + JSON-LD updated.
+
 ## 0.64.0
 - Added HeartZones (training heart rate zone calculator) to Health — now 63 tools; sitemap + JSON-LD updated.
 
