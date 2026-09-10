@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.6.0
+- Added HtmlToMd (HTML → Markdown converter) to Developer — now 196 tools; sitemap + JSON-LD updated.
+
 ## 7.5.0
 - Added AngleConvert (angle unit converter) to Everyday — now 195 tools; sitemap + JSON-LD updated.
 
