@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.16.0
+- Added GridGen (CSS Grid layout generator) to Design — now 116 tools; sitemap + JSON-LD updated.
+
 ## 1.15.0
 - Added RecipeScaler (recipe ingredient scaler) to Everyday — now 115 tools; sitemap + JSON-LD updated.
 
