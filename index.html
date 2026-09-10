@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Toolkit — free offline calculators for founders, sellers & freelancers</title>
+<meta name="description" content="A set of fast, private, offline calculators: Amazon FBA profit, SaaS metrics & runway, freelance rates, and debt payoff. No signup, nothing leaves your device." />
+<meta name="theme-color" content="#111827" />
+<meta name="color-scheme" content="light dark" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Toolkit — free offline calculators" />
+<meta property="og:description" content="Amazon FBA profit, SaaS runway, freelance rates, and debt payoff — fast, private, offline." />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23111827'/%3E%3Crect x='14' y='14' width='16' height='16' rx='3' fill='%23FF6100'/%3E%3Crect x='34' y='14' width='16' height='16' rx='3' fill='%234F46E5'/%3E%3Crect x='14' y='34' width='16' height='16' rx='3' fill='%230E9488'/%3E%3Crect x='34' y='34' width='16' height='16' rx='3' fill='%23059669'/%3E%3C/svg%3E" />
+<style>
+  :root{ --bg:#f6f7f9; --ink:#1a2030; --muted:#5b6472; --card:#fff; --line:#e6e8ee;
+    --shadow:0 1px 2px rgba(20,24,40,.05),0 10px 30px rgba(20,24,40,.08); }
+  [data-theme="dark"]{ --bg:#0d1017; --ink:#eef1f6; --muted:#98a1b2; --card:#161b25; --line:#28303d;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px rgba(0,0,0,.4); }
+  html[data-theme="dark"] body{background:var(--bg)}
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased}
+  header{max-width:900px;margin:0 auto;padding:56px 20px 8px;text-align:center;position:relative}
+  header h1{margin:0;font-size:32px;letter-spacing:-.02em}
+  header p{margin:10px auto 0;color:var(--muted);font-size:16px;max-width:560px}
+  .tag{display:inline-block;margin-top:14px;font-size:12px;color:var(--muted);border:1px solid var(--line);border-radius:20px;padding:4px 12px}
+  #themeBtn{position:absolute;top:20px;right:20px;width:38px;height:38px;border-radius:50%;border:1px solid var(--line);background:var(--card);color:var(--ink);font-size:17px;cursor:pointer;box-shadow:var(--shadow)}
+  .grid{max-width:900px;margin:28px auto;padding:0 20px;display:grid;grid-template-columns:1fr 1fr;gap:20px}
+  @media(max-width:680px){.grid{grid-template-columns:1fr}}
+  a.card{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);
+    border-radius:16px;padding:22px;box-shadow:var(--shadow);transition:transform .12s ease,box-shadow .12s ease;border-top:3px solid var(--c)}
+  a.card:hover{transform:translateY(-3px);box-shadow:0 6px 16px rgba(20,24,40,.12),0 16px 40px rgba(20,24,40,.12)}
+  .card .ico{width:40px;height:40px;border-radius:10px;background:var(--c);display:flex;align-items:center;justify-content:center;color:#fff;font-weight:700;font-size:18px}
+  .card h2{margin:14px 0 4px;font-size:19px}
+  .card p{margin:0;color:var(--muted);font-size:14px}
+  .card .go{margin-top:14px;font-size:13px;font-weight:600;color:var(--c)}
+  footer{text-align:center;color:var(--muted);font-size:12px;padding:24px}
+  footer a{color:var(--ink);text-decoration:none;border-bottom:1px dotted var(--muted)}
+</style>
+<script>(function(){try{var t=localStorage.getItem("toolkit.theme")||((window.matchMedia&&matchMedia("(prefers-color-scheme:dark)").matches)?"dark":"light");document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
+</head>
+<body>
+<header>
+  <button id="themeBtn" title="Toggle dark mode" aria-label="Toggle dark mode">🌙</button>
+  <h1>Toolkit</h1>
+  <p>Fast, private calculators for people who run their own numbers. Every one runs 100% in your browser — no signup, nothing leaves your device.</p>
+  <span class="tag">Offline · zero-dependency · open source</span>
+</header>
+
+<main class="grid">
+  <a class="card" style="--c:#FF6100" href="https://awictor.github.io/margin-master/">
+    <div class="ico">M</div>
+    <h2>MarginMaster</h2>
+    <p>Amazon FBA true-profit calculator — margin, ROI, breakeven ACOS, FBA &amp; storage fees, across 9 marketplaces.</p>
+    <div class="go">Open MarginMaster →</div>
+  </a>
+  <a class="card" style="--c:#4F46E5" href="https://awictor.github.io/runway-calc/">
+    <div class="ico">R</div>
+    <h2>Runway</h2>
+    <p>SaaS metrics &amp; cash runway — LTV:CAC, payback, NRR, Rule of 40, burn multiple, and an MRR projection.</p>
+    <div class="go">Open Runway →</div>
+  </a>
+  <a class="card" style="--c:#0E9488" href="https://awictor.github.io/rate-right/">
+    <div class="ico">$</div>
+    <h2>RateRight</h2>
+    <p>Freelance rate calculator — the hourly/day/week rate to hit your take-home goal after tax, expenses &amp; unbillable time.</p>
+    <div class="go">Open RateRight →</div>
+  </a>
+  <a class="card" style="--c:#059669" href="https://awictor.github.io/payoff/">
+    <div class="ico">✓</div>
+    <h2>Payoff</h2>
+    <p>Debt snowball vs avalanche planner — debt-free date, total interest, and the fastest way out.</p>
+    <div class="go">Open Payoff →</div>
+  </a>
+</main>
+
+<footer>
+  Built by Alex Wictor · MIT licensed · each tool is a single offline <code>index.html</code><br>
+  <a href="https://github.com/awictor">Source on GitHub</a>
+</footer>
+
+<script>
+const $=id=>document.getElementById(id);
+$("themeBtn").onclick=()=>{const n=document.documentElement.getAttribute("data-theme")==="dark"?"light":"dark";document.documentElement.setAttribute("data-theme",n);try{localStorage.setItem("toolkit.theme",n);}catch(e){}$("themeBtn").textContent=n==="dark"?"☀️":"🌙";};
+$("themeBtn").textContent=document.documentElement.getAttribute("data-theme")==="dark"?"☀️":"🌙";
+</script>
+</body>
+</html>
