@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.84.0
+- Added TextClean (text cleanup utility) to Writing — now 83 tools; sitemap + JSON-LD updated.
+
 ## 0.83.0
 - Added DotEnv (.env to JSON converter) to Developer — now 82 tools; sitemap + JSON-LD updated.
 
