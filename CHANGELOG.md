@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.10.0
+- Added ChmodCalc (Unix file permission calculator) to Developer — now 110 tools; sitemap + JSON-LD updated.
+
 ## 1.9.0
 - Added TextShadowGen (CSS text-shadow generator) to Design — now 109 tools; sitemap + JSON-LD updated.
 
