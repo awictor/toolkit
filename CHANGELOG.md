@@ -1,5 +1,9 @@
 # Changelog
 
+## 5.0.0
+- 🎉 170 tools! Added MimeType (MIME type & extension lookup) to Developer. Milestone release.
+- sitemap + JSON-LD updated to 170 tools.
+
 ## 4.9.0
 - Added OhmsLaw (Ohm's law & power calculator) to Everyday — now 169 tools; sitemap + JSON-LD updated.
 
