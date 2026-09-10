@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.77.0
+- Added Similarity (string similarity & edit distance) to Writing — now 76 tools; sitemap + JSON-LD updated.
+
 ## 0.76.0
 - Added Amortize (loan amortization schedule) to Finance — now 75 tools; sitemap + JSON-LD updated.
 
