@@ -25,5 +25,13 @@ for (const [name, url] of tools) {
 check('exactly 4 tool cards', () => {
   assert.equal((html.match(/class="card"/g) || []).length, 4);
 });
+check('valid JSON-LD ItemList with 4 items', () => {
+  const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
+  assert.ok(m, 'no JSON-LD block');
+  const data = JSON.parse(m[1]);
+  assert.equal(data['@type'], 'ItemList');
+  assert.equal(data.itemListElement.length, 4);
+  assert.equal(data.itemListElement[0].item.url, tools[0][1]);
+});
 
 console.log(`\n${n} checks passed.`);
