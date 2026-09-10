@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.3.0
+- Added SplitUp (group expense settle-up calculator) to Finance — now 183 tools; sitemap + JSON-LD updated.
+
 ## 6.2.0
 - Added DataURI (data URI generator & decoder) to Developer — now 182 tools; sitemap + JSON-LD updated.
 
