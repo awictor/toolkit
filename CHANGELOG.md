@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.35.0
+- Added GradeCalc (weighted grade calculator) to Everyday — now 34 tools; sitemap + JSON-LD updated.
+
 ## 0.34.0
 - Added DiscountCalc (stacked discount & sale price) to Everyday — now 33 tools; sitemap + JSON-LD updated.
 
