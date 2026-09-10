@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.19.0
+- Added BizDays (business days calculator) to Everyday — now 119 tools; sitemap + JSON-LD updated.
+
 ## 1.18.0
 - Added JwtSign (encode & sign JSON Web Tokens) to Security — now 118 tools; sitemap + JSON-LD updated.
 
