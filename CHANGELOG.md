@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.48.0
+- Added SaveGoal (savings goal calculator) to Finance — now 47 tools; sitemap + JSON-LD updated.
+
 ## 0.47.0
 - Added StrengthCheck (password strength analyzer) to Security — now 46 tools; sitemap + JSON-LD updated.
 
