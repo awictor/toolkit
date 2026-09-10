@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.3.0
+- Added Deburr (accent remover / ASCII folder) to Writing — now 203 tools; sitemap + JSON-LD updated.
+
 ## 8.2.0
 - Added Overtime (overtime pay calculator) to Finance — now 202 tools; sitemap + JSON-LD updated.
 
