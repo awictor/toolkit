@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.23.0
+- Added HashGen (SHA hash generator) to Security — now 22 tools; sitemap + JSON-LD updated.
+
 ## 0.22.0
 - Added LoremGen (Lorem Ipsum generator) to Writing — now 21 tools; sitemap + JSON-LD updated.
 
