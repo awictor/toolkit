@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.14.0
+- Added EpochConvert (Unix timestamp converter) — now 14 tools; sitemap + JSON-LD updated.
+
 ## 0.13.0
 - Added WordCount (word & character counter) — now 13 tools; sitemap + JSON-LD updated.
 
