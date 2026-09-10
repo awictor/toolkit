@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.1.0
+- Added QueryString (URL query string builder & parser) to Developer — now 101 tools; sitemap + JSON-LD updated.
+
 ## 1.0.0
 - 🎉 Milestone: 100 tools. Added SleepCalc (sleep cycle calculator) to Health. Sitemap + JSON-LD updated. 100 offline, tested, single-file web tools across 7 categories.
 

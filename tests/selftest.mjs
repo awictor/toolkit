@@ -108,6 +108,7 @@ const tools = [
   ['RadiusGen', 'https://awictor.github.io/radius-gen/'],
   ['JsonToCsv', 'https://awictor.github.io/json-to-csv/'],
   ['SleepCalc', 'https://awictor.github.io/sleep-calc/'],
+  ['QueryString', 'https://awictor.github.io/query-string/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -118,27 +119,27 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 100 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 100);
+check('exactly 101 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 101);
 });
 check('tools grouped into category sections', () => {
   assert.equal((html.match(/class="cat"/g) || []).length, 7);
   for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing', 'Health', 'Everyday'])
     assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
 });
-check('valid JSON-LD ItemList with 100 items', () => {
+check('valid JSON-LD ItemList with 101 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 100);
+  assert.equal(data.itemListElement.length, 101);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 100 pages', () => {
+check('sitemap.xml lists all 101 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 101);
+  assert.equal((sm.match(/<loc>/g) || []).length, 102);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
