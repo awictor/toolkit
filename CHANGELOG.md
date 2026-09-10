@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4.0
+- Added TransformGen (CSS transform generator) to Design — now 104 tools; sitemap + JSON-LD updated.
+
 ## 1.3.0
 - Added Base58 (Bitcoin-style Base58 encoder/decoder) to Security — now 103 tools; sitemap + JSON-LD updated.
 
