@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.11.0
+- Added MetaTags (Open Graph / Twitter / SEO meta tag generator) to Developer — now 131 tools; sitemap + JSON-LD updated.
+
 ## 2.10.0
 - Added CronNext (cron next-run previewer) to Developer — now 130 tools; sitemap + JSON-LD updated.
 
