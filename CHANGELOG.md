@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.56.0
+- Added MacroCalc (macronutrient calculator) to Health — now 55 tools; sitemap + JSON-LD updated.
+
 ## 0.55.0
 - Added Slugify (URL slug generator) to Developer — now 54 tools; sitemap + JSON-LD updated.
 
