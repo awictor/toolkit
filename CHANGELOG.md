@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.2.0
+- Added DataURI (data URI generator & decoder) to Developer — now 182 tools; sitemap + JSON-LD updated.
+
 ## 6.1.0
 - Added FeelsLike (wind chill & heat index calculator) to Health — now 181 tools; sitemap + JSON-LD updated.
 
