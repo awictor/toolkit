@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.9.0
+- Added DownloadTime (file transfer time calculator) to Everyday — now 199 tools; sitemap + JSON-LD updated.
+
 ## 7.8.0
 - Added TextGradient (gradient text CSS generator) to Design — now 198 tools; sitemap + JSON-LD updated.
 
