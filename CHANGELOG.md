@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.12.0
+- Added ClipPath (CSS clip-path shape generator) to Design — now 132 tools; sitemap + JSON-LD updated.
+
 ## 2.11.0
 - Added MetaTags (Open Graph / Twitter / SEO meta tag generator) to Developer — now 131 tools; sitemap + JSON-LD updated.
 
