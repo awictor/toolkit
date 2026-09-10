@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.23.0
+- Added HexDump (xxd-style hex dump) to Developer — now 143 tools; sitemap + JSON-LD updated.
+
 ## 2.22.0
 - Added UnitPrice (price-per-unit best-value comparator) to Everyday — now 142 tools; sitemap + JSON-LD updated.
 
