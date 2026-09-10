@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.67.0
+- Added MdPreview (live Markdown to HTML previewer) to Writing — now 66 tools; sitemap + JSON-LD updated.
+
 ## 0.66.0
 - Added GradientGen (CSS gradient generator) to Design — now 65 tools; sitemap + JSON-LD updated.
 
