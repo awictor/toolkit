@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.5.0
+- Added UAParse (user-agent string parser) to Developer — now 165 tools; sitemap + JSON-LD updated.
+
 ## 4.4.0
 - Added CAGR (compound annual growth rate calculator) to Finance — now 164 tools; sitemap + JSON-LD updated.
 
