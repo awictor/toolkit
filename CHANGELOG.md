@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.69.0
+- Added FindReplace (bulk find & replace with regex) to Writing — now 68 tools; sitemap + JSON-LD updated.
+
 ## 0.68.0
 - Added ByteSize (data size converter & humanizer) to Everyday — now 67 tools; sitemap + JSON-LD updated.
 
