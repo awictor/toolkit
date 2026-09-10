@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.57.0
+- Added ROICalc (return on investment calculator) to Finance — now 56 tools; sitemap + JSON-LD updated.
+
 ## 0.56.0
 - Added MacroCalc (macronutrient calculator) to Health — now 55 tools; sitemap + JSON-LD updated.
 
