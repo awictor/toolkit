@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.32.0
+- Added RomanNumeral (Roman numeral converter) to Developer — now 31 tools; sitemap + JSON-LD updated.
+
 ## 0.31.0
 - Added TaxCalc (sales tax & VAT calculator) to Finance — now 30 tools; sitemap + JSON-LD updated.
 
