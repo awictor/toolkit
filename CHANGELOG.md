@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.2.0
+- Added DiceOdds (dice roll probability calculator) to Everyday — now 162 tools; sitemap + JSON-LD updated.
+
 ## 4.1.0
 - Added SemVer (semantic version parser, comparator & bumper) to Developer — now 161 tools; sitemap + JSON-LD updated.
 
