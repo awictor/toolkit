@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.1.0
+- Added AvgCost (average cost & dollar-cost-averaging calculator) to Finance — now 171 tools; sitemap + JSON-LD updated.
+
 ## 5.0.0
 - 🎉 170 tools! Added MimeType (MIME type & extension lookup) to Developer. Milestone release.
 - sitemap + JSON-LD updated to 170 tools.
