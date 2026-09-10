@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.94.0
+- Added Base32 (RFC 4648 Base32 encoder/decoder) to Developer — now 93 tools; sitemap + JSON-LD updated.
+
 ## 0.93.0
 - Added DueDate (pregnancy due date calculator) to Health — now 92 tools; sitemap + JSON-LD updated.
 
