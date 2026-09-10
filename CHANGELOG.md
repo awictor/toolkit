@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.19.0
+- Added ApyApr (APR to APY interest rate converter) to Finance — now 139 tools; sitemap + JSON-LD updated.
+
 ## 2.18.0
 - Added ColorMix (color blender & step palette) to Design — now 138 tools; sitemap + JSON-LD updated.
 
