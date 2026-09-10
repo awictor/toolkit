@@ -644,3 +644,6 @@
 
 ## 0.1.0 — first release
 - Hub landing page linking MarginMaster, Runway, RateRight, and Payoff. Card grid, dark mode, link-integrity tests, CI.
+
+## 9.3.0
+- Added Beaufort (tool 213, Everyday) — offline wind speed to Beaufort scale.
