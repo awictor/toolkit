@@ -1,5 +1,8 @@
 # Changelog
 
+## 9.1.0
+- Added ConicPie (CSS pie chart / conic-gradient generator) to Design — now 211 tools; sitemap + JSON-LD updated.
+
 ## 9.0.0
 - 🎉 210 tools! Added CronDescribe (cron → plain English) to Developer. Milestone release.
 - sitemap + JSON-LD updated to 210 tools.
