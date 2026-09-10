@@ -47,4 +47,28 @@ check('sitemap.xml lists all 9 pages', () => {
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
 
+// Evaluate the hub script in a minimal DOM stub to exercise the pure filter.
+function el(){ return {value:'',textContent:'',style:{},className:'',getAttribute(){return null;},setAttribute(){},addEventListener(){},querySelectorAll(){return[];},onclick:null}; }
+globalThis.document={getElementById:()=>el(),querySelectorAll:()=>[],documentElement:el()};
+globalThis.localStorage={getItem:()=>null,setItem(){},removeItem(){}};
+globalThis.window={matchMedia:()=>({matches:false})};
+globalThis.matchMedia=globalThis.window.matchMedia;
+const js=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m=>m[1]).sort((a,b)=>b.length-a.length)[0];
+eval(js+`\n;globalThis.__t={filterTools};`);
+const filterTools=globalThis.__t.filterTools;
+
+check('filterTools: matches name or description, case-insensitive', () => {
+  const items=[{name:'MarginMaster',desc:'Amazon FBA true-profit'},{name:'Payoff',desc:'debt snowball'},{name:'NestEgg',desc:'compound interest'}];
+  assert.equal(filterTools(items,'').length, 3);
+  assert.deepEqual(filterTools(items,'debt').map(i=>i.name), ['Payoff']);
+  assert.deepEqual(filterTools(items,'AMAZON').map(i=>i.name), ['MarginMaster']);
+  assert.deepEqual(filterTools(items,'interest').map(i=>i.name), ['NestEgg']);
+  assert.equal(filterTools(items,'zzz').length, 0);
+  assert.equal(filterTools(items,'   ').length, 3); // whitespace-only = no filter
+});
+check('filterTools: supports a combined text field', () => {
+  const items=[{text:'Runway SaaS metrics'},{text:'RateRight freelance'}];
+  assert.deepEqual(filterTools(items,'saas'), [items[0]]);
+});
+
 console.log(`\n${n} checks passed.`);
