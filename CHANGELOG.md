@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.80.0
+- Added CipherNote (passphrase AES-256-GCM text encryption) to Security — now 79 tools; sitemap + JSON-LD updated.
+
 ## 0.79.0
 - Added Easing (CSS cubic-bezier generator & visualizer) to Design — now 78 tools; sitemap + JSON-LD updated.
 
