@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.31.0
+- Added TaxCalc (sales tax & VAT calculator) to Finance — now 30 tools; sitemap + JSON-LD updated.
+
 ## 0.30.0
 - Added DateDiff (date duration calculator) to Developer — now 29 tools; sitemap + JSON-LD updated.
 
