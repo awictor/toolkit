@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.6.0
+- Added Glass (glassmorphism CSS generator) to Design — now 166 tools; sitemap + JSON-LD updated.
+
 ## 4.5.0
 - Added UAParse (user-agent string parser) to Developer — now 165 tools; sitemap + JSON-LD updated.
 
