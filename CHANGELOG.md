@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.10.0
+- Added CronNext (cron next-run previewer) to Developer — now 130 tools; sitemap + JSON-LD updated.
+
 ## 2.9.0
 - Added BsaCalc (body surface area calculator) to Health — now 129 tools; sitemap + JSON-LD updated.
 
