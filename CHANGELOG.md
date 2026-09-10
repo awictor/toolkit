@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.29.0
+- Added SetOps (compare two lists) to Developer — now 149 tools; sitemap + JSON-LD updated.
+
 ## 2.28.0
 - Added Entropy (Shannon entropy calculator) to Security — now 148 tools; sitemap + JSON-LD updated.
 
