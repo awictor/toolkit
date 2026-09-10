@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.11.0
+- Added CronPal (cron expression explainer) — now 11 tools; first developer tool. sitemap + JSON-LD updated.
+
 ## 0.10.0
 - Added Contrast (WCAG color contrast checker) — now 10 tools; sitemap + JSON-LD updated.
 
