@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.10.0
+- Added Contrast (WCAG color contrast checker) — now 10 tools; sitemap + JSON-LD updated.
+
 ## 0.9.0
 - Instant search — filter the tool cards as you type (matches name & description), with a no-results message. Pure filterTools() covered by tests.
 
