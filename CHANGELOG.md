@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.6.0
+- Added LoanCalc (loan & amortization calculator) — now 7 tools; sitemap + JSON-LD updated.
+
 ## 0.5.0
 - Added TipSplit (tip & bill splitter) — now 6 tools; sitemap + JSON-LD updated.
 
