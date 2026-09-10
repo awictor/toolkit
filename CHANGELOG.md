@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.22.0
+- Added LoremGen (Lorem Ipsum generator) to Writing — now 21 tools; sitemap + JSON-LD updated.
+
 ## 0.21.0
 - Added DiffCheck (text & code diff) to Developer — now 20 tools; sitemap + JSON-LD updated.
 
