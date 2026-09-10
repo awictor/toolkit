@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.6.0
+- Added CookConvert (cooking measurement converter) to Everyday — now 176 tools; sitemap + JSON-LD updated.
+
 ## 5.5.0
 - Added CurlToFetch (curl → JavaScript fetch converter) to Developer — now 175 tools; sitemap + JSON-LD updated.
 
