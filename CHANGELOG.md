@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.5.0
+- Added ChangeMaker (cash change breakdown) to Everyday — now 205 tools; sitemap + JSON-LD updated.
+
 ## 8.4.0
 - Added MacAddress (MAC formatter & inspector) to Security — now 204 tools; sitemap + JSON-LD updated.
 
