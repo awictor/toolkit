@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.9.0
+- Instant search — filter the tool cards as you type (matches name & description), with a no-results message. Pure filterTools() covered by tests.
+
 ## 0.8.0
 - Added PassForge (password generator & strength meter) — now 9 tools; first non-finance tool. Refreshed meta description.
 
