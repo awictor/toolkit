@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.13.0
+- Added Phonetic (NATO phonetic alphabet speller) to Writing — now 113 tools; sitemap + JSON-LD updated.
+
 ## 1.12.0
 - Added HashID (hash type identifier) to Security — now 112 tools; sitemap + JSON-LD updated.
 
