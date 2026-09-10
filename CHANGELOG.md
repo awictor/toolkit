@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3.0
+- Added Base58 (Bitcoin-style Base58 encoder/decoder) to Security — now 103 tools; sitemap + JSON-LD updated.
+
 ## 1.2.0
 - Added Readability (reading level & readability scores) to Writing — now 102 tools; sitemap + JSON-LD updated.
 
