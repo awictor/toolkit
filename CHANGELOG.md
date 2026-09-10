@@ -1,5 +1,9 @@
 # Changelog
 
+## 7.0.0
+- 🎉 190 tools! Added StringEscape (multi-target string escaper) to Developer. Milestone release.
+- sitemap + JSON-LD updated to 190 tools.
+
 ## 6.9.0
 - Added SIPrefix (metric/SI prefix converter) to Everyday — now 189 tools; sitemap + JSON-LD updated.
 
