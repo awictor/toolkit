@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.28.0
+- Added Entropy (Shannon entropy calculator) to Security — now 148 tools; sitemap + JSON-LD updated.
+
 ## 2.27.0
 - Added Keyframes (CSS @keyframes animation generator) to Design — now 147 tools; sitemap + JSON-LD updated.
 
