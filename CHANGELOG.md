@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.8.0
+- Added TextGradient (gradient text CSS generator) to Design — now 198 tools; sitemap + JSON-LD updated.
+
 ## 7.7.0
 - Added Karvonen (heart-rate training zone calculator) to Health — now 197 tools; sitemap + JSON-LD updated.
 
