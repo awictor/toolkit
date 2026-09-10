@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.7.0
+- Added Typography (smart quotes & dashes converter) to Writing — now 167 tools; sitemap + JSON-LD updated.
+
 ## 4.6.0
 - Added Glass (glassmorphism CSS generator) to Design — now 166 tools; sitemap + JSON-LD updated.
 
