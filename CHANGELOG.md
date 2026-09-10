@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.2.0
+- Added Overtime (overtime pay calculator) to Finance — now 202 tools; sitemap + JSON-LD updated.
+
 ## 8.1.0
 - Added Triangle (CSS triangle & arrow generator) to Design — now 201 tools; sitemap + JSON-LD updated.
 
