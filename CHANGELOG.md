@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.62.0
+- Added AuthCode (offline TOTP / 2FA authenticator) to Security — now 61 tools; sitemap + JSON-LD updated.
+
 ## 0.61.0
 - Added ShadeGen (color tint / shade scale generator) to Design — now 60 tools. Milestone: 60 tools in the hub. Sitemap + JSON-LD updated.
 
