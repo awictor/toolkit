@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.2.0
+- Added Blob (CSS blob shape generator) to Design — now 172 tools; sitemap + JSON-LD updated.
+
 ## 5.1.0
 - Added AvgCost (average cost & dollar-cost-averaging calculator) to Finance — now 171 tools; sitemap + JSON-LD updated.
 
