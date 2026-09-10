@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.96.0
+- Added Uuid5 (name-based UUID v5 generator) to Security — now 95 tools; sitemap + JSON-LD updated.
+
 ## 0.95.0
 - Added WordFreq (word frequency counter) to Writing — now 94 tools; sitemap + JSON-LD updated.
 
