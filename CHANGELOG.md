@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.20.0
+- Added Template (placeholder filler / mail merge) to Writing — now 140 tools; sitemap + JSON-LD updated.
+
 ## 2.19.0
 - Added ApyApr (APR to APY interest rate converter) to Finance — now 139 tools; sitemap + JSON-LD updated.
 
