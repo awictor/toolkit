@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.9.0
+- Added OhmsLaw (Ohm's law & power calculator) to Everyday — now 169 tools; sitemap + JSON-LD updated.
+
 ## 4.8.0
 - Added SecHeaders (HTTP security headers analyzer) to Security — now 168 tools; sitemap + JSON-LD updated.
 
