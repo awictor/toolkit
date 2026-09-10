@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.7.0
+- Added Karvonen (heart-rate training zone calculator) to Health — now 197 tools; sitemap + JSON-LD updated.
+
 ## 7.6.0
 - Added HtmlToMd (HTML → Markdown converter) to Developer — now 196 tools; sitemap + JSON-LD updated.
 
