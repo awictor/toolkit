@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.68.0
+- Added ByteSize (data size converter & humanizer) to Everyday — now 67 tools; sitemap + JSON-LD updated.
+
 ## 0.67.0
 - Added MdPreview (live Markdown to HTML previewer) to Writing — now 66 tools; sitemap + JSON-LD updated.
 
