@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.20.0
+- Added JSONFormat (JSON formatter/validator/minifier) to Developer — now 19 tools; sitemap + JSON-LD updated.
+
 ## 0.19.0
 - Added UUIDGen (UUID v4 generator & validator) to Developer — now 18 tools; sitemap + JSON-LD updated.
 
