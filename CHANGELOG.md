@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.6.0
+- Added HttpStatus (HTTP status code reference) to Developer — now 156 tools; sitemap + JSON-LD updated.
+
 ## 3.5.0
 - Added FancyText (unicode text styler) to Writing — now 155 tools; sitemap + JSON-LD updated.
 
