@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.38.0
+- Added LineTools (sort/dedupe/clean lines) to Writing — now 37 tools; sitemap + JSON-LD updated.
+
 ## 0.37.0
 - Added PxRem (px ↔ rem/em converter) to Design — now 36 tools; sitemap + JSON-LD updated.
 
