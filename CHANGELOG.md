@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.59.0
+- Added NumWords (number to words converter) to Everyday — now 58 tools; sitemap + JSON-LD updated.
+
 ## 0.58.0
 - Added SubnetCalc (IPv4 / CIDR subnet calculator) to Developer — now 57 tools; sitemap + JSON-LD updated.
 
