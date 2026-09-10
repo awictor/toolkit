@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.8.0
+- Added PassForge (password generator & strength meter) — now 9 tools; first non-finance tool. Refreshed meta description.
+
 ## 0.7.0
 - Added NestEgg (savings & compound interest calculator) — now 8 tools; sitemap + JSON-LD updated.
 

@@ -16,6 +16,7 @@ const tools = [
   ['TipSplit', 'https://awictor.github.io/tip-split/'],
   ['LoanCalc', 'https://awictor.github.io/loan-calc/'],
   ['NestEgg', 'https://awictor.github.io/nest-egg/'],
+  ['PassForge', 'https://awictor.github.io/pass-forge/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -26,22 +27,22 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 8 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 8);
+check('exactly 9 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 9);
 });
-check('valid JSON-LD ItemList with 8 items', () => {
+check('valid JSON-LD ItemList with 9 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 8);
+  assert.equal(data.itemListElement.length, 9);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 8 pages', () => {
+check('sitemap.xml lists all 9 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 9);
+  assert.equal((sm.match(/<loc>/g) || []).length, 10);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
