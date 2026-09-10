@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.82.0
+- Added Harmony (color scheme & palette generator) to Design — now 81 tools; sitemap + JSON-LD updated.
+
 ## 0.81.0
 - Added Duration (humanize & parse time durations) to Everyday — now 80 tools. Milestone: 80 tools. Sitemap + JSON-LD updated.
 
