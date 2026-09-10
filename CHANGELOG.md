@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.83.0
+- Added DotEnv (.env to JSON converter) to Developer — now 82 tools; sitemap + JSON-LD updated.
+
 ## 0.82.0
 - Added Harmony (color scheme & palette generator) to Design — now 81 tools; sitemap + JSON-LD updated.
 
