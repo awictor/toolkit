@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.74.0
+- Added ShadowGen (CSS box-shadow generator) to Design — now 73 tools; sitemap + JSON-LD updated.
+
 ## 0.73.0
 - Added MathKit (number theory toolbox) to Everyday — now 72 tools; sitemap + JSON-LD updated.
 
