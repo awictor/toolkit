@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.1.0
+- Added Columns (align delimited text into columns) to Writing — now 151 tools; sitemap + JSON-LD updated.
+
 ## 3.0.0
 - 🎉 Milestone: 150 tools. Added Sparkline (numbers → text sparkline) to Everyday; sitemap + JSON-LD updated.
 
