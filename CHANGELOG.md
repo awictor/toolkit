@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.34.0
+- Added DiscountCalc (stacked discount & sale price) to Everyday — now 33 tools; sitemap + JSON-LD updated.
+
 ## 0.33.0
 - Added UnitConvert (unit converter) in a new Everyday category — now 32 tools, 7 categories; sitemap + JSON-LD updated.
 
