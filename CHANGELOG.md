@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.50.0
+- Added AgeCalc (age calculator & birthday countdown) to Everyday — now 49 tools; sitemap + JSON-LD updated.
+
 ## 0.49.0
 - Added TitleCase (title & text case converter) to Writing — now 48 tools; sitemap + JSON-LD updated.
 
