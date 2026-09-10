@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.2.0
+- Added Readability (reading level & readability scores) to Writing — now 102 tools; sitemap + JSON-LD updated.
+
 ## 1.1.0
 - Added QueryString (URL query string builder & parser) to Developer — now 101 tools; sitemap + JSON-LD updated.
 
