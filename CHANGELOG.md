@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.11.0
+- Added Specificity (CSS selector specificity calculator) to Developer — now 111 tools; sitemap + JSON-LD updated.
+
 ## 1.10.0
 - Added ChmodCalc (Unix file permission calculator) to Developer — now 110 tools; sitemap + JSON-LD updated.
 
