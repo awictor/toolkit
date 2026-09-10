@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.51.0
+- Added InflationCalc (inflation & purchasing power) to Finance — now 50 tools; sitemap + JSON-LD updated.
+
 ## 0.50.0
 - Added AgeCalc (age calculator & birthday countdown) to Everyday — now 49 tools; sitemap + JSON-LD updated.
 
