@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.9.0
+- Added BsaCalc (body surface area calculator) to Health — now 129 tools; sitemap + JSON-LD updated.
+
 ## 2.8.0
 - Added Redact (mask PII in text) to Writing — now 128 tools; sitemap + JSON-LD updated.
 
