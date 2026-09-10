@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.14.0
+- Added PositionSize (trading position size & risk calculator) to Finance — now 114 tools; sitemap + JSON-LD updated.
+
 ## 1.13.0
 - Added Phonetic (NATO phonetic alphabet speller) to Writing — now 113 tools; sitemap + JSON-LD updated.
 
