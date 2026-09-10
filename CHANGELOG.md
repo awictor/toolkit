@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.91.0
+- Added UlidGen (ULID generator & decoder) to Developer — now 90 tools; sitemap + JSON-LD updated.
+
 ## 0.90.0
 - Added FilterGen (CSS filter generator) to Design — now 89 tools; sitemap + JSON-LD updated.
 
