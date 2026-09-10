@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.25.0
+- Added BloodPressure (AHA category + MAP calculator) to Health — now 145 tools; sitemap + JSON-LD updated.
+
 ## 2.24.0
 - Added NanoId (compact URL-safe ID generator) to Security — now 144 tools; sitemap + JSON-LD updated.
 
