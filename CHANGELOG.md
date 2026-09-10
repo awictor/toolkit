@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.63.0
+- Added MdTable (CSV / TSV to Markdown table generator) to Writing — now 62 tools; sitemap + JSON-LD updated.
+
 ## 0.62.0
 - Added AuthCode (offline TOTP / 2FA authenticator) to Security — now 61 tools; sitemap + JSON-LD updated.
 
