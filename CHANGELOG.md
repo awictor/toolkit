@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.0
+- 🎉 Milestone: 100 tools. Added SleepCalc (sleep cycle calculator) to Health. Sitemap + JSON-LD updated. 100 offline, tested, single-file web tools across 7 categories.
+
 ## 0.100.0
 - Added JsonToCsv (JSON to CSV converter) to Developer — now 99 tools; sitemap + JSON-LD updated.
 
