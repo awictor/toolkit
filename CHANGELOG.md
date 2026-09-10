@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.45.0
+- Added OneRepMax (1RM calculator) to Health — now 44 tools; sitemap + JSON-LD updated.
+
 ## 0.44.0
 - Added TypeScale (modular type scale generator) to Design — now 43 tools; sitemap + JSON-LD updated.
 
