@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.5.0
+- Added Bitwise (bitwise operations calculator) to Developer — now 125 tools; sitemap + JSON-LD updated.
+
 ## 2.4.0
 - Added MarkupMargin (markup vs margin pricing calculator) to Finance — now 124 tools; sitemap + JSON-LD updated.
 
