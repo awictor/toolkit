@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.16.0
+- Added ColorConvert (HEX/RGB/HSL converter) to Design — now 15 tools; sitemap + JSON-LD updated.
+
 ## 0.15.0
 - Tools grouped into categories (Finance & business, Developer, Design, Security, Writing). Search now hides empty sections.
 
