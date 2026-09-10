@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.9.0
+- Added SIPrefix (metric/SI prefix converter) to Everyday — now 189 tools; sitemap + JSON-LD updated.
+
 ## 6.8.0
 - Added WeightGoal (weight-loss timeline & calorie deficit) to Health — now 188 tools; sitemap + JSON-LD updated.
 
