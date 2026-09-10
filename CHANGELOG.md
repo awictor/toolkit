@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.25.0
+- Added AspectRatio (aspect ratio calculator) to Design — now 24 tools; sitemap + JSON-LD updated.
+
 ## 0.24.0
 - Added BaseConvert (number base converter) to Developer — now 23 tools; sitemap + JSON-LD updated.
 
