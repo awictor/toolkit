@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.4.0
+- Added JsonToGo (JSON → Go struct generator) to Developer — now 184 tools; sitemap + JSON-LD updated.
+
 ## 6.3.0
 - Added SplitUp (group expense settle-up calculator) to Finance — now 183 tools; sitemap + JSON-LD updated.
 
