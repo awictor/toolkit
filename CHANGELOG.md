@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.22.0
+- Added UnitPrice (price-per-unit best-value comparator) to Everyday — now 142 tools; sitemap + JSON-LD updated.
+
 ## 2.21.0
 - Added JsonPath (extract a value from JSON by path) to Developer — now 141 tools; sitemap + JSON-LD updated.
 
