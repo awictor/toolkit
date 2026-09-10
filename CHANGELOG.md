@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.37.0
+- Added PxRem (px ↔ rem/em converter) to Design — now 36 tools; sitemap + JSON-LD updated.
+
 ## 0.36.0
 - Added PaceCalc (running pace calculator) to Health — now 35 tools; sitemap + JSON-LD updated.
 
