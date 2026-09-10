@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.41.0
+- Added MorseCode (text ↔ Morse translator) to Everyday — now 40 tools; sitemap + JSON-LD updated.
+
 ## 0.40.0
 - Added RegexTest (live regex tester) to Developer — now 39 tools; sitemap + JSON-LD updated.
 
