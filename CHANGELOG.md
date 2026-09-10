@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.100.0
+- Added JsonToCsv (JSON to CSV converter) to Developer — now 99 tools; sitemap + JSON-LD updated.
+
 ## 0.99.0
 - Added RadiusGen (CSS border-radius generator) to Design — now 98 tools; sitemap + JSON-LD updated.
 
