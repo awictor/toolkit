@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.92.0
+- Added SciNotation (scientific & engineering notation converter) to Everyday — now 91 tools; sitemap + JSON-LD updated.
+
 ## 0.91.0
 - Added UlidGen (ULID generator & decoder) to Developer — now 90 tools; sitemap + JSON-LD updated.
 
