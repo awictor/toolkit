@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.9.0
+- Added Syllables (syllable counter & haiku checker) to Writing — now 179 tools; sitemap + JSON-LD updated.
+
 ## 5.8.0
 - Added NPV (net present value & IRR calculator) to Finance — now 178 tools; sitemap + JSON-LD updated.
 
