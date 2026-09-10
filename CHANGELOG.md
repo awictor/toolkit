@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.8.0
+- Added WeightGoal (weight-loss timeline & calorie deficit) to Health — now 188 tools; sitemap + JSON-LD updated.
+
 ## 6.7.0
 - Added UuidInspect (UUID version/variant/timestamp inspector) to Security — now 187 tools; sitemap + JSON-LD updated.
 
