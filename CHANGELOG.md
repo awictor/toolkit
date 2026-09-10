@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.97.0
+- Added CalBurn (calories burned calculator) to Health — now 96 tools; sitemap + JSON-LD updated.
+
 ## 0.96.0
 - Added Uuid5 (name-based UUID v5 generator) to Security — now 95 tools; sitemap + JSON-LD updated.
 
