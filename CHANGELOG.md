@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.70.0
+- Added HmacGen (HMAC-SHA256/SHA1 signature generator) to Security — now 69 tools; sitemap + JSON-LD updated.
+
 ## 0.69.0
 - Added FindReplace (bulk find & replace with regex) to Writing — now 68 tools; sitemap + JSON-LD updated.
 
