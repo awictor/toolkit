@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.4.0
+- Added IPv6 (address expander & compressor) to Security — now 194 tools; sitemap + JSON-LD updated.
+
 ## 7.3.0
 - Added LinkExtract (URL & markdown link extractor) to Writing — now 193 tools; sitemap + JSON-LD updated.
 
