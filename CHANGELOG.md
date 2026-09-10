@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.7.0
+- Added NestEgg (savings & compound interest calculator) — now 8 tools; sitemap + JSON-LD updated.
+
 ## 0.6.0
 - Added LoanCalc (loan & amortization calculator) — now 7 tools; sitemap + JSON-LD updated.
 
