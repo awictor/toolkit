@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.5.0
+- Added WaistHeight (waist-to-height & waist-to-hip ratio) to Health — now 105 tools; sitemap + JSON-LD updated.
+
 ## 1.4.0
 - Added TransformGen (CSS transform generator) to Design — now 104 tools; sitemap + JSON-LD updated.
 
