@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.0
+- Added BreakEven (business break-even calculator) to the hub — now 5 tools.
+
 ## 0.2.0
 - SEO: canonical URL, og:url, and JSON-LD ItemList structured data for the four tools.
 
