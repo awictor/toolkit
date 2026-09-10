@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.26.0
+- Added VatCalc (add/extract sales tax) to Finance — now 146 tools; sitemap + JSON-LD updated.
+
 ## 2.25.0
 - Added BloodPressure (AHA category + MAP calculator) to Health — now 145 tools; sitemap + JSON-LD updated.
 
