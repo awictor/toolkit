@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.0
+- 🎉 160 tools! Added Neumorph (neumorphism soft-UI CSS generator) to Design. Milestone release.
+- sitemap + JSON-LD updated to 160 tools.
+
 ## 3.9.0
 - Added ResistorCalc (resistor color-code decoder) to Everyday — now 159 tools; sitemap + JSON-LD updated.
 
