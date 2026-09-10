@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.79.0
+- Added Easing (CSS cubic-bezier generator & visualizer) to Design — now 78 tools; sitemap + JSON-LD updated.
+
 ## 0.78.0
 - Added CheckDigit (barcode & ISBN check-digit validator) to Everyday — now 77 tools; sitemap + JSON-LD updated.
 
