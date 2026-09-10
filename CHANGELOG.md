@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.18.0
+- Added ColorMix (color blender & step palette) to Design — now 138 tools; sitemap + JSON-LD updated.
+
 ## 2.17.0
 - Added AuthHeader (HTTP Authorization header builder) to Security — now 137 tools; sitemap + JSON-LD updated.
 
