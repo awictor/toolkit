@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.1.0
+- Added SemVer (semantic version parser, comparator & bumper) to Developer — now 161 tools; sitemap + JSON-LD updated.
+
 ## 4.0.0
 - 🎉 160 tools! Added Neumorph (neumorphism soft-UI CSS generator) to Design. Milestone release.
 - sitemap + JSON-LD updated to 160 tools.
