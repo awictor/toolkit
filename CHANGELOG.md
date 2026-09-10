@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.21.0
+- Added DiffCheck (text & code diff) to Developer — now 20 tools; sitemap + JSON-LD updated.
+
 ## 0.20.0
 - Added JSONFormat (JSON formatter/validator/minifier) to Developer — now 19 tools; sitemap + JSON-LD updated.
 
