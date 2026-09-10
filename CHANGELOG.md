@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.4.0
+- Added CAGR (compound annual growth rate calculator) to Finance — now 164 tools; sitemap + JSON-LD updated.
+
 ## 4.3.0
 - Added VO2Max (VO₂max estimator & fitness rating) to Health — now 163 tools; sitemap + JSON-LD updated.
 
