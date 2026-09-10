@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.1.0
+- Added FeelsLike (wind chill & heat index calculator) to Health — now 181 tools; sitemap + JSON-LD updated.
+
 ## 6.0.0
 - 🎉 180 tools! Added Spinner (CSS loading spinner generator) to Design. Milestone release.
 - sitemap + JSON-LD updated to 180 tools.
