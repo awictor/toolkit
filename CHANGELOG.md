@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.3.0
+- Added Ovulation (fertile window & ovulation calculator) to Health — now 173 tools; sitemap + JSON-LD updated.
+
 ## 5.2.0
 - Added Blob (CSS blob shape generator) to Design — now 172 tools; sitemap + JSON-LD updated.
 
