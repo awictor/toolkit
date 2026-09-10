@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.49.0
+- Added TitleCase (title & text case converter) to Writing — now 48 tools; sitemap + JSON-LD updated.
+
 ## 0.48.0
 - Added SaveGoal (savings goal calculator) to Finance — now 47 tools; sitemap + JSON-LD updated.
 
