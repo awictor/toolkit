@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.3.0
+- Added VO2Max (VO₂max estimator & fitness rating) to Health — now 163 tools; sitemap + JSON-LD updated.
+
 ## 4.2.0
 - Added DiceOdds (dice roll probability calculator) to Everyday — now 162 tools; sitemap + JSON-LD updated.
 
