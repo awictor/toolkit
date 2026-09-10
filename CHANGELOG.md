@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.46.0
+- Added HTMLEntities (HTML entity encoder/decoder) to Developer — now 45 tools; sitemap + JSON-LD updated.
+
 ## 0.45.0
 - Added OneRepMax (1RM calculator) to Health — now 44 tools; sitemap + JSON-LD updated.
 
