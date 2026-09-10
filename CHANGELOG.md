@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.15.0
+- Added RecipeScaler (recipe ingredient scaler) to Everyday — now 115 tools; sitemap + JSON-LD updated.
+
 ## 1.14.0
 - Added PositionSize (trading position size & risk calculator) to Finance — now 114 tools; sitemap + JSON-LD updated.
 
