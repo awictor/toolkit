@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.0.0
+- 🎉 Milestone: 120 tools. Added BACCalc (blood alcohol estimator) to Health; sitemap + JSON-LD updated.
+
 ## 1.19.0
 - Added BizDays (business days calculator) to Everyday — now 119 tools; sitemap + JSON-LD updated.
 
