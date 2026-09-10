@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.16.0
+- Added WordWrap (text reflow & hard-wrap tool) to Writing — now 136 tools; sitemap + JSON-LD updated.
+
 ## 2.15.0
 - Added PregnancyDue (due date & gestational age calculator) to Health — now 135 tools; sitemap + JSON-LD updated.
 
