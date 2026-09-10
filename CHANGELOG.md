@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.17.0
+- Added CaseKit (text case converter) to Developer — now 16 tools; sitemap + JSON-LD updated.
+
 ## 0.16.0
 - Added ColorConvert (HEX/RGB/HSL converter) to Design — now 15 tools; sitemap + JSON-LD updated.
 
