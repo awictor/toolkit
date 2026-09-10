@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.1.0
+- Added Triangle (CSS triangle & arrow generator) to Design — now 201 tools; sitemap + JSON-LD updated.
+
 ## 8.0.0
 - 🎉 200 tools! Added JSONLines (JSON array ⇄ JSONL converter) to Developer. Major milestone.
 - sitemap + JSON-LD updated to 200 tools.
