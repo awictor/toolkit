@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.0.0
+- 🎉 Milestone: 150 tools. Added Sparkline (numbers → text sparkline) to Everyday; sitemap + JSON-LD updated.
+
 ## 2.29.0
 - Added SetOps (compare two lists) to Developer — now 149 tools; sitemap + JSON-LD updated.
 
