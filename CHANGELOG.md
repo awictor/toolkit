@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.29.0
+- Added TDEECalc (calorie & TDEE calculator) to Health — now 28 tools; sitemap + JSON-LD updated.
+
 ## 0.28.0
 - Added BMICalc (BMI calculator) in a new Health category — now 27 tools, 6 categories; sitemap + JSON-LD updated.
 
