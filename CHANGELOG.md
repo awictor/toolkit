@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.8.0
+- Added NPV (net present value & IRR calculator) to Finance — now 178 tools; sitemap + JSON-LD updated.
+
 ## 5.7.0
 - Added SecretID (leaked API key & token type detector) to Security — now 177 tools; sitemap + JSON-LD updated.
 
