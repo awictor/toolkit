@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.53.0
+- Added FractionConvert (decimal ↔ fraction) to Everyday — now 52 tools; sitemap + JSON-LD updated.
+
 ## 0.52.0
 - Added WaterIntake (daily water intake calculator) to Health — now 51 tools; sitemap + JSON-LD updated.
 
