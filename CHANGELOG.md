@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.8.0
+- Added SecHeaders (HTTP security headers analyzer) to Security — now 168 tools; sitemap + JSON-LD updated.
+
 ## 4.7.0
 - Added Typography (smart quotes & dashes converter) to Writing — now 167 tools; sitemap + JSON-LD updated.
 
