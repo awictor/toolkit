@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.19.0
+- Added UUIDGen (UUID v4 generator & validator) to Developer — now 18 tools; sitemap + JSON-LD updated.
+
 ## 0.18.0
 - Added EncodeKit (Base64 & URL encoder/decoder) to Developer — now 17 tools; sitemap + JSON-LD updated.
 
