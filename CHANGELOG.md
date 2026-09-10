@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.8.0
+- Added Glucose (blood sugar mg/dL ⇄ mmol/L converter) to Health — now 208 tools; sitemap + JSON-LD updated.
+
 ## 8.7.0
 - Added Numeronym (a11y/i18n/k8s numeronym generator) to Developer — now 207 tools; sitemap + JSON-LD updated.
 
