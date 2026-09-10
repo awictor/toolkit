@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.28.0
+- Added BMICalc (BMI calculator) in a new Health category — now 27 tools, 6 categories; sitemap + JSON-LD updated.
+
 ## 0.27.0
 - Added CSVJSON (CSV ↔ JSON converter) to Developer — now 26 tools; sitemap + JSON-LD updated.
 
