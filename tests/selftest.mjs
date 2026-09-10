@@ -104,6 +104,7 @@ const tools = [
   ['WordFreq', 'https://awictor.github.io/word-freq/'],
   ['Uuid5', 'https://awictor.github.io/uuid5/'],
   ['CalBurn', 'https://awictor.github.io/cal-burn/'],
+  ['TextReverse', 'https://awictor.github.io/text-reverse/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -114,27 +115,27 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 96 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 96);
+check('exactly 97 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 97);
 });
 check('tools grouped into category sections', () => {
   assert.equal((html.match(/class="cat"/g) || []).length, 7);
   for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing', 'Health', 'Everyday'])
     assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
 });
-check('valid JSON-LD ItemList with 96 items', () => {
+check('valid JSON-LD ItemList with 97 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 96);
+  assert.equal(data.itemListElement.length, 97);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 96 pages', () => {
+check('sitemap.xml lists all 97 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 97);
+  assert.equal((sm.match(/<loc>/g) || []).length, 98);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });

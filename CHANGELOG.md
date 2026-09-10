@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.98.0
+- Added TextReverse (reverse & flip text) to Writing — now 97 tools; sitemap + JSON-LD updated.
+
 ## 0.97.0
 - Added CalBurn (calories burned calculator) to Health — now 96 tools; sitemap + JSON-LD updated.
 
