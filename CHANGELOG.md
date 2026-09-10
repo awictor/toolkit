@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.12.0
+- Added HashID (hash type identifier) to Security — now 112 tools; sitemap + JSON-LD updated.
+
 ## 1.11.0
 - Added Specificity (CSS selector specificity calculator) to Developer — now 111 tools; sitemap + JSON-LD updated.
 
