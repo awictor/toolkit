@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.18.0
+- Added JwtSign (encode & sign JSON Web Tokens) to Security — now 118 tools; sitemap + JSON-LD updated.
+
 ## 1.17.0
 - Added SchemaGen (JSON to JSON Schema generator) to Developer — now 117 tools; sitemap + JSON-LD updated.
 
