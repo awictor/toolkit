@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.7.0
+- Added FuelCost (trip fuel cost calculator) to Everyday — now 157 tools; sitemap + JSON-LD updated.
+
 ## 3.6.0
 - Added HttpStatus (HTTP status code reference) to Developer — now 156 tools; sitemap + JSON-LD updated.
 
