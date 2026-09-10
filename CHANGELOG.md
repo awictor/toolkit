@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.60.0
+- Added HoursCalc (work hours / timesheet calculator) to Everyday — now 59 tools; sitemap + JSON-LD updated.
+
 ## 0.59.0
 - Added NumWords (number to words converter) to Everyday — now 58 tools; sitemap + JSON-LD updated.
 
