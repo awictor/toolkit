@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.58.0
+- Added SubnetCalc (IPv4 / CIDR subnet calculator) to Developer — now 57 tools; sitemap + JSON-LD updated.
+
 ## 0.57.0
 - Added ROICalc (return on investment calculator) to Finance — now 56 tools; sitemap + JSON-LD updated.
 
