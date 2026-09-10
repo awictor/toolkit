@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.6.0
+- Added Unicode (character inspector) to Developer — now 106 tools; sitemap + JSON-LD updated.
+
 ## 1.5.0
 - Added WaistHeight (waist-to-height & waist-to-hip ratio) to Health — now 105 tools; sitemap + JSON-LD updated.
 
