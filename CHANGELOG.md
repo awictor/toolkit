@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.55.0
+- Added Slugify (URL slug generator) to Developer — now 54 tools; sitemap + JSON-LD updated.
+
 ## 0.54.0
 - Added ClampGen (CSS clamp() fluid size generator) to Design — now 53 tools; sitemap + JSON-LD updated.
 
