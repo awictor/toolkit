@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.7.0
+- Added Numeronym (a11y/i18n/k8s numeronym generator) to Developer — now 207 tools; sitemap + JSON-LD updated.
+
 ## 8.6.0
 - Added CacheControl (HTTP Cache-Control header builder) to Developer — now 206 tools; sitemap + JSON-LD updated.
 
