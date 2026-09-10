@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.85.0
+- Added IdealWeight (ideal body weight calculator) to Health — now 84 tools; sitemap + JSON-LD updated.
+
 ## 0.84.0
 - Added TextClean (text cleanup utility) to Writing — now 83 tools; sitemap + JSON-LD updated.
 
