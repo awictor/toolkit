@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.40.0
+- Added RegexTest (live regex tester) to Developer — now 39 tools; sitemap + JSON-LD updated.
+
 ## 0.39.0
 - Added RandomPick (random number, dice & list picker) to Everyday — now 38 tools; sitemap + JSON-LD updated.
 
