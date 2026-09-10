@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.2.0
+- Added RoasCalc (ROAS/ACOS & break-even ad calculator) to Finance — now 192 tools; sitemap + JSON-LD updated.
+
 ## 7.1.0
 - Added Scrollbar (custom CSS scrollbar generator) to Design — now 191 tools; sitemap + JSON-LD updated.
 
