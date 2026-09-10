@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.4.0
+- Added ColorName (nearest CSS color name finder) to Design — now 154 tools; sitemap + JSON-LD updated.
+
 ## 3.3.0
 - Added BudgetSplit (50/30/20 budget allocator) to Finance — now 153 tools; sitemap + JSON-LD updated.
 
