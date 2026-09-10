@@ -1,5 +1,9 @@
 # Changelog
 
+## 8.0.0
+- 🎉 200 tools! Added JSONLines (JSON array ⇄ JSONL converter) to Developer. Major milestone.
+- sitemap + JSON-LD updated to 200 tools.
+
 ## 7.9.0
 - Added DownloadTime (file transfer time calculator) to Everyday — now 199 tools; sitemap + JSON-LD updated.
 
