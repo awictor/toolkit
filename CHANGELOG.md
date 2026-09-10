@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.73.0
+- Added MathKit (number theory toolbox) to Everyday — now 72 tools; sitemap + JSON-LD updated.
+
 ## 0.72.0
 - Added BodyFat (U.S. Navy body fat estimator) to Health — now 71 tools; sitemap + JSON-LD updated.
 
