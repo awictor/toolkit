@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.3.0
+- Added ColorBlind (color blindness palette simulator) to Design — now 123 tools; sitemap + JSON-LD updated.
+
 ## 2.2.0
 - Added JsonToYaml (JSON to YAML converter) to Developer — now 122 tools; sitemap + JSON-LD updated.
 
