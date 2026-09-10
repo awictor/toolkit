@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.2.0
+- Added RacePredict (running race time predictor) to Health — now 152 tools; sitemap + JSON-LD updated.
+
 ## 3.1.0
 - Added Columns (align delimited text into columns) to Writing — now 151 tools; sitemap + JSON-LD updated.
 
