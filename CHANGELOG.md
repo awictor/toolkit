@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.7.0
+- Added SecretID (leaked API key & token type detector) to Security — now 177 tools; sitemap + JSON-LD updated.
+
 ## 5.6.0
 - Added CookConvert (cooking measurement converter) to Everyday — now 176 tools; sitemap + JSON-LD updated.
 
