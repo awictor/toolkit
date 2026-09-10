@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.88.0
+- Added A1C (A1C to average glucose converter) to Health — now 87 tools; sitemap + JSON-LD updated.
+
 ## 0.87.0
 - Added RotCipher (Caesar/ROT13/ROT47/Atbash cipher) to Writing — now 86 tools; sitemap + JSON-LD updated.
 
