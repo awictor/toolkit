@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.24.0
+- Added BaseConvert (number base converter) to Developer — now 23 tools; sitemap + JSON-LD updated.
+
 ## 0.23.0
 - Added HashGen (SHA hash generator) to Security — now 22 tools; sitemap + JSON-LD updated.
 
