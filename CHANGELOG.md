@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.64.0
+- Added HeartZones (training heart rate zone calculator) to Health — now 63 tools; sitemap + JSON-LD updated.
+
 ## 0.63.0
 - Added MdTable (CSV / TSV to Markdown table generator) to Writing — now 62 tools; sitemap + JSON-LD updated.
 
