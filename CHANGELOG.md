@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.76.0
+- Added Amortize (loan amortization schedule) to Finance — now 75 tools; sitemap + JSON-LD updated.
+
 ## 0.75.0
 - Added TokenGen (secure random token & API-key generator) to Security — now 74 tools; sitemap + JSON-LD updated.
 
