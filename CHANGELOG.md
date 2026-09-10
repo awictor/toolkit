@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.99.0
+- Added RadiusGen (CSS border-radius generator) to Design — now 98 tools; sitemap + JSON-LD updated.
+
 ## 0.98.0
 - Added TextReverse (reverse & flip text) to Writing — now 97 tools; sitemap + JSON-LD updated.
 
