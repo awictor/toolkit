@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.8.0
+- Added Crc32 (CRC-32 checksum calculator) to Developer — now 108 tools; sitemap + JSON-LD updated.
+
 ## 1.7.0
 - Added MdToc (Markdown table of contents generator) to Writing — now 107 tools; sitemap + JSON-LD updated.
 
