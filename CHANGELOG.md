@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.3.0
+- Added BudgetSplit (50/30/20 budget allocator) to Finance — now 153 tools; sitemap + JSON-LD updated.
+
 ## 3.2.0
 - Added RacePredict (running race time predictor) to Health — now 152 tools; sitemap + JSON-LD updated.
 
