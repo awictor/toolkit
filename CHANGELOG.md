@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.18.0
+- Added EncodeKit (Base64 & URL encoder/decoder) to Developer — now 17 tools; sitemap + JSON-LD updated.
+
 ## 0.17.0
 - Added CaseKit (text case converter) to Developer — now 16 tools; sitemap + JSON-LD updated.
 
