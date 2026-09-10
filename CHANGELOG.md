@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.4.0
+- Added FastRead (fixation reading converter) to Writing — now 174 tools; sitemap + JSON-LD updated.
+
 ## 5.3.0
 - Added Ovulation (fertile window & ovulation calculator) to Health — now 173 tools; sitemap + JSON-LD updated.
 
