@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.7.0
+- Added UuidInspect (UUID version/variant/timestamp inspector) to Security — now 187 tools; sitemap + JSON-LD updated.
+
 ## 6.6.0
 - Added Pluralize (English plural/singular converter) to Writing — now 186 tools; sitemap + JSON-LD updated.
 
