@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.27.0
+- Added CSVJSON (CSV ↔ JSON converter) to Developer — now 26 tools; sitemap + JSON-LD updated.
+
 ## 0.26.0
 - Added PercentCalc (percentage calculator) to Finance — now 25 tools; sitemap + JSON-LD updated.
 
