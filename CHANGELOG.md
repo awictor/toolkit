@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.33.0
+- Added UnitConvert (unit converter) in a new Everyday category — now 32 tools, 7 categories; sitemap + JSON-LD updated.
+
 ## 0.32.0
 - Added RomanNumeral (Roman numeral converter) to Developer — now 31 tools; sitemap + JSON-LD updated.
 
