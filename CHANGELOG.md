@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.1.0
+- Added Fixate (fixation reading formatter) to Writing — now 121 tools; sitemap + JSON-LD updated.
+
 ## 2.0.0
 - 🎉 Milestone: 120 tools. Added BACCalc (blood alcohol estimator) to Health; sitemap + JSON-LD updated.
 
