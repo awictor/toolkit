@@ -1,5 +1,8 @@
 # Changelog
 
+## 3.5.0
+- Added FancyText (unicode text styler) to Writing — now 155 tools; sitemap + JSON-LD updated.
+
 ## 3.4.0
 - Added ColorName (nearest CSS color name finder) to Design — now 154 tools; sitemap + JSON-LD updated.
 
