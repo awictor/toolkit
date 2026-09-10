@@ -1,5 +1,8 @@
 # Changelog
 
+## 8.9.0
+- Added Zodiac (star sign & Chinese zodiac finder) to Everyday — now 209 tools; sitemap + JSON-LD updated.
+
 ## 8.8.0
 - Added Glucose (blood sugar mg/dL ⇄ mmol/L converter) to Health — now 208 tools; sitemap + JSON-LD updated.
 
