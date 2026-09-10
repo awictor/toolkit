@@ -1,5 +1,8 @@
 # Changelog
 
+## 5.5.0
+- Added CurlToFetch (curl → JavaScript fetch converter) to Developer — now 175 tools; sitemap + JSON-LD updated.
+
 ## 5.4.0
 - Added FastRead (fixation reading converter) to Writing — now 174 tools; sitemap + JSON-LD updated.
 
