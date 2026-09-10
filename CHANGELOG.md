@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.39.0
+- Added RandomPick (random number, dice & list picker) to Everyday — now 38 tools; sitemap + JSON-LD updated.
+
 ## 0.38.0
 - Added LineTools (sort/dedupe/clean lines) to Writing — now 37 tools; sitemap + JSON-LD updated.
 
