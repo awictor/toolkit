@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.4.0
+- Added MarkupMargin (markup vs margin pricing calculator) to Finance — now 124 tools; sitemap + JSON-LD updated.
+
 ## 2.3.0
 - Added ColorBlind (color blindness palette simulator) to Design — now 123 tools; sitemap + JSON-LD updated.
 
