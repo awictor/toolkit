@@ -1,5 +1,8 @@
 # Changelog
 
+## 7.5.0
+- Added AngleConvert (angle unit converter) to Everyday — now 195 tools; sitemap + JSON-LD updated.
+
 ## 7.4.0
 - Added IPv6 (address expander & compressor) to Security — now 194 tools; sitemap + JSON-LD updated.
 
