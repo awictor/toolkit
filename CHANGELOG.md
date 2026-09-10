@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.13.0
+- Added TimeZone (time zone converter & meeting planner) to Everyday — now 133 tools; sitemap + JSON-LD updated.
+
 ## 2.12.0
 - Added ClipPath (CSS clip-path shape generator) to Design — now 132 tools; sitemap + JSON-LD updated.
 
