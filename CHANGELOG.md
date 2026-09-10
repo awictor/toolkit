@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.81.0
+- Added Duration (humanize & parse time durations) to Everyday — now 80 tools. Milestone: 80 tools. Sitemap + JSON-LD updated.
+
 ## 0.80.0
 - Added CipherNote (passphrase AES-256-GCM text encryption) to Security — now 79 tools; sitemap + JSON-LD updated.
 
