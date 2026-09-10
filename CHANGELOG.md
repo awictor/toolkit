@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.8.0
+- Added Redact (mask PII in text) to Writing — now 128 tools; sitemap + JSON-LD updated.
+
 ## 2.7.0
 - Added Uuid7 (UUID v7 generator & inspector) to Security — now 127 tools; sitemap + JSON-LD updated.
 
