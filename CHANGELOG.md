@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.9.0
+- Added TextShadowGen (CSS text-shadow generator) to Design — now 109 tools; sitemap + JSON-LD updated.
+
 ## 1.8.0
 - Added Crc32 (CRC-32 checksum calculator) to Developer — now 108 tools; sitemap + JSON-LD updated.
 
