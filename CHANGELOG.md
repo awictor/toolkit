@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.7.0
+- Added MdToc (Markdown table of contents generator) to Writing — now 107 tools; sitemap + JSON-LD updated.
+
 ## 1.6.0
 - Added Unicode (character inspector) to Developer — now 106 tools; sitemap + JSON-LD updated.
 
