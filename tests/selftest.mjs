@@ -21,6 +21,7 @@ const tools = [
   ['CronPal', 'https://awictor.github.io/cron-pal/'],
   ['JWTPeek', 'https://awictor.github.io/jwt-peek/'],
   ['WordCount', 'https://awictor.github.io/word-count/'],
+  ['EpochConvert', 'https://awictor.github.io/epoch-convert/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -31,22 +32,22 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 13 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 13);
+check('exactly 14 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 14);
 });
-check('valid JSON-LD ItemList with 13 items', () => {
+check('valid JSON-LD ItemList with 14 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 13);
+  assert.equal(data.itemListElement.length, 14);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 13 pages', () => {
+check('sitemap.xml lists all 14 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 14);
+  assert.equal((sm.match(/<loc>/g) || []).length, 15);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
