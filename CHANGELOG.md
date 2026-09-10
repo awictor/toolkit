@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.54.0
+- Added ClampGen (CSS clamp() fluid size generator) to Design — now 53 tools; sitemap + JSON-LD updated.
+
 ## 0.53.0
 - Added FractionConvert (decimal ↔ fraction) to Everyday — now 52 tools; sitemap + JSON-LD updated.
 
