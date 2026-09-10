@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.13.0
+- Added WordCount (word & character counter) — now 13 tools; sitemap + JSON-LD updated.
+
 ## 0.12.0
 - Added JWTPeek (offline JWT decoder) — now 12 tools; sitemap + JSON-LD updated.
 
