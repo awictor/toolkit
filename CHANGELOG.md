@@ -1,5 +1,10 @@
 # Changelog
 
+## v25.0.0 — 370 tools 🎉
+- Milestone: the Toolkit now hosts **370** offline, single-file tools across 7 categories.
+- Add Extra Payment (tool 370, Finance) — how a fixed extra monthly payment shortens a loan and saves interest.
+
+
 ## v24.9.0
 - Add Pangram Checker (tool 369, Writing) — all-26-letters check with missing letters and perfect-pangram detection.
 
