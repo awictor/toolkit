@@ -1335,3 +1335,6 @@
 
 ## v28.19.0
 - Add Collatz Conjecture (419 tools) — 3n+1 sequence explorer with step count and peak.
+
+## v28.20.0
+- Add Speed Converter (420 tools) — m/s, km/h, mph, knots, ft/s.
