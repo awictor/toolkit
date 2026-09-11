@@ -1001,3 +1001,6 @@
 
 ## 21.1.0
 - Added Nihilist Cipher (tool 331, Security) — Polybius square + numeric key.
+
+## 21.2.0
+- Added Gematria Calculator (tool 332, Writing) — English letter-value sums.
