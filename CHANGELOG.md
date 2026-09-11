@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.5.0
+- Add Wells Score (DVT) (tool 355, Health) — deep vein thrombosis clinical decision rule with three- and two-tier stratification.
+
+
 ## v23.4.0
 - Add Stair Calculator (tool 354, Everyday) — riser/tread geometry and building-code checks.
 
