@@ -878,3 +878,6 @@
 
 ## 17.0.0
 - **Milestone: 290 tools.** Added Letter Frequency (tool 290, Writing) — frequency analyzer with English-baseline comparison.
+
+## 17.1.0
+- Added 401(k) Match (tool 291, Finance) — employer-match maximizer.
