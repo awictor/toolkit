@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.6.0
+- Add Coast FIRE (tool 346, Finance) — coast number and retirement projection with no further contributions.
+
+
 ## v22.5.0
 - Add Text Summarizer (tool 345, Writing) — offline extractive summarizer using word-frequency sentence scoring.
 
