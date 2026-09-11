@@ -815,3 +815,6 @@
 
 ## 14.9.0
 - Added SpacingScale (tool 269, Design) — design-token spacing scale generator.
+
+## 15.0.0
+- 🎉 Milestone: 270 tools. Added NoteFrequency (tool 270, Everyday) — musical note ⇄ frequency & tuning.
