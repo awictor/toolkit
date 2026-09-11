@@ -1402,3 +1402,6 @@
 
 ## v29.1.0
 - Add Modular Inverse (441 tools) — modular multiplicative inverse via extended Euclidean.
+
+## v29.2.0
+- Add RBC Indices (442 tools) — MCV, MCH, MCHC with an MCV size category.
