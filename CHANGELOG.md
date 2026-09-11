@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.4.0
+- Add Rainwater Harvest (tool 384, Everyday) — roof catchment gallons/liters with efficiency.
+
+
 ## v26.3.0
 - Add JsonToGraphQL (tool 383, Developer) — generate GraphQL SDL type definitions from a JSON sample.
 
