@@ -791,3 +791,6 @@
 
 ## 14.1.0
 - Added CookieParser (tool 261, Developer) — Set-Cookie header parser & security audit.
+
+## 14.2.0
+- Added CssPattern (tool 262, Design) — pure-CSS background pattern generator.
