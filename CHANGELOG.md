@@ -1274,3 +1274,7 @@
 
 ## v27.9.0
 - Add Small Caps Text (399 tools) — Unicode small-caps converter for social bios.
+
+## v28.0.0 🎉 400 tools
+- Add Haversine (400 tools) — great-circle distance & bearing between two coordinates.
+- Milestone: the Toolkit now indexes **400 offline, dependency-free web tools**, each with its own test suite and CI.
