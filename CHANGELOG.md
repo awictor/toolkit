@@ -686,3 +686,6 @@
 
 ## 10.6.0
 - Added GlobToRegex (tool 226, Developer) — glob pattern to regular expression converter.
+
+## 10.7.0
+- Added PlanetAge (tool 227, Everyday) — your age on every planet by orbital period.
