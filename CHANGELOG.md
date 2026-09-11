@@ -812,3 +812,6 @@
 
 ## 14.8.0
 - Added PasswordPolicy (tool 268, Security) — password policy rule checker.
+
+## 14.9.0
+- Added SpacingScale (tool 269, Design) — design-token spacing scale generator.
