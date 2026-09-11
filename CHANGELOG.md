@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.4.0
+- Add Bifid Cipher (tool 344, Security) — Delastelle fractionation cipher with keyword square and period.
+
+
 ## v22.3.0
 - Add IV Drip Rate (tool 343, Health) — drops per minute (gtt/min) from volume, time and drop factor.
 
