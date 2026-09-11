@@ -761,3 +761,6 @@
 
 ## 13.1.0
 - Added BirthdayParadox (tool 251, Everyday) — shared-birthday probability calculator.
+
+## 13.2.0
+- Added ColorTemp (tool 252, Design) — color temperature (Kelvin) to RGB converter.
