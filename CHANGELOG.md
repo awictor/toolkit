@@ -1326,3 +1326,6 @@
 
 ## v28.16.0
 - Add Waist-to-Hip Ratio (416 tools) — WHR with WHO health-risk category by sex.
+
+## v28.17.0
+- Add WACC Calculator (417 tools) — weighted average cost of capital with structure weights.
