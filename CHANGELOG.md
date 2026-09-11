@@ -983,3 +983,6 @@
 
 ## 20.5.0
 - Added Lexical Diversity (tool 325, Writing) — type-token ratio & vocabulary richness.
+
+## 20.6.0
+- Added Commission Calculator (tool 326, Finance) — flat & tiered sales commission.
