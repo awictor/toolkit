@@ -1004,3 +1004,6 @@
 
 ## 21.2.0
 - Added Gematria Calculator (tool 332, Writing) — English letter-value sums.
+
+## 21.3.0
+- Added Home Affordability (tool 333, Finance) — max home price from income & DTI.
