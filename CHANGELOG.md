@@ -881,3 +881,6 @@
 
 ## 17.1.0
 - Added 401(k) Match (tool 291, Finance) — employer-match maximizer.
+
+## 17.2.0
+- Added JSON Diff (tool 292, Developer) — structural JSON compare by path.
