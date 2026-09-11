@@ -776,3 +776,6 @@
 
 ## 13.6.0
 - Added IsoWeek (tool 256, Everyday) — ISO 8601 week number calculator.
+
+## 13.7.0
+- Added XorCipher (tool 257, Security) — repeating-key XOR encoder/decoder.
