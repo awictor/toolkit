@@ -1414,3 +1414,6 @@
 
 ## v29.5.0
 - Add Humidex (445 tools) — humidity feels-like index from temperature and dew point.
+
+## v29.6.0
+- Add Cooking Converter (446 tools) — tsp/tbsp/cup/fl oz/ml/L kitchen volumes.
