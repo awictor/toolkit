@@ -650,3 +650,6 @@
 
 ## 9.4.0
 - Added Semver (tool 214, Developer) — semantic version comparator & npm-style range checker.
+
+## 9.5.0
+- Added Haiku (tool 215, Writing) — syllable counter & 5-7-5 haiku validator.
