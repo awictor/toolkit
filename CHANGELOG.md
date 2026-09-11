@@ -1,5 +1,9 @@
 # Changelog
 
+## v21.7.0
+- Add SVG Wave (tool 337, Design) — layered SVG wave divider generator for website sections.
+
+
 ## v21.6.0
 - Add FENa Calculator (tool 336, Health) — fractional excretion of sodium/urea for prerenal vs intrinsic AKI.
 
