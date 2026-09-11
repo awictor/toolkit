@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.5.0
+- Add CsvToSql (tool 365, Developer) — generate SQL INSERT statements from CSV with a proper quoted-field parser.
+
+
 ## v24.4.0
 - Add Mortgage Points (tool 364, Finance) — rate-buydown break-even and lifetime savings.
 
