@@ -839,3 +839,6 @@
 
 ## 15.7.0
 - Added Bond Calculator (tool 277, Finance) — price, current yield, YTM, and duration.
+
+## 15.8.0
+- Added Punycode / IDN (tool 278, Developer) — Unicode <-> xn-- domain converter (RFC 3492).
