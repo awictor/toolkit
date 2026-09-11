@@ -683,3 +683,6 @@
 
 ## 10.5.0
 - Added JsonPointer (tool 225, Developer) — RFC 6901 JSON Pointer resolver.
+
+## 10.6.0
+- Added GlobToRegex (tool 226, Developer) — glob pattern to regular expression converter.
