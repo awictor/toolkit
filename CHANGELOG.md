@@ -755,3 +755,6 @@
 
 ## 12.9.0
 - Added Annuity (tool 249, Finance) — annuity value & lump-sum decision calculator.
+
+## 13.0.0
+- 🎉 Milestone: 250 tools. Added Soundex (tool 250, Writing) — phonetic name code & sound-alike matcher.
