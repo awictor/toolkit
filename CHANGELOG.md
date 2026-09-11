@@ -689,3 +689,6 @@
 
 ## 10.7.0
 - Added PlanetAge (tool 227, Everyday) — your age on every planet by orbital period.
+
+## 10.8.0
+- Added BaselineGrid (tool 228, Design) — vertical rhythm / baseline grid calculator.
