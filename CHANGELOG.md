@@ -851,3 +851,6 @@
 
 ## 16.1.0
 - Added CMYK Converter (tool 281, Design) — RGB/HEX <-> CMYK for print with total ink coverage.
+
+## 16.2.0
+- Added Affine Cipher (tool 282, Security) — (a·x+b) mod 26 encrypt & decrypt with key validation.
