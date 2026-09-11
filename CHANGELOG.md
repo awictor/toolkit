@@ -668,3 +668,6 @@
 
 ## 10.0.0
 - 🎉 Milestone: 220 tools. Added TireSize (tool 220, Everyday) — tire dimensions & speedometer-error calculator.
+
+## 10.1.0
+- Added IEEE754 (tool 221, Developer) — floating-point bit inspector.
