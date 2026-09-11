@@ -854,3 +854,6 @@
 
 ## 16.2.0
 - Added Affine Cipher (tool 282, Security) — (a·x+b) mod 26 encrypt & decrypt with key validation.
+
+## 16.3.0
+- Added Keyword Density (tool 283, Writing) — SEO n-gram phrase & density analyzer.
