@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.2.0
+- Add Damm Check Digit (tool 392, Security) — single-quasigroup checksum, catches all single-digit & adjacent-swap errors.
+
+
 ## v27.1.0
 - Add qSOFA (tool 391, Health) — quick sepsis-risk bedside score.
 
