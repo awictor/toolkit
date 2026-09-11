@@ -716,3 +716,6 @@
 
 ## 11.6.0
 - Added AnionGap (tool 236, Health) — serum anion gap calculator with albumin correction.
+
+## 11.7.0
+- Added PigLatin (tool 237, Writing) — English to Pig Latin translator.
