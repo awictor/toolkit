@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.2.0
+- Add Rent vs Buy (tool 352, Finance) — net-cost comparison of renting versus buying a home over time.
+
+
 ## v23.1.0
 - Add Manuscript Stats (tool 351, Writing) — standard pages, SFWA length category, and reading/speaking time from a word count.
 
