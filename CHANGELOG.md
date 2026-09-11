@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.7.0
+- Add Word Echo Finder (tool 357, Writing) — flags words repeated too close together.
+
+
 ## v23.6.0
 - Add Autokey Cipher (tool 356, Security) — self-keying Vigenère variant, encrypt and decrypt.
 
