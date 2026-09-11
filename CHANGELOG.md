@@ -1,5 +1,10 @@
 # Changelog
 
+## v27.0.0 — 390 tools 🎉
+- Milestone: the Toolkit now hosts **390** offline, single-file tools across 7 categories.
+- Add Fence Calculator (tool 390, Everyday) — posts, sections, rails and pickets.
+
+
 ## v26.9.0
 - Add JsonToCSharp (tool 389, Developer) — generate C# classes from a JSON sample.
 
