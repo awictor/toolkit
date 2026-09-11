@@ -866,3 +866,6 @@
 
 ## 16.6.0
 - Added Pizza Dough (tool 286, Everyday) — bakers-percentage dough calculator.
+
+## 16.7.0
+- Added Parkland Formula (tool 287, Health) — burn fluid resuscitation calculator.
