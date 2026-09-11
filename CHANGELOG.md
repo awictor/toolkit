@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.7.0
+- Add Centor / McIsaac (tool 367, Health) — strep-throat probability with age modifier and testing guidance.
+
+
 ## v24.6.0
 - Add Firewood Calculator (tool 366, Everyday) — cords, face cords and cost from a stack.
 
