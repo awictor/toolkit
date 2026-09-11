@@ -662,3 +662,6 @@
 
 ## 9.8.0
 - Added GoldenRatio (tool 218, Design) — divine proportion calculator (split, scale, rectangle, φ sequence).
+
+## 9.9.0
+- Added CvssCalc (tool 219, Security) — CVSS v3.1 base score calculator.
