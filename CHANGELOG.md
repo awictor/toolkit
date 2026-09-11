@@ -980,3 +980,6 @@
 
 ## 20.4.0
 - Added Gronsfeld Cipher (tool 324, Security) — numeric-key Vigenère.
+
+## 20.5.0
+- Added Lexical Diversity (tool 325, Writing) — type-token ratio & vocabulary richness.
