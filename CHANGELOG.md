@@ -722,3 +722,6 @@
 
 ## 11.8.0
 - Added Backoff (tool 238, Developer) — exponential backoff retry schedule calculator.
+
+## 11.9.0
+- Added BpmDelay (tool 239, Everyday) — BPM to delay time & note duration calculator.
