@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.3.0
+- Add MELD-Na (tool 373, Health) — MELD and MELD-Na end-stage liver disease scores.
+
+
 ## v25.2.0
 - Add Meat Temperature Guide (tool 372, Everyday) — USDA safe temps and a beef doneness chart.
 
