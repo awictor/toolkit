@@ -1365,3 +1365,6 @@
 
 ## v28.29.0
 - Add Power Converter (429 tools) — W/kW/MW, mechanical & metric hp, BTU/h, ft·lb/s.
+
+## v28.30.0
+- Add Force Converter (430 tools) — N/kN/kgf/lbf/ozf/dyne.
