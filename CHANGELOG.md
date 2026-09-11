@@ -1332,3 +1332,6 @@
 
 ## v28.18.0
 - Add Combinations & Permutations (418 tools) — exact nCr, nPr, and factorials.
+
+## v28.19.0
+- Add Collatz Conjecture (419 tools) — 3n+1 sequence explorer with step count and peak.
