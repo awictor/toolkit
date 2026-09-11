@@ -965,3 +965,6 @@
 
 ## 19.9.0
 - Added Emergency Fund (tool 319, Finance) — months covered, target & time to reach it.
+
+## 20.0.0
+- **Milestone: 320 tools.** Added CRC Calculator (tool 320, Developer) — multi-polynomial CRC-8/16/32.
