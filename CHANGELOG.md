@@ -719,3 +719,6 @@
 
 ## 11.7.0
 - Added PigLatin (tool 237, Writing) — English to Pig Latin translator.
+
+## 11.8.0
+- Added Backoff (tool 238, Developer) — exponential backoff retry schedule calculator.
