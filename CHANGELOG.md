@@ -671,3 +671,6 @@
 
 ## 10.1.0
 - Added IEEE754 (tool 221, Developer) — floating-point bit inspector.
+
+## 10.2.0
+- Added PassiveVoice (tool 222, Writing) — passive voice detector.
