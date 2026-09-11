@@ -1,5 +1,9 @@
 # Changelog
 
+## v21.9.0
+- Add Sentence Rhythm (tool 339, Writing) — sentence-length variety analyzer with a prose-rhythm score.
+
+
 ## v21.8.0
 - Add Passphrase (tool 338, Security) — memorable crypto-random passphrase generator with entropy readout.
 
