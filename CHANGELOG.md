@@ -1323,3 +1323,6 @@
 
 ## v28.15.0
 - Add Prime Factorization (415 tools) — factor integers into primes, with a primality test.
+
+## v28.16.0
+- Add Waist-to-Hip Ratio (416 tools) — WHR with WHO health-risk category by sex.
