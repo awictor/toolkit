@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.9.0
+- Add JsonToCSharp (tool 389, Developer) — generate C# classes from a JSON sample.
+
+
 ## v26.8.0
 - Add Lease vs Buy (tool 388, Finance) — auto lease vs finance net-cost comparison.
 
