@@ -830,3 +830,6 @@
 
 ## 15.4.0
 - Added APCA Contrast (tool 274, Design) — APCA/WCAG 3 perceptual text-contrast checker (Lc).
+
+## 15.5.0
+- Added Playfair (tool 275, Security) — classic Playfair 5x5 digraph cipher, encrypt & decrypt.
