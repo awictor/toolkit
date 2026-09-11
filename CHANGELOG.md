@@ -749,3 +749,6 @@
 
 ## 12.7.0
 - Added Base85 (tool 247, Developer) — Ascii85 (base85) encoder/decoder.
+
+## 12.8.0
+- Added LetterSpacing (tool 248, Design) — tracking to CSS letter-spacing converter.
