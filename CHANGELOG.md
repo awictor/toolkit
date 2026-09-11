@@ -1320,3 +1320,6 @@
 
 ## v28.14.0
 - Add Remove Diacritics (414 tools) — strip accents to plain ASCII (café → cafe).
+
+## v28.15.0
+- Add Prime Factorization (415 tools) — factor integers into primes, with a primality test.
