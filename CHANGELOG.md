@@ -947,3 +947,6 @@
 
 ## 19.3.0
 - Added JSON to Rust (tool 313, Developer) — generate serde structs from JSON.
+
+## 19.4.0
+- Added Concrete Calculator (tool 314, Everyday) — slab volume & bags.
