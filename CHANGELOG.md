@@ -701,3 +701,6 @@
 
 ## 11.1.0
 - Added Vigenere (tool 231, Security) — Vigenère cipher encoder/decoder.
+
+## 11.2.0
+- Added CreditUtilization (tool 232, Finance) — credit card utilization ratio calculator.
