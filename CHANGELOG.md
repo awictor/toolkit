@@ -1,5 +1,9 @@
 # Changelog
 
+## v21.8.0
+- Add Passphrase (tool 338, Security) — memorable crypto-random passphrase generator with entropy readout.
+
+
 ## v21.7.0
 - Add SVG Wave (tool 337, Design) — layered SVG wave divider generator for website sections.
 
