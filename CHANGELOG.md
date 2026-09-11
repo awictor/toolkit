@@ -917,3 +917,6 @@
 
 ## 18.3.0
 - Added Columnar Transposition (tool 303, Security) — keyword-ordered transposition cipher.
+
+## 18.4.0
+- Added Adverb Finder (tool 304, Writing) — flags -ly adverbs to tighten prose.
