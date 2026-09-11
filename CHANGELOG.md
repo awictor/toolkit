@@ -1359,3 +1359,6 @@
 
 ## v28.27.0
 - Add Energy Converter (427 tools) — J/cal/kWh/BTU/ft·lb/eV.
+
+## v28.28.0
+- Add Churn & Retention (428 tools) — churn/retention/lifetime + monthly↔annual conversion.
