@@ -782,3 +782,6 @@
 
 ## 13.8.0
 - Added CostPerUse (tool 258, Finance) — cost-per-use / cost-per-wear calculator.
+
+## 13.9.0
+- Added CorrectedCalcium (tool 259, Health) — albumin-corrected calcium calculator.
