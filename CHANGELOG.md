@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.1.0
+- Add JsonToSql (tool 341, Developer) — generate a CREATE TABLE from a JSON sample with inferred types (PostgreSQL/MySQL/SQLite).
+
+
 ## v22.0.0 — 340 tools 🎉
 - Milestone: the Toolkit now hosts **340** offline, single-file tools across 7 categories.
 - Add Card Payoff (tool 340, Finance) — credit-card minimum-payment true-cost calculator.
