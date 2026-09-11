@@ -740,3 +740,6 @@
 
 ## 12.4.0
 - Added QTc (tool 244, Health) — corrected QT interval calculator.
+
+## 12.5.0
+- Added Leetspeak (tool 245, Writing) — l33t sp34k translator.
