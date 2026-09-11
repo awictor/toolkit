@@ -1,5 +1,10 @@
 # Changelog
 
+## v22.0.0 — 340 tools 🎉
+- Milestone: the Toolkit now hosts **340** offline, single-file tools across 7 categories.
+- Add Card Payoff (tool 340, Finance) — credit-card minimum-payment true-cost calculator.
+
+
 ## v21.9.0
 - Add Sentence Rhythm (tool 339, Writing) — sentence-length variety analyzer with a prose-rhythm score.
 
