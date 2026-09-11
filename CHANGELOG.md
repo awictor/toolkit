@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.7.0
+- Add JsonKeyCase (tool 377, Developer) — deeply recase JSON keys between camelCase, snake_case, kebab and Pascal.
+
+
 ## v25.6.0
 - Add Cap Rate (tool 376, Finance) — rental property NOI, cap rate, cash-on-cash and GRM.
 
