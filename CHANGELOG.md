@@ -737,3 +737,6 @@
 
 ## 12.3.0
 - Added HexAlpha (tool 243, Design) — opacity to hex alpha (#RRGGBBAA) converter.
+
+## 12.4.0
+- Added QTc (tool 244, Health) — corrected QT interval calculator.
