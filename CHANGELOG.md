@@ -1408,3 +1408,6 @@
 
 ## v29.3.0
 - Add Armstrong Numbers (443 tools) — narcissistic number checker & finder.
+
+## v29.4.0
+- Add BUN/Creatinine Ratio (444 tools) — ratio with low/normal/high interpretation band.
