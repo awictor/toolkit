@@ -1389,3 +1389,6 @@
 
 ## v28.37.0
 - Add Fibonacci Calculator (437 tools) — nth term, sequence, and membership test.
+
+## v28.38.0
+- Add Digital Root (438 tools) — digit sum, digital root, and additive persistence.
