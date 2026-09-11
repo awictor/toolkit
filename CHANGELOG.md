@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.5.0
+- Add Text Summarizer (tool 345, Writing) — offline extractive summarizer using word-frequency sentence scoring.
+
+
 ## v22.4.0
 - Add Bifid Cipher (tool 344, Security) — Delastelle fractionation cipher with keyword square and period.
 
