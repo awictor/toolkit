@@ -1405,3 +1405,6 @@
 
 ## v29.2.0
 - Add RBC Indices (442 tools) — MCV, MCH, MCHC with an MCV size category.
+
+## v29.3.0
+- Add Armstrong Numbers (443 tools) — narcissistic number checker & finder.
