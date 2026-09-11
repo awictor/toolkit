@@ -992,3 +992,6 @@
 
 ## 20.8.0
 - Added Mulch & Soil (tool 328, Everyday) — landscaping volume & bags.
+
+## 20.9.0
+- Added Free Water Deficit (tool 329, Health) — hypernatremia water-deficit calculator.
