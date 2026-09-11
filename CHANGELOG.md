@@ -1362,3 +1362,6 @@
 
 ## v28.28.0
 - Add Churn & Retention (428 tools) — churn/retention/lifetime + monthly↔annual conversion.
+
+## v28.29.0
+- Add Power Converter (429 tools) — W/kW/MW, mechanical & metric hp, BTU/h, ft·lb/s.
