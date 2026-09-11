@@ -1317,3 +1317,6 @@
 
 ## v28.13.0
 - Add Inventory Turnover (413 tools) — turnover ratio & days sales of inventory for retail/FBA.
+
+## v28.14.0
+- Add Remove Diacritics (414 tools) — strip accents to plain ASCII (café → cafe).
