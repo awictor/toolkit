@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.2.0
+- Add Beaufort Cipher (tool 362, Security) — self-reciprocal polyalphabetic cipher.
+
+
 ## v24.1.0
 - Add CURB-65 (tool 361, Health) — community-acquired pneumonia severity score with risk band and disposition.
 
