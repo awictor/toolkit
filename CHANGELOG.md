@@ -836,3 +836,6 @@
 
 ## 15.6.0
 - Added Invisible Characters (tool 276, Writing) — detect & remove hidden Unicode (zero-width, NBSP, BOM, bidi).
+
+## 15.7.0
+- Added Bond Calculator (tool 277, Finance) — price, current yield, YTM, and duration.
