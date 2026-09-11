@@ -752,3 +752,6 @@
 
 ## 12.8.0
 - Added LetterSpacing (tool 248, Design) — tracking to CSS letter-spacing converter.
+
+## 12.9.0
+- Added Annuity (tool 249, Finance) — annuity value & lump-sum decision calculator.
