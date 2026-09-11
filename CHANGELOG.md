@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.8.0
+- Add Lease vs Buy (tool 388, Finance) — auto lease vs finance net-cost comparison.
+
+
 ## v26.7.0
 - Add Full-Width Text (tool 387, Writing) — vaporwave full-width Unicode converter, both directions.
 
