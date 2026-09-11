@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.3.0
+- Add Alliteration Finder (tool 363, Writing) — find runs of nearby words sharing an initial sound.
+
+
 ## v24.2.0
 - Add Beaufort Cipher (tool 362, Security) — self-reciprocal polyalphabetic cipher.
 
