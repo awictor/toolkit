@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.9.0
+- Add Glasgow Coma Scale (tool 379, Health) — GCS total and severity from eye/verbal/motor responses.
+
+
 ## v25.8.0
 - Add AC BTU Calculator (tool 378, Everyday) — room cooling-load estimate with ENERGY STAR adjustments.
 
