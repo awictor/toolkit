@@ -929,3 +929,6 @@
 
 ## 18.7.0
 - Added Tile Calculator (tool 307, Everyday) — tiles & boxes for an area.
+
+## 18.8.0
+- Added Wilks Calculator (tool 308, Health) — powerlifting strength score.
