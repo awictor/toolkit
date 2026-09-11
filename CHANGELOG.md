@@ -1383,3 +1383,6 @@
 
 ## v28.35.0
 - Add Dice Roller (435 tools) — parse dice notation for min/max/average and roll with breakdown.
+
+## v28.36.0
+- Add Quadratic Solver (436 tools) — discriminant, real/complex roots, and vertex.
