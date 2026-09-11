@@ -1347,3 +1347,6 @@
 
 ## v28.23.0
 - Add Reading Time Estimator (423 tools) — reading & speaking time with adjustable speed.
+
+## v28.24.0
+- Add CAC & LTV (424 tools) — customer acquisition cost, lifetime value, LTV:CAC ratio, payback.
