@@ -956,3 +956,6 @@
 
 ## 19.6.0
 - Added Color Steps (tool 316, Design) — interpolate a palette between two colors.
+
+## 19.7.0
+- Added Bcrypt Inspector (tool 317, Security) — parse a bcrypt hash & read its work factor.
