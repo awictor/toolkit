@@ -863,3 +863,6 @@
 
 ## 16.5.0
 - Added HTML to JSX (tool 285, Developer) — convert HTML to React JSX.
+
+## 16.6.0
+- Added Pizza Dough (tool 286, Everyday) — bakers-percentage dough calculator.
