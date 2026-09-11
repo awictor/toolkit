@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.4.0
+- Add Stair Calculator (tool 354, Everyday) — riser/tread geometry and building-code checks.
+
+
 ## v23.3.0
 - Add JsonFlatten (tool 353, Developer) — flatten nested JSON to dot-notation keys and expand it back (lossless).
 
