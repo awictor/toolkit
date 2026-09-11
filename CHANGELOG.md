@@ -944,3 +944,6 @@
 
 ## 19.2.0
 - Added Payback Period (tool 312, Finance) — simple & discounted investment payback.
+
+## 19.3.0
+- Added JSON to Rust (tool 313, Developer) — generate serde structs from JSON.
