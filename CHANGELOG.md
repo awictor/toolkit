@@ -1293,3 +1293,6 @@
 
 ## v28.5.0
 - Add Fuel Economy Converter (405 tools) — US/UK MPG ↔ L/100 km ↔ km/L.
+
+## v28.6.0
+- Add EOQ Calculator (406 tools) — economic order quantity, cost breakdown, and reorder point.
