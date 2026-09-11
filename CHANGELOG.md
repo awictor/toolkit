@@ -692,3 +692,6 @@
 
 ## 10.8.0
 - Added BaselineGrid (tool 228, Design) — vertical rhythm / baseline grid calculator.
+
+## 10.9.0
+- Added WeaselWords (tool 229, Writing) — weasel & filler word detector.
