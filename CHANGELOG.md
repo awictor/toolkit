@@ -1417,3 +1417,6 @@
 
 ## v29.6.0
 - Add Cooking Converter (446 tools) — tsp/tbsp/cup/fl oz/ml/L kitchen volumes.
+
+## v29.7.0
+- Add Perfect Numbers (447 tools) — perfect/abundant/deficient checker & finder.
