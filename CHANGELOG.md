@@ -788,3 +788,6 @@
 
 ## 14.0.0
 - 🎉 Milestone: 260 tools. Added Braille (tool 260, Writing) — text ⇄ Braille (Grade 1) translator.
+
+## 14.1.0
+- Added CookieParser (tool 261, Developer) — Set-Cookie header parser & security audit.
