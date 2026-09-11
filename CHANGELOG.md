@@ -1356,3 +1356,6 @@
 
 ## v28.26.0
 - Add Line Height Calculator (426 tools) — ratio↔px, leading, recommended body range.
+
+## v28.27.0
+- Add Energy Converter (427 tools) — J/cal/kWh/BTU/ft·lb/eV.
