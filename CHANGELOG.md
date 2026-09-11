@@ -899,3 +899,6 @@
 
 ## 17.7.0
 - Added Wordiness Reducer (tool 297, Writing) — flags wordy phrases with concise swaps.
+
+## 17.8.0
+- Added Dividend Calculator (tool 298, Finance) — yield, income & yield on cost.
