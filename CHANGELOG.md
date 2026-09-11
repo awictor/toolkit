@@ -1314,3 +1314,6 @@
 
 ## v28.12.0
 - Add Gray Code Converter (412 tools) — encode/decode reflected binary Gray code.
+
+## v28.13.0
+- Add Inventory Turnover (413 tools) — turnover ratio & days sales of inventory for retail/FBA.
