@@ -1374,3 +1374,6 @@
 
 ## v28.32.0
 - Add Adler-32 Checksum (432 tools) — the zlib checksum, in hex and decimal.
+
+## v28.33.0
+- Add Torque Converter (433 tools) — N·m/kN·m/kgf·m/lbf·ft/lbf·in/ozf·in.
