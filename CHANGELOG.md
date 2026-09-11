@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.8.0
+- Add Pizza Value (tool 348, Everyday) — compare pizzas by price per square inch to find the best deal.
+
+
 ## v22.7.0
 - Add JsonToZod (tool 347, Developer) — generate a Zod validation schema and TypeScript type from a JSON sample.
 
