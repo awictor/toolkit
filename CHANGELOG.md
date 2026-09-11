@@ -1,5 +1,10 @@
 # Changelog
 
+## v26.0.0 — 380 tools 🎉
+- Milestone: the Toolkit now hosts **380** offline, single-file tools across 7 categories.
+- Add Two-Square Cipher (tool 380, Security) — double-Playfair self-reciprocal digraph cipher.
+
+
 ## v25.9.0
 - Add Glasgow Coma Scale (tool 379, Health) — GCS total and severity from eye/verbal/motor responses.
 
