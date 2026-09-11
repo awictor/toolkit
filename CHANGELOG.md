@@ -1,5 +1,10 @@
 # Changelog
 
+## v23.0.0 — 350 tools 🎉
+- Milestone: the Toolkit now hosts **350** offline, single-file tools across 7 categories.
+- Add Verhoeff Check Digit (tool 350, Security) — generate/validate with the correct permutation table (catches all single-digit errors & adjacent swaps).
+
+
 ## v22.9.0
 - Add LDL Cholesterol (tool 349, Health) — Friedewald LDL estimate with non-HDL and total:HDL ratio.
 
