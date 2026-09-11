@@ -1,5 +1,10 @@
 # Changelog
 
+## v24.0.0 — 360 tools 🎉
+- Milestone: the Toolkit now hosts **360** offline, single-file tools across 7 categories.
+- Add Roof Pitch (tool 360, Everyday) — pitch, angle, slope factor and rafter length from rise and run.
+
+
 ## v23.9.0
 - Add JsonToKotlin (tool 359, Developer) — generate Kotlin data classes from a JSON sample.
 
