@@ -764,3 +764,6 @@
 
 ## 13.2.0
 - Added ColorTemp (tool 252, Design) — color temperature (Kelvin) to RGB converter.
+
+## 13.3.0
+- Added TwosComplement (tool 253, Developer) — signed integer binary/hex viewer.
