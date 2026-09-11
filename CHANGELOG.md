@@ -1386,3 +1386,6 @@
 
 ## v28.36.0
 - Add Quadratic Solver (436 tools) — discriminant, real/complex roots, and vertex.
+
+## v28.37.0
+- Add Fibonacci Calculator (437 tools) — nth term, sequence, and membership test.
