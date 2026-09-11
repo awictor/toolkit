@@ -998,3 +998,6 @@
 
 ## 21.0.0
 - **Milestone: 330 tools.** Added Palette from Image (tool 330, Design) — extract a color palette from a photo, fully local.
+
+## 21.1.0
+- Added Nihilist Cipher (tool 331, Security) — Polybius square + numeric key.
