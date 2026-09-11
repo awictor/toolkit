@@ -950,3 +950,6 @@
 
 ## 19.4.0
 - Added Concrete Calculator (tool 314, Everyday) — slab volume & bags.
+
+## 19.5.0
+- Added Winters' Formula (tool 315, Health) — expected PaCO2 in metabolic acidosis.
