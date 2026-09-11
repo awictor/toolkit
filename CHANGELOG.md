@@ -734,3 +734,6 @@
 
 ## 12.2.0
 - Added SnowflakeId (tool 242, Developer) — Discord/Twitter Snowflake ID decoder.
+
+## 12.3.0
+- Added HexAlpha (tool 243, Design) — opacity to hex alpha (#RRGGBBAA) converter.
