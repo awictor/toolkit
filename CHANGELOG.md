@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.1.0
+- Add Homophone Checker (tool 381, Writing) — flags commonly confused homophones with alternatives.
+
+
 ## v26.0.0 — 380 tools 🎉
 - Milestone: the Toolkit now hosts **380** offline, single-file tools across 7 categories.
 - Add Two-Square Cipher (tool 380, Security) — double-Playfair self-reciprocal digraph cipher.
