@@ -803,3 +803,6 @@
 
 ## 14.5.0
 - Added MaintenanceFluids (tool 265, Health) — IV maintenance fluid rate calculator.
+
+## 14.6.0
+- Added Acronym (tool 266, Writing) — acronym & initialism generator.
