@@ -1338,3 +1338,6 @@
 
 ## v28.20.0
 - Add Speed Converter (420 tools) — m/s, km/h, mph, knots, ft/s.
+
+## v28.21.0
+- Add Hamming Distance (421 tools) — differing positions between equal-length strings / bits between integers.
