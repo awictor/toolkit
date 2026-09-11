@@ -659,3 +659,6 @@
 
 ## 9.7.0
 - Added FireCalc (tool 217, Finance) — financial independence (FIRE) calculator.
+
+## 9.8.0
+- Added GoldenRatio (tool 218, Design) — divine proportion calculator (split, scale, rectangle, φ sequence).
