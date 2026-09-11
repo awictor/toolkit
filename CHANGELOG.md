@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.6.0
+- Add Deck Board Calculator (tool 396, Everyday) — rows, linear feet and boards with waste allowance.
+
+
 ## v27.5.0
 - Add JsonToSwift (tool 395, Developer) — generate Swift Codable structs from a JSON sample.
 
