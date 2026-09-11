@@ -728,3 +728,6 @@
 
 ## 12.0.0
 - 🎉 Milestone: 240 tools. Added RailFence (tool 240, Security) — rail fence transposition cipher.
+
+## 12.1.0
+- Added RuleOf72 (tool 241, Finance) — doubling time & Rule of 72 calculator.
