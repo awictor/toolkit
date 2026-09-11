@@ -905,3 +905,6 @@
 
 ## 17.9.0
 - Added Checksum (tool 299, Developer) — Adler-32 & Fletcher-16.
+
+## 18.0.0
+- **Milestone: 300 tools.** Added Paint Calculator (tool 300, Everyday) — how much paint a room needs.
