@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.3.0
+- Add JsonToGraphQL (tool 383, Developer) — generate GraphQL SDL type definitions from a JSON sample.
+
+
 ## v26.2.0
 - Add Loan-to-Value (tool 382, Finance) — LTV, combined LTV, PMI threshold and pay-down amount.
 
