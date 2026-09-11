@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.2.0
+- Add Loan-to-Value (tool 382, Finance) — LTV, combined LTV, PMI threshold and pay-down amount.
+
+
 ## v26.1.0
 - Add Homophone Checker (tool 381, Writing) — flags commonly confused homophones with alternatives.
 
