@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.4.0
+- Add Mortgage Points (tool 364, Finance) — rate-buydown break-even and lifetime savings.
+
+
 ## v24.3.0
 - Add Alliteration Finder (tool 363, Writing) — find runs of nearby words sharing an initial sound.
 
