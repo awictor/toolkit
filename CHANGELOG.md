@@ -725,3 +725,6 @@
 
 ## 11.9.0
 - Added BpmDelay (tool 239, Everyday) — BPM to delay time & note duration calculator.
+
+## 12.0.0
+- 🎉 Milestone: 240 tools. Added RailFence (tool 240, Security) — rail fence transposition cipher.
