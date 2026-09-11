@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.4.0
+- Add Take-Home Pay (tool 394, Finance) — net paycheck estimator with deductions, income tax and FICA.
+
+
 ## v27.3.0
 - Add Zalgo Text (tool 393, Writing) — glitch/cursed text generator with adjustable intensity + cleaner.
 
