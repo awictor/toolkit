@@ -1311,3 +1311,6 @@
 
 ## v28.11.0
 - Add Pressure Converter (411 tools) — Pa/kPa/bar/psi/atm/mmHg/inHg, all at once.
+
+## v28.12.0
+- Add Gray Code Converter (412 tools) — encode/decode reflected binary Gray code.
