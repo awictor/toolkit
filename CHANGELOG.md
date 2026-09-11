@@ -1329,3 +1329,6 @@
 
 ## v28.17.0
 - Add WACC Calculator (417 tools) — weighted average cost of capital with structure weights.
+
+## v28.18.0
+- Add Combinations & Permutations (418 tools) — exact nCr, nPr, and factorials.
