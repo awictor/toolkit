@@ -1420,3 +1420,6 @@
 
 ## v29.7.0
 - Add Perfect Numbers (447 tools) — perfect/abundant/deficient checker & finder.
+
+## v29.8.0
+- Add GMROI (448 tools) — gross margin return on inventory investment.
