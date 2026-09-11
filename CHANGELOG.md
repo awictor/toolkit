@@ -1380,3 +1380,6 @@
 
 ## v28.34.0
 - Add Frequency ↔ Wavelength (434 tools) — EM frequency/wavelength with period and antenna lengths.
+
+## v28.35.0
+- Add Dice Roller (435 tools) — parse dice notation for min/max/average and roll with breakdown.
