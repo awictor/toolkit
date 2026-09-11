@@ -743,3 +743,6 @@
 
 ## 12.5.0
 - Added Leetspeak (tool 245, Writing) — l33t sp34k translator.
+
+## 12.6.0
+- Added PetAge (tool 246, Everyday) — dog & cat age in human years.
