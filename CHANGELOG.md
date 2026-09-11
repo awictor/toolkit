@@ -914,3 +914,6 @@
 
 ## 18.2.0
 - Added CIELAB + ΔE (tool 302, Design) — LAB converter and color difference.
+
+## 18.3.0
+- Added Columnar Transposition (tool 303, Security) — keyword-ordered transposition cipher.
