@@ -1302,3 +1302,6 @@
 
 ## v28.8.0
 - Add Statistics Calculator (408 tools) — mean/median/mode/variance/stdev/quartiles from a number list.
+
+## v28.9.0
+- Add Scrabble Score (409 tools) — standard English tile-value word scorer with per-letter breakdown.
