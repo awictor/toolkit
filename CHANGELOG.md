@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.1.0
+- Add IniJson (tool 371, Developer) — INI ⇄ JSON config converter with a lossless round-trip.
+
+
 ## v25.0.0 — 370 tools 🎉
 - Milestone: the Toolkit now hosts **370** offline, single-file tools across 7 categories.
 - Add Extra Payment (tool 370, Finance) — how a fixed extra monthly payment shortens a loan and saves interest.
