@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.6.0
+- Add ADFGVX Cipher (tool 386, Security) — WWII fractionating Polybius + columnar transposition cipher.
+
+
 ## v26.5.0
 - Add APGAR Score (tool 385, Health) — newborn assessment total and interpretation.
 
