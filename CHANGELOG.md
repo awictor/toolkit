@@ -935,3 +935,6 @@
 
 ## 18.9.0
 - Added Viewport Units (tool 309, Design) — px <-> vw/vh/vmin/vmax converter.
+
+## 19.0.0
+- **Milestone: 310 tools.** Added HOTP Generator (tool 310, Security) — RFC 4226 OTP with from-scratch SHA-1/HMAC.
