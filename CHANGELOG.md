@@ -1377,3 +1377,6 @@
 
 ## v28.33.0
 - Add Torque Converter (433 tools) — N·m/kN·m/kgf·m/lbf·ft/lbf·in/ozf·in.
+
+## v28.34.0
+- Add Frequency ↔ Wavelength (434 tools) — EM frequency/wavelength with period and antenna lengths.
