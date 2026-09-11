@@ -806,3 +806,6 @@
 
 ## 14.6.0
 - Added Acronym (tool 266, Writing) — acronym & initialism generator.
+
+## 14.7.0
+- Added AsciiTable (tool 267, Developer) — ASCII reference table & lookup.
