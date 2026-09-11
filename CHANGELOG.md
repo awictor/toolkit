@@ -1296,3 +1296,6 @@
 
 ## v28.6.0
 - Add EOQ Calculator (406 tools) — economic order quantity, cost breakdown, and reorder point.
+
+## v28.7.0
+- Add Credit Card Validator (407 tools) — Luhn check + card-brand detection, fully offline.
