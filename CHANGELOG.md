@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.8.0
+- Add Base45 (tool 398, Developer) — RFC 9285 encoder/decoder (EU COVID-cert encoding).
+
+
 ## v27.7.0
 - Add HAS-BLED (tool 397, Health) — anticoagulation bleeding-risk score.
 
