@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.5.0
+- Add APGAR Score (tool 385, Health) — newborn assessment total and interpretation.
+
+
 ## v26.4.0
 - Add Rainwater Harvest (tool 384, Everyday) — roof catchment gallons/liters with efficiency.
 
