@@ -680,3 +680,6 @@
 
 ## 10.4.0
 - Added eGFR (tool 224, Health) — CKD-EPI 2021 kidney function calculator.
+
+## 10.5.0
+- Added JsonPointer (tool 225, Developer) — RFC 6901 JSON Pointer resolver.
