@@ -986,3 +986,6 @@
 
 ## 20.6.0
 - Added Commission Calculator (tool 326, Finance) — flat & tiered sales commission.
+
+## 20.7.0
+- Added String Hash (tool 327, Developer) — FNV-1a & djb2 non-cryptographic hashes.
