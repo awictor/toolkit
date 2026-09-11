@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.8.0
+- Add Biweekly Mortgage (tool 358, Finance) — biweekly vs monthly payoff, time and interest saved.
+
+
 ## v23.7.0
 - Add Word Echo Finder (tool 357, Writing) — flags words repeated too close together.
 
