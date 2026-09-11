@@ -845,3 +845,6 @@
 
 ## 15.9.0
 - Added Dew Point (tool 279, Everyday) — dew point & comfort from temp + humidity (Magnus formula).
+
+## 16.0.0
+- **Milestone: 280 tools.** Added CHA₂DS₂-VASc (tool 280, Health) — AFib stroke-risk score with anticoagulation guidance.
