@@ -1399,3 +1399,6 @@
 ## v29.0.0 🎉 440 tools
 - Add Sell-Through Rate (440 tools) — sell-through %, weeks/days of supply, and a reorder flag.
 - Milestone: the Toolkit now indexes **440 offline, dependency-free web tools**, each with its own test suite and CI.
+
+## v29.1.0
+- Add Modular Inverse (441 tools) — modular multiplicative inverse via extended Euclidean.
