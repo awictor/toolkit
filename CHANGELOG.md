@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.9.0
+- Add Pangram Checker (tool 369, Writing) — all-26-letters check with missing letters and perfect-pangram detection.
+
+
 ## v24.8.0
 - Add Trifid Cipher (tool 368, Security) — Delastelle 3-D fractionation over a 27-letter cube.
 
