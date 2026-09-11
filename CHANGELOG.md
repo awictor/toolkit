@@ -1423,3 +1423,6 @@
 
 ## v29.8.0
 - Add GMROI (448 tools) — gross margin return on inventory investment.
+
+## v29.9.0
+- Add Happy Numbers (449 tools) — happy-number checker and finder.
