@@ -1411,3 +1411,6 @@
 
 ## v29.4.0
 - Add BUN/Creatinine Ratio (444 tools) — ratio with low/normal/high interpretation band.
+
+## v29.5.0
+- Add Humidex (445 tools) — humidity feels-like index from temperature and dew point.
