@@ -1007,3 +1007,6 @@
 
 ## 21.3.0
 - Added Home Affordability (tool 333, Finance) — max home price from income & DTI.
+
+## 21.4.0
+- Added JSON to Python (tool 334, Developer) — generate @dataclass definitions from JSON.
