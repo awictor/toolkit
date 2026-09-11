@@ -1395,3 +1395,7 @@
 
 ## v28.39.0
 - Add Modular Exponentiation (439 tools) — fast (base^exponent) mod m via exponentiation by squaring.
+
+## v29.0.0 🎉 440 tools
+- Add Sell-Through Rate (440 tools) — sell-through %, weeks/days of supply, and a reorder flag.
+- Milestone: the Toolkit now indexes **440 offline, dependency-free web tools**, each with its own test suite and CI.
