@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.7.0
+- Add JsonToZod (tool 347, Developer) — generate a Zod validation schema and TypeScript type from a JSON sample.
+
+
 ## v22.6.0
 - Add Coast FIRE (tool 346, Finance) — coast number and retirement projection with no further contributions.
 
