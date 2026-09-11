@@ -665,3 +665,6 @@
 
 ## 9.9.0
 - Added CvssCalc (tool 219, Security) — CVSS v3.1 base score calculator.
+
+## 10.0.0
+- 🎉 Milestone: 220 tools. Added TireSize (tool 220, Everyday) — tire dimensions & speedometer-error calculator.
