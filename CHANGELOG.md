@@ -887,3 +887,6 @@
 
 ## 17.3.0
 - Added Coffee Ratio (tool 293, Everyday) — coffee-to-water brew calculator.
+
+## 17.4.0
+- Added Cycling Power Zones (tool 294, Health) — Coggan training zones from FTP.
