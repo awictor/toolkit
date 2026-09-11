@@ -773,3 +773,6 @@
 
 ## 13.5.0
 - Added Anagram (tool 255, Writing) — anagram checker & finder.
+
+## 13.6.0
+- Added IsoWeek (tool 256, Everyday) — ISO 8601 week number calculator.
