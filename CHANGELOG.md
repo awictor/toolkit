@@ -770,3 +770,6 @@
 
 ## 13.4.0
 - Added CockcroftGault (tool 254, Health) — creatinine clearance calculator.
+
+## 13.5.0
+- Added Anagram (tool 255, Writing) — anagram checker & finder.
