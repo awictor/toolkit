@@ -1371,3 +1371,6 @@
 
 ## v28.31.0
 - Add Ordinal Numbers (431 tools) — number ↔ ordinal with correct English suffix rules.
+
+## v28.32.0
+- Add Adler-32 Checksum (432 tools) — the zlib checksum, in hex and decimal.
