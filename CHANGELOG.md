@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.6.0
+- Add Cap Rate (tool 376, Finance) — rental property NOI, cap rate, cash-on-cash and GRM.
+
+
 ## v25.5.0
 - Add Palindrome Checker (tool 375, Writing) — phrase palindrome test and palindromic-word finder.
 
