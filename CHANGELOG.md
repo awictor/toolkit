@@ -971,3 +971,6 @@
 
 ## 20.1.0
 - Added Aquarium Volume (tool 321, Everyday) — tank gallons/litres & water weight.
+
+## 20.2.0
+- Added Opioid MME (tool 322, Health) — morphine milligram equivalents calculator.
