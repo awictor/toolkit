@@ -953,3 +953,6 @@
 
 ## 19.5.0
 - Added Winters' Formula (tool 315, Health) — expected PaCO2 in metabolic acidosis.
+
+## 19.6.0
+- Added Color Steps (tool 316, Design) — interpolate a palette between two colors.
