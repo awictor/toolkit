@@ -902,3 +902,6 @@
 
 ## 17.8.0
 - Added Dividend Calculator (tool 298, Finance) — yield, income & yield on cost.
+
+## 17.9.0
+- Added Checksum (tool 299, Developer) — Adler-32 & Fletcher-16.
