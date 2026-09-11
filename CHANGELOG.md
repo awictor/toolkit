@@ -908,3 +908,6 @@
 
 ## 18.0.0
 - **Milestone: 300 tools.** Added Paint Calculator (tool 300, Everyday) — how much paint a room needs.
+
+## 18.1.0
+- Added Corrected Sodium (tool 301, Health) — glucose-corrected serum sodium.
