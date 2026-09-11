@@ -1341,3 +1341,6 @@
 
 ## v28.21.0
 - Add Hamming Distance (421 tools) — differing positions between equal-length strings / bits between integers.
+
+## v28.22.0
+- Add GCD & LCM (422 tools) — greatest common divisor and least common multiple of integers.
