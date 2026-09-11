@@ -941,3 +941,6 @@
 
 ## 19.1.0
 - Added Cliché Finder (tool 311, Writing) — flags tired phrases & business-speak.
+
+## 19.2.0
+- Added Payback Period (tool 312, Finance) — simple & discounted investment payback.
