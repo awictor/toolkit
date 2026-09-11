@@ -1353,3 +1353,6 @@
 
 ## v28.25.0
 - Add A-a Gradient (425 tools) — alveolar-arterial oxygen gradient with age-expected value.
+
+## v28.26.0
+- Add Line Height Calculator (426 tools) — ratio↔px, leading, recommended body range.
