@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.7.0
+- Add HAS-BLED (tool 397, Health) — anticoagulation bleeding-risk score.
+
+
 ## v27.6.0
 - Add Deck Board Calculator (tool 396, Everyday) — rows, linear feet and boards with waste allowance.
 
