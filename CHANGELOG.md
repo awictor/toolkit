@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.8.0
+- Add Trifid Cipher (tool 368, Security) — Delastelle 3-D fractionation over a 27-letter cube.
+
+
 ## v24.7.0
 - Add Centor / McIsaac (tool 367, Health) — strep-throat probability with age modifier and testing guidance.
 
