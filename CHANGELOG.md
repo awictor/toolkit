@@ -890,3 +890,6 @@
 
 ## 17.4.0
 - Added Cycling Power Zones (tool 294, Health) — Coggan training zones from FTP.
+
+## 17.5.0
+- Added HWB Converter (tool 295, Design) — HEX/RGB <-> HWB (CSS Color 4).
