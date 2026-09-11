@@ -968,3 +968,6 @@
 
 ## 20.0.0
 - **Milestone: 320 tools.** Added CRC Calculator (tool 320, Developer) — multi-polynomial CRC-8/16/32.
+
+## 20.1.0
+- Added Aquarium Volume (tool 321, Everyday) — tank gallons/litres & water weight.

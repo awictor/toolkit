@@ -328,6 +328,7 @@ const tools = [
   ['Inclusive Language', 'https://awictor.github.io/inclusive-language/'],
   ['Emergency Fund', 'https://awictor.github.io/emergency-fund/'],
   ['CRC Calculator', 'https://awictor.github.io/crc-calc/'],
+  ['Aquarium Volume', 'https://awictor.github.io/aquarium-volume/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -338,27 +339,27 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 320 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 320);
+check('exactly 321 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 321);
 });
 check('tools grouped into category sections', () => {
   assert.equal((html.match(/class="cat"/g) || []).length, 7);
   for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing', 'Health', 'Everyday'])
     assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
 });
-check('valid JSON-LD ItemList with 320 items', () => {
+check('valid JSON-LD ItemList with 321 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 320);
+  assert.equal(data.itemListElement.length, 321);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 320 pages', () => {
+check('sitemap.xml lists all 321 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 321);
+  assert.equal((sm.match(/<loc>/g) || []).length, 322);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
