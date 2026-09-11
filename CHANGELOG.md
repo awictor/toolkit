@@ -1281,3 +1281,6 @@
 
 ## v28.1.0
 - Add ISBN Tools (401 tools) — validate & convert ISBN-10 ↔ ISBN-13 with correct check digits.
+
+## v28.2.0
+- Add Depreciation Calculator (402 tools) — SL / DDB / SYD year-by-year schedules.
