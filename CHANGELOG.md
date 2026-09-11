@@ -1278,3 +1278,6 @@
 ## v28.0.0 🎉 400 tools
 - Add Haversine (400 tools) — great-circle distance & bearing between two coordinates.
 - Milestone: the Toolkit now indexes **400 offline, dependency-free web tools**, each with its own test suite and CI.
+
+## v28.1.0
+- Add ISBN Tools (401 tools) — validate & convert ISBN-10 ↔ ISBN-13 with correct check digits.
