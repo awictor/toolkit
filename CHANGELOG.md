@@ -698,3 +698,6 @@
 
 ## 11.0.0
 - 🎉 Milestone: 230 tools. Added PackYears (tool 230, Health) — smoking pack-year calculator with the USPSTF screening threshold.
+
+## 11.1.0
+- Added Vigenere (tool 231, Security) — Vigenère cipher encoder/decoder.
