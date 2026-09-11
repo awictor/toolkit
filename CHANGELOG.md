@@ -797,3 +797,6 @@
 
 ## 14.3.0
 - Added OvenTemp (tool 263, Everyday) — oven temperature (°C/°F/gas mark) converter.
+
+## 14.4.0
+- Added Bogo (tool 264, Finance) — buy-X-get-Y effective discount calculator.
