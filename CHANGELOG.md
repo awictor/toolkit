@@ -1,5 +1,9 @@
 # Changelog
 
+## v22.2.0
+- Add Wallpaper Calculator (tool 342, Everyday) — rolls needed with pattern-repeat matching.
+
+
 ## v22.1.0
 - Add JsonToSql (tool 341, Developer) — generate a CREATE TABLE from a JSON sample with inferred types (PostgreSQL/MySQL/SQLite).
 
