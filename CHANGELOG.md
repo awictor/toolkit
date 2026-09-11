@@ -989,3 +989,6 @@
 
 ## 20.7.0
 - Added String Hash (tool 327, Developer) — FNV-1a & djb2 non-cryptographic hashes.
+
+## 20.8.0
+- Added Mulch & Soil (tool 328, Everyday) — landscaping volume & bags.
