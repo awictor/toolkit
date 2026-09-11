@@ -857,3 +857,6 @@
 
 ## 16.3.0
 - Added Keyword Density (tool 283, Writing) — SEO n-gram phrase & density analyzer.
+
+## 16.4.0
+- Added Refinance Calculator (tool 284, Finance) — mortgage refinance break-even & monthly savings.
