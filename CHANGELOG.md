@@ -926,3 +926,6 @@
 
 ## 18.6.0
 - Added JSON to XML (tool 306, Developer) — convert JSON into indented XML.
+
+## 18.7.0
+- Added Tile Calculator (tool 307, Everyday) — tiles & boxes for an area.
