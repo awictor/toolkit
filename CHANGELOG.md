@@ -758,3 +758,6 @@
 
 ## 13.0.0
 - 🎉 Milestone: 250 tools. Added Soundex (tool 250, Writing) — phonetic name code & sound-alike matcher.
+
+## 13.1.0
+- Added BirthdayParadox (tool 251, Everyday) — shared-birthday probability calculator.
