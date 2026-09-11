@@ -932,3 +932,6 @@
 
 ## 18.8.0
 - Added Wilks Calculator (tool 308, Health) — powerlifting strength score.
+
+## 18.9.0
+- Added Viewport Units (tool 309, Design) — px <-> vw/vh/vmin/vmax converter.
