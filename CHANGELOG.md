@@ -1284,3 +1284,6 @@
 
 ## v28.2.0
 - Add Depreciation Calculator (402 tools) — SL / DDB / SYD year-by-year schedules.
+
+## v28.3.0
+- Add JSON Patch (403 tools) — apply RFC 6902 operations (add/remove/replace/move/copy/test) to a JSON document.
