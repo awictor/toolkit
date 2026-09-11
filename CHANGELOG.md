@@ -710,3 +710,6 @@
 
 ## 11.4.0
 - Added MoonPhase (tool 234, Everyday) — moon phase, age & illumination for any date.
+
+## 11.5.0
+- Added Oklch (tool 235, Design) — hex ⇄ OKLCH color converter.
