@@ -821,3 +821,6 @@
 
 ## 15.1.0
 - Added QuotedPrintable (tool 271, Developer) — Quoted-Printable (RFC 2045) encoder/decoder.
+
+## 15.2.0
+- Added RaiseCalc (tool 272, Finance) — salary raise & real (inflation-adjusted) raise calculator.
