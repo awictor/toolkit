@@ -848,3 +848,6 @@
 
 ## 16.0.0
 - **Milestone: 280 tools.** Added CHA₂DS₂-VASc (tool 280, Health) — AFib stroke-risk score with anticoagulation guidance.
+
+## 16.1.0
+- Added CMYK Converter (tool 281, Design) — RGB/HEX <-> CMYK for print with total ink coverage.
