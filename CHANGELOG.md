@@ -695,3 +695,6 @@
 
 ## 10.9.0
 - Added WeaselWords (tool 229, Writing) — weasel & filler word detector.
+
+## 11.0.0
+- 🎉 Milestone: 230 tools. Added PackYears (tool 230, Health) — smoking pack-year calculator with the USPSTF screening threshold.
