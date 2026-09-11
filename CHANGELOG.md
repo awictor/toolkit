@@ -860,3 +860,6 @@
 
 ## 16.4.0
 - Added Refinance Calculator (tool 284, Finance) — mortgage refinance break-even & monthly savings.
+
+## 16.5.0
+- Added HTML to JSX (tool 285, Developer) — convert HTML to React JSX.
