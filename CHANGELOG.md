@@ -1392,3 +1392,6 @@
 
 ## v28.38.0
 - Add Digital Root (438 tools) — digit sum, digital root, and additive persistence.
+
+## v28.39.0
+- Add Modular Exponentiation (439 tools) — fast (base^exponent) mod m via exponentiation by squaring.
