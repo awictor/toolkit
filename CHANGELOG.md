@@ -707,3 +707,6 @@
 
 ## 11.3.0
 - Added UmaskCalc (tool 233, Developer) — umask to default permissions calculator.
+
+## 11.4.0
+- Added MoonPhase (tool 234, Everyday) — moon phase, age & illumination for any date.
