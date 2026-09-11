@@ -896,3 +896,6 @@
 
 ## 17.6.0
 - Added Polybius Square (tool 296, Security) — 5x5 coordinate cipher.
+
+## 17.7.0
+- Added Wordiness Reducer (tool 297, Writing) — flags wordy phrases with concise swaps.
