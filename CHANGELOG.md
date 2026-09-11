@@ -842,3 +842,6 @@
 
 ## 15.8.0
 - Added Punycode / IDN (tool 278, Developer) — Unicode <-> xn-- domain converter (RFC 3492).
+
+## 15.9.0
+- Added Dew Point (tool 279, Everyday) — dew point & comfort from temp + humidity (Magnus formula).
