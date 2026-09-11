@@ -704,3 +704,6 @@
 
 ## 11.2.0
 - Added CreditUtilization (tool 232, Finance) — credit card utilization ratio calculator.
+
+## 11.3.0
+- Added UmaskCalc (tool 233, Developer) — umask to default permissions calculator.
