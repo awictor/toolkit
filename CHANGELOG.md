@@ -995,3 +995,6 @@
 
 ## 20.9.0
 - Added Free Water Deficit (tool 329, Health) — hypernatremia water-deficit calculator.
+
+## 21.0.0
+- **Milestone: 330 tools.** Added Palette from Image (tool 330, Design) — extract a color palette from a photo, fully local.
