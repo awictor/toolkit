@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.5.0
+- Add Palindrome Checker (tool 375, Writing) — phrase palindrome test and palindromic-word finder.
+
+
 ## v25.4.0
 - Add Four-Square Cipher (tool 374, Security) — two-keyword digraph cipher.
 
