@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.6.0
+- Add Autokey Cipher (tool 356, Security) — self-keying Vigenère variant, encrypt and decrypt.
+
+
 ## v23.5.0
 - Add Wells Score (DVT) (tool 355, Health) — deep vein thrombosis clinical decision rule with three- and two-tier stratification.
 
