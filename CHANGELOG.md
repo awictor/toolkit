@@ -677,3 +677,6 @@
 
 ## 10.3.0
 - Added DtiCalc (tool 223, Finance) — debt-to-income ratio calculator (28/36 rule).
+
+## 10.4.0
+- Added eGFR (tool 224, Health) — CKD-EPI 2021 kidney function calculator.
