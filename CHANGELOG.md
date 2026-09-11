@@ -674,3 +674,6 @@
 
 ## 10.2.0
 - Added PassiveVoice (tool 222, Writing) — passive voice detector.
+
+## 10.3.0
+- Added DtiCalc (tool 223, Finance) — debt-to-income ratio calculator (28/36 rule).
