@@ -1299,3 +1299,6 @@
 
 ## v28.7.0
 - Add Credit Card Validator (407 tools) — Luhn check + card-brand detection, fully offline.
+
+## v28.8.0
+- Add Statistics Calculator (408 tools) — mean/median/mode/variance/stdev/quartiles from a number list.
