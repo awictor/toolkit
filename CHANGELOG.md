@@ -746,3 +746,6 @@
 
 ## 12.6.0
 - Added PetAge (tool 246, Everyday) — dog & cat age in human years.
+
+## 12.7.0
+- Added Base85 (tool 247, Developer) — Ascii85 (base85) encoder/decoder.
