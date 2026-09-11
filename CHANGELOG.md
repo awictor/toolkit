@@ -1287,3 +1287,6 @@
 
 ## v28.3.0
 - Add JSON Patch (403 tools) — apply RFC 6902 operations (add/remove/replace/move/copy/test) to a JSON document.
+
+## v28.4.0
+- Add Child-Pugh Score (404 tools) — cirrhosis severity class (A/B/C) from the five standard factors.
