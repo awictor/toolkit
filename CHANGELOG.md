@@ -1305,3 +1305,6 @@
 
 ## v28.9.0
 - Add Scrabble Score (409 tools) — standard English tile-value word scorer with per-letter breakdown.
+
+## v28.10.0
+- Add Mean Arterial Pressure (410 tools) — MAP & pulse pressure from a BP reading.
