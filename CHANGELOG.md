@@ -731,3 +731,6 @@
 
 ## 12.1.0
 - Added RuleOf72 (tool 241, Finance) — doubling time & Rule of 72 calculator.
+
+## 12.2.0
+- Added SnowflakeId (tool 242, Developer) — Discord/Twitter Snowflake ID decoder.
