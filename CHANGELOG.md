@@ -1010,3 +1010,6 @@
 
 ## 21.4.0
 - Added JSON to Python (tool 334, Developer) — generate @dataclass definitions from JSON.
+
+## 21.5.0
+- Added Lightning Distance (tool 335, Everyday) — storm distance from thunder delay.
