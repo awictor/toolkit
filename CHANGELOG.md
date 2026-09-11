@@ -872,3 +872,6 @@
 
 ## 16.8.0
 - Added HSV / HSB Converter (tool 288, Design) — HEX/RGB <-> HSV color model.
+
+## 16.9.0
+- Added Bacon Cipher (tool 289, Security) — baconian a/b encode & decode.
