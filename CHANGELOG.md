@@ -875,3 +875,6 @@
 
 ## 16.9.0
 - Added Bacon Cipher (tool 289, Security) — baconian a/b encode & decode.
+
+## 17.0.0
+- **Milestone: 290 tools.** Added Letter Frequency (tool 290, Writing) — frequency analyzer with English-baseline comparison.
