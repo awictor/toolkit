@@ -893,3 +893,6 @@
 
 ## 17.5.0
 - Added HWB Converter (tool 295, Design) — HEX/RGB <-> HWB (CSS Color 4).
+
+## 17.6.0
+- Added Polybius Square (tool 296, Security) — 5x5 coordinate cipher.
