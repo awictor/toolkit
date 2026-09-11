@@ -920,3 +920,6 @@
 
 ## 18.4.0
 - Added Adverb Finder (tool 304, Writing) — flags -ly adverbs to tighten prose.
+
+## 18.5.0
+- Added Capital Gains (tool 305, Finance) — gain/loss, return, short/long-term & tax.
