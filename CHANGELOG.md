@@ -809,3 +809,6 @@
 
 ## 14.7.0
 - Added AsciiTable (tool 267, Developer) — ASCII reference table & lookup.
+
+## 14.8.0
+- Added PasswordPolicy (tool 268, Security) — password policy rule checker.
