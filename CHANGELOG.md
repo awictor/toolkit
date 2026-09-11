@@ -818,3 +818,6 @@
 
 ## 15.0.0
 - 🎉 Milestone: 270 tools. Added NoteFrequency (tool 270, Everyday) — musical note ⇄ frequency & tuning.
+
+## 15.1.0
+- Added QuotedPrintable (tool 271, Developer) — Quoted-Printable (RFC 2045) encoder/decoder.
