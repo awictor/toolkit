@@ -833,3 +833,6 @@
 
 ## 15.5.0
 - Added Playfair (tool 275, Security) — classic Playfair 5x5 digraph cipher, encrypt & decrypt.
+
+## 15.6.0
+- Added Invisible Characters (tool 276, Writing) — detect & remove hidden Unicode (zero-width, NBSP, BOM, bidi).
