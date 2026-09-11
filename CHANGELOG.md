@@ -653,3 +653,6 @@
 
 ## 9.5.0
 - Added Haiku (tool 215, Writing) — syllable counter & 5-7-5 haiku validator.
+
+## 9.6.0
+- Added HeatIndex (tool 216, Health) — NWS feels-like temperature from temp & humidity.
