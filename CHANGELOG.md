@@ -1344,3 +1344,6 @@
 
 ## v28.22.0
 - Add GCD & LCM (422 tools) — greatest common divisor and least common multiple of integers.
+
+## v28.23.0
+- Add Reading Time Estimator (423 tools) — reading & speaking time with adjustable speed.
