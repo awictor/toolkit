@@ -962,3 +962,6 @@
 
 ## 19.8.0
 - Added Inclusive Language (tool 318, Writing) — flag non-inclusive terms with alternatives.
+
+## 19.9.0
+- Added Emergency Fund (tool 319, Finance) — months covered, target & time to reach it.
