@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.8.0
+- Add AC BTU Calculator (tool 378, Everyday) — room cooling-load estimate with ENERGY STAR adjustments.
+
+
 ## v25.7.0
 - Add JsonKeyCase (tool 377, Developer) — deeply recase JSON keys between camelCase, snake_case, kebab and Pascal.
 
