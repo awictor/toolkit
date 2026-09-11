@@ -869,3 +869,6 @@
 
 ## 16.7.0
 - Added Parkland Formula (tool 287, Health) — burn fluid resuscitation calculator.
+
+## 16.8.0
+- Added HSV / HSB Converter (tool 288, Design) — HEX/RGB <-> HSV color model.
