@@ -1,5 +1,9 @@
 # Changelog
 
+## v21.6.0
+- Add FENa Calculator (tool 336, Health) — fractional excretion of sodium/urea for prerenal vs intrinsic AKI.
+
+
 ## 9.2.0
 - Added StackDiscount (stacked discount calculator) to Finance — now 212 tools; sitemap + JSON-LD updated.
 
