@@ -1290,3 +1290,6 @@
 
 ## v28.4.0
 - Add Child-Pugh Score (404 tools) — cirrhosis severity class (A/B/C) from the five standard factors.
+
+## v28.5.0
+- Add Fuel Economy Converter (405 tools) — US/UK MPG ↔ L/100 km ↔ km/L.
