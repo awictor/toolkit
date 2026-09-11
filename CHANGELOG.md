@@ -1271,3 +1271,6 @@
 
 ## 21.5.0
 - Added Lightning Distance (tool 335, Everyday) — storm distance from thunder delay.
+
+## v27.9.0
+- Add Small Caps Text (399 tools) — Unicode small-caps converter for social bios.
