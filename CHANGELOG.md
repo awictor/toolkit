@@ -794,3 +794,6 @@
 
 ## 14.2.0
 - Added CssPattern (tool 262, Design) — pure-CSS background pattern generator.
+
+## 14.3.0
+- Added OvenTemp (tool 263, Everyday) — oven temperature (°C/°F/gas mark) converter.
