@@ -959,3 +959,6 @@
 
 ## 19.7.0
 - Added Bcrypt Inspector (tool 317, Security) — parse a bcrypt hash & read its work factor.
+
+## 19.8.0
+- Added Inclusive Language (tool 318, Writing) — flag non-inclusive terms with alternatives.
