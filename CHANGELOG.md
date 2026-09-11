@@ -767,3 +767,6 @@
 
 ## 13.3.0
 - Added TwosComplement (tool 253, Developer) — signed integer binary/hex viewer.
+
+## 13.4.0
+- Added CockcroftGault (tool 254, Health) — creatinine clearance calculator.
