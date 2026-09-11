@@ -1433,3 +1433,6 @@
 
 ## v30.1.0
 - Add Aspect Fit (451 tools) — contain/cover fitted dimensions (CSS object-fit).
+
+## v30.2.0
+- Add Catalan Numbers (452 tools) — nth term, sequence, and membership test.
