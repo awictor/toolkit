@@ -800,3 +800,6 @@
 
 ## 14.4.0
 - Added Bogo (tool 264, Finance) — buy-X-get-Y effective discount calculator.
+
+## 14.5.0
+- Added MaintenanceFluids (tool 265, Health) — IV maintenance fluid rate calculator.
