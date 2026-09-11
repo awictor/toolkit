@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.5.0
+- Add JsonToSwift (tool 395, Developer) — generate Swift Codable structs from a JSON sample.
+
+
 ## v27.4.0
 - Add Take-Home Pay (tool 394, Finance) — net paycheck estimator with deductions, income tax and FICA.
 
