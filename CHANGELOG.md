@@ -713,3 +713,6 @@
 
 ## 11.5.0
 - Added Oklch (tool 235, Design) — hex ⇄ OKLCH color converter.
+
+## 11.6.0
+- Added AnionGap (tool 236, Health) — serum anion gap calculator with albumin correction.
