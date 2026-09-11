@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.1.0
+- Add qSOFA (tool 391, Health) — quick sepsis-risk bedside score.
+
+
 ## v27.0.0 — 390 tools 🎉
 - Milestone: the Toolkit now hosts **390** offline, single-file tools across 7 categories.
 - Add Fence Calculator (tool 390, Everyday) — posts, sections, rails and pickets.
