@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.3.0
+- Add JsonFlatten (tool 353, Developer) — flatten nested JSON to dot-notation keys and expand it back (lossless).
+
+
 ## v23.2.0
 - Add Rent vs Buy (tool 352, Finance) — net-cost comparison of renting versus buying a home over time.
 
