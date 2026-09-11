@@ -827,3 +827,6 @@
 
 ## 15.3.0
 - Added Osmolality (tool 273, Health) — serum osmolality & osmolar gap calculator.
+
+## 15.4.0
+- Added APCA Contrast (tool 274, Design) — APCA/WCAG 3 perceptual text-contrast checker (Lc).
