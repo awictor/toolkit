@@ -923,3 +923,6 @@
 
 ## 18.5.0
 - Added Capital Gains (tool 305, Finance) — gain/loss, return, short/long-term & tax.
+
+## 18.6.0
+- Added JSON to XML (tool 306, Developer) — convert JSON into indented XML.
