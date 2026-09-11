@@ -779,3 +779,6 @@
 
 ## 13.7.0
 - Added XorCipher (tool 257, Security) — repeating-key XOR encoder/decoder.
+
+## 13.8.0
+- Added CostPerUse (tool 258, Finance) — cost-per-use / cost-per-wear calculator.
