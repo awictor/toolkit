@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.1.0
+- Add Manuscript Stats (tool 351, Writing) — standard pages, SFWA length category, and reading/speaking time from a word count.
+
+
 ## v23.0.0 — 350 tools 🎉
 - Milestone: the Toolkit now hosts **350** offline, single-file tools across 7 categories.
 - Add Verhoeff Check Digit (tool 350, Security) — generate/validate with the correct permutation table (catches all single-digit errors & adjacent swaps).
