@@ -911,3 +911,6 @@
 
 ## 18.1.0
 - Added Corrected Sodium (tool 301, Health) — glucose-corrected serum sodium.
+
+## 18.2.0
+- Added CIELAB + ΔE (tool 302, Design) — LAB converter and color difference.
