@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.1.0
+- Add CURB-65 (tool 361, Health) — community-acquired pneumonia severity score with risk band and disposition.
+
+
 ## v24.0.0 — 360 tools 🎉
 - Milestone: the Toolkit now hosts **360** offline, single-file tools across 7 categories.
 - Add Roof Pitch (tool 360, Everyday) — pitch, angle, slope factor and rafter length from rise and run.
