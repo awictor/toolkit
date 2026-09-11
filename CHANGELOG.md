@@ -1308,3 +1308,6 @@
 
 ## v28.10.0
 - Add Mean Arterial Pressure (410 tools) — MAP & pulse pressure from a BP reading.
+
+## v28.11.0
+- Add Pressure Converter (411 tools) — Pa/kPa/bar/psi/atm/mmHg/inHg, all at once.
