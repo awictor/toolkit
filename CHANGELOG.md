@@ -1350,3 +1350,6 @@
 
 ## v28.24.0
 - Add CAC & LTV (424 tools) — customer acquisition cost, lifetime value, LTV:CAC ratio, payback.
+
+## v28.25.0
+- Add A-a Gradient (425 tools) — alveolar-arterial oxygen gradient with age-expected value.
