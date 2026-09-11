@@ -1,5 +1,9 @@
 # Changelog
 
+## v26.7.0
+- Add Full-Width Text (tool 387, Writing) — vaporwave full-width Unicode converter, both directions.
+
+
 ## v26.6.0
 - Add ADFGVX Cipher (tool 386, Security) — WWII fractionating Polybius + columnar transposition cipher.
 
