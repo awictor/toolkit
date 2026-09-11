@@ -1430,3 +1430,6 @@
 ## v30.0.0 🎉 450 tools
 - Add Contribution Margin (450 tools) — CM per unit, ratio, break-even, and profit-target units.
 - Milestone: the Toolkit now indexes **450 offline, dependency-free web tools**, each with its own test suite and CI.
+
+## v30.1.0
+- Add Aspect Fit (451 tools) — contain/cover fitted dimensions (CSS object-fit).
