@@ -1,5 +1,9 @@
 # Changelog
 
+## v23.9.0
+- Add JsonToKotlin (tool 359, Developer) — generate Kotlin data classes from a JSON sample.
+
+
 ## v23.8.0
 - Add Biweekly Mortgage (tool 358, Finance) — biweekly vs monthly payoff, time and interest saved.
 
