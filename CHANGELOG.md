@@ -824,3 +824,6 @@
 
 ## 15.2.0
 - Added RaiseCalc (tool 272, Finance) — salary raise & real (inflation-adjusted) raise calculator.
+
+## 15.3.0
+- Added Osmolality (tool 273, Health) — serum osmolality & osmolar gap calculator.
