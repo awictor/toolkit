@@ -977,3 +977,6 @@
 
 ## 20.3.0
 - Added CSS Units Converter (tool 323, Design) — px/pt/pc/in/cm/mm.
+
+## 20.4.0
+- Added Gronsfeld Cipher (tool 324, Security) — numeric-key Vigenère.
