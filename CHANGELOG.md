@@ -1368,3 +1368,6 @@
 
 ## v28.30.0
 - Add Force Converter (430 tools) — N/kN/kgf/lbf/ozf/dyne.
+
+## v28.31.0
+- Add Ordinal Numbers (431 tools) — number ↔ ordinal with correct English suffix rules.
