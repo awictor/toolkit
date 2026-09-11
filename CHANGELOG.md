@@ -884,3 +884,6 @@
 
 ## 17.2.0
 - Added JSON Diff (tool 292, Developer) — structural JSON compare by path.
+
+## 17.3.0
+- Added Coffee Ratio (tool 293, Everyday) — coffee-to-water brew calculator.

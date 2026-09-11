@@ -300,6 +300,7 @@ const tools = [
   ['Letter Frequency', 'https://awictor.github.io/letter-frequency/'],
   ['401(k) Match', 'https://awictor.github.io/401k-match/'],
   ['JSON Diff', 'https://awictor.github.io/json-diff/'],
+  ['Coffee Ratio', 'https://awictor.github.io/coffee-ratio/'],
 ];
 
 let n = 0; const check = (name, fn) => { fn(); n++; console.log('  ok -', name); };
@@ -310,27 +311,27 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 292 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 292);
+check('exactly 293 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 293);
 });
 check('tools grouped into category sections', () => {
   assert.equal((html.match(/class="cat"/g) || []).length, 7);
   for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing', 'Health', 'Everyday'])
     assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
 });
-check('valid JSON-LD ItemList with 292 items', () => {
+check('valid JSON-LD ItemList with 293 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 292);
+  assert.equal(data.itemListElement.length, 293);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 292 pages', () => {
+check('sitemap.xml lists all 293 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 293);
+  assert.equal((sm.match(/<loc>/g) || []).length, 294);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
