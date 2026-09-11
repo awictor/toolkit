@@ -1,5 +1,9 @@
 # Changelog
 
+## v27.3.0
+- Add Zalgo Text (tool 393, Writing) — glitch/cursed text generator with adjustable intensity + cleaner.
+
+
 ## v27.2.0
 - Add Damm Check Digit (tool 392, Security) — single-quasigroup checksum, catches all single-digit & adjacent-swap errors.
 
