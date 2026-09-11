@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.4.0
+- Add Four-Square Cipher (tool 374, Security) — two-keyword digraph cipher.
+
+
 ## v25.3.0
 - Add MELD-Na (tool 373, Health) — MELD and MELD-Na end-stage liver disease scores.
 
