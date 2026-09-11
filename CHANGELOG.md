@@ -785,3 +785,6 @@
 
 ## 13.9.0
 - Added CorrectedCalcium (tool 259, Health) — albumin-corrected calcium calculator.
+
+## 14.0.0
+- 🎉 Milestone: 260 tools. Added Braille (tool 260, Writing) — text ⇄ Braille (Grade 1) translator.
