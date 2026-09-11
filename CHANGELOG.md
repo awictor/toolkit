@@ -1,5 +1,9 @@
 # Changelog
 
+## v24.6.0
+- Add Firewood Calculator (tool 366, Everyday) — cords, face cords and cost from a stack.
+
+
 ## v24.5.0
 - Add CsvToSql (tool 365, Developer) — generate SQL INSERT statements from CSV with a proper quoted-field parser.
 
