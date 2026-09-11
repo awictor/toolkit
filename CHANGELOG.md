@@ -647,3 +647,6 @@
 
 ## 9.3.0
 - Added Beaufort (tool 213, Everyday) — offline wind speed to Beaufort scale.
+
+## 9.4.0
+- Added Semver (tool 214, Developer) — semantic version comparator & npm-style range checker.
