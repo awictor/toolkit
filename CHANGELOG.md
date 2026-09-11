@@ -1,5 +1,9 @@
 # Changelog
 
+## v25.2.0
+- Add Meat Temperature Guide (tool 372, Everyday) — USDA safe temps and a beef doneness chart.
+
+
 ## v25.1.0
 - Add IniJson (tool 371, Developer) — INI ⇄ JSON config converter with a lossless round-trip.
 
