@@ -656,3 +656,6 @@
 
 ## 9.6.0
 - Added HeatIndex (tool 216, Health) — NWS feels-like temperature from temp & humidity.
+
+## 9.7.0
+- Added FireCalc (tool 217, Finance) — financial independence (FIRE) calculator.
