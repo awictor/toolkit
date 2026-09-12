@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.1.0
+
+- Added **Baseboard & Trim** (tool 691) — room perimeter, trim needed (minus doorways, plus waste), and sticks to buy. Utilities category. 697 hub checks pass.
+
 ## v54.0.0
 
 - 🎉 **690-tool milestone.** Added **Sod Calculator** (tool 690) — lawn area, pieces, and pallets of sod to order, with a float-safe waste allowance. Utilities category. 696 hub checks pass.
