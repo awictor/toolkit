@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.6.0
+
+- Added **Dipole Antenna Calculator** (tool 566) — half-wave dipole and quarter-wave vertical lengths from frequency, in feet and meters. Everyday category. 572 hub checks pass.
+
 ## v41.5.0
 
 - Added **Battery Life Calculator** (tool 565) — runtime from capacity and load with derating, plus watt-hours and parallel-pack capacity. Everyday category. 571 hub checks pass.
