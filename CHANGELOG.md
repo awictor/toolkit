@@ -1,5 +1,9 @@
 # Changelog
 
+## v40.5.0
+
+- Added **Bitrate Calculator** (tool 555) — solve for bitrate, file size, duration, or the video bitrate to hit a target size after audio. Developer category. 561 hub checks pass.
+
 ## v40.4.0
 
 - Added **Timecode Calculator** (tool 554) — SMPTE timecode to frames and real seconds at any frame rate, plus timecode addition. Developer category. 560 hub checks pass.
