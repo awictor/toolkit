@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.9.0
+
+- Added **Party Drinks Calculator** (tool 719) — how much beer, wine, and liquor to buy for a party from guest count, party length, and drink mix. Utilities category. 725 hub checks pass.
+
 ## v56.8.0
 
 - Added **Kayak Paddle Length** (tool 718) — recommends paddle length (205–250 cm) from paddler height and kayak width, in inches or centimeters. Utilities category. 724 hub checks pass.
