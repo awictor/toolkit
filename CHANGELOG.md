@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.5.0
+
+- Added **eDPI & Sensitivity Converter** (tool 655) — eDPI, cm/360, and DPI-to-DPI sensitivity conversion for gamers. Everyday category. 661 hub checks pass.
+
 ## v50.4.0
 
 - Added **Coffee Extraction Calculator** (tool 654) — extraction yield from dose, beverage weight, and TDS, with a Golden Cup rating. Everyday category. 660 hub checks pass.
