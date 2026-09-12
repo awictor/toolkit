@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.7.0
+
+- Added **Crosswind Calculator** (tool 577) — crosswind and head/tailwind components from runway heading, wind direction, and speed. Everyday category. 583 hub checks pass.
+
 ## v42.6.0
 
 - Added **Bowling Score Calculator** (tool 576) — score a ten-pin game from your rolls with correct strike, spare, and 10th-frame bonuses. Everyday category. 582 hub checks pass.
