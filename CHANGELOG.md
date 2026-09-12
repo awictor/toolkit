@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.1.0
+
+- Added **Transformer Calculator** (tool 611) — turns ratio, secondary voltage and current, and impedance ratio for an ideal transformer. Everyday category. 617 hub checks pass.
+
 ## v46.0.0
 
 - 🎉 **610 tools milestone.** Added **Cash-on-Cash Return** (tool 610) — rental cash flow and cash-on-cash return from rent, expenses, mortgage, and cash invested. Everyday category. 616 hub checks pass.
