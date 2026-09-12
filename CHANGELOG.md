@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.2.0
+
+- Added **Clock Angle** (tool 692) — angle between a clock's hour and minute hands at any time (shorter way round) plus each hand's position. Educational category. 698 hub checks pass.
+
 ## v54.1.0
 
 - Added **Baseboard & Trim** (tool 691) — room perimeter, trim needed (minus doorways, plus waste), and sticks to buy. Utilities category. 697 hub checks pass.
