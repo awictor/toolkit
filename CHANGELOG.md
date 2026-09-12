@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.8.0
+
+- Added **Room Lighting** (tool 738) — lumens and fixture count a room needs for a target foot-candle level, with lux conversion and room-type presets. Utilities category. 744 hub checks pass.
+
 ## v58.7.0
 
 - Added **Garden Plant Spacing** (tool 737) — how many plants fit a bed from its size and spacing, plus plants per square foot. Utilities category. 743 hub checks pass.
