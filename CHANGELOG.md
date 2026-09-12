@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.5.0
+
+- Added **Battery Life Calculator** (tool 565) — runtime from capacity and load with derating, plus watt-hours and parallel-pack capacity. Everyday category. 571 hub checks pass.
+
 ## v41.4.0
 
 - Added **555 Timer Calculator** (tool 564) — astable frequency, duty cycle, and monostable pulse width from R1, R2, and C. Everyday category. 570 hub checks pass.
