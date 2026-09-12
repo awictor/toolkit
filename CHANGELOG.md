@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.8.0
+
+- Added **Driveway Sealer** (tool 698) — gallons of asphalt sealer from area, coats, and coverage, plus 5-gallon pails to buy. Utilities category. 704 hub checks pass.
+
 ## v54.7.0
 
 - Added **Roof Area** (tool 697) — slope multiplier from pitch, true roof surface area from a footprint, and roofing squares to order with a waste allowance. Utilities category. 703 hub checks pass.
