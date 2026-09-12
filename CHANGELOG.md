@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.0.0
+
+- 🎉 **640 tools milestone.** Added **Generator Sizing Calculator** (tool 640) — backup generator wattage from your appliances' running watts plus the largest surge. Everyday category. 646 hub checks pass.
+
 ## v48.9.0
 
 - Added **Boiling Point at Altitude** (tool 639) — boiling point of water at any elevation, in Celsius and Fahrenheit. Everyday category. 645 hub checks pass.
