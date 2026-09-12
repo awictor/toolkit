@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.1.0
+
+- Added **DPI / Print Size Calculator** (tool 601) — print size from pixels and DPI, pixels needed for a size, effective DPI, and megapixels. Everyday category. 607 hub checks pass.
+
 ## v45.0.0 — 600 tools 🎉🎉
 
 - **Milestone: 600 tools.** Added **Party Servings Calculator** (tool 600) — drinks, main protein, appetizers, and ice for a guest count and party length. Everyday category. 606 hub checks pass.
