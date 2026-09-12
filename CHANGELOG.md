@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.4.0
+
+- Added **Fuel Range Calculator** (tool 594) — driving range on a tank, distance to empty, fuel for a trip, and usable range with a reserve. Everyday category. 600 hub checks pass.
+
 ## v44.3.0
 
 - Added **Sound Level & Distance** (tool 593) — how sound level drops with distance (inverse-square), plus combining two sources. Everyday category. 599 hub checks pass.
