@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.4.0
+
+- Added **555 Timer Calculator** (tool 564) — astable frequency, duty cycle, and monostable pulse width from R1, R2, and C. Everyday category. 570 hub checks pass.
+
 ## v41.3.0
 
 - Added **Beam Deflection** (tool 563) — maximum deflection for simply supported and cantilever beams under point or uniform loads, plus rectangular moment of inertia. Everyday category. 569 hub checks pass.
