@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.2.0
+
+- Added **Muzzle Energy Calculator** (tool 572) — muzzle energy (ft-lbs), power factor, and Taylor KO from grains and velocity. Everyday category. 578 hub checks pass.
+
 ## v42.1.0
 
 - Added **Telescope Calculator** (tool 571) — magnification, focal ratio, exit pupil, and max useful magnification from aperture, focal length, and eyepiece. Everyday category. 577 hub checks pass.
