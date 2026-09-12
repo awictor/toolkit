@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.3.0
+
+- Added **Pipe Volume** (tool 743) — water volume inside a pipe in gallons, liters, and cubic feet from inner diameter and length. Utilities category. 749 hub checks pass.
+
 ## v59.2.0
 
 - Added **Window Tint VLT** (tool 742) — combined visible light transmission over factory glass, a legal pass/fail check, and the film needed to hit a target. Utilities category. 748 hub checks pass.
