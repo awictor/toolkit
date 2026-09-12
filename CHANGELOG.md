@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.0.0 — 590 tools 🎉
+
+- **Milestone: 590 tools.** Added **Caffeine Calculator** (tool 590) — how much caffeine is left by its half-life and when it drops below a bedtime threshold. Everyday category. 596 hub checks pass.
+
 ## v43.9.0
 
 - Added **Bike Gearing Calculator** (tool 589) — gear inches, development, ratio, and speed at cadence from chainring, cog, and wheel size. Everyday category. 595 hub checks pass.
