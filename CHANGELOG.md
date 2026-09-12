@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.5.0
+
+- Added **Paper Weight** (tool 705) — convert paper weight between GSM and US pound basis weight across bond, text, cover, and index grades. Utilities category. 711 hub checks pass.
+
 ## v55.4.0
 
 - Added **Butter Converter** (tool 704) — convert butter between US sticks, cups, tablespoons, ounces, and grams. Utilities category. 710 hub checks pass.
