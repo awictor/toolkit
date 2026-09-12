@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.0.0
+
+- 🎉 **650 tools milestone.** Added **EV vs Gas Cost Calculator** (tool 650) — compare cost per mile of an EV vs a gas car and see your annual fuel savings. Everyday category. 656 hub checks pass.
+
 ## v49.9.0
 
 - Added **LED Strip Power Calculator** (tool 649) — total wattage, current draw, and power-supply size for an LED strip. Everyday category. 655 hub checks pass.
