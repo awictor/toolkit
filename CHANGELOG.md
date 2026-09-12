@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.4.0
+
+- Added **Dilution Ratio Calculator** (tool 604) — concentrate and water to mix for a dilution ratio like 1:10, at any batch size. Everyday category. 610 hub checks pass.
+
 ## v45.3.0
 
 - Added **Two-Stroke Fuel Mix** (tool 603) — two-stroke oil to add for a gas:oil ratio, in mL and fluid ounces. Everyday category. 609 hub checks pass.
