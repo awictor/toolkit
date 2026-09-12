@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.0.0
+
+- 🎉 **690-tool milestone.** Added **Sod Calculator** (tool 690) — lawn area, pieces, and pallets of sod to order, with a float-safe waste allowance. Utilities category. 696 hub checks pass.
+
 ## v53.9.0
 
 - Added **Post Hole Concrete** (tool 689) — hole volume, concrete needed (hole minus post), and bags per post from hole and post dimensions. Utilities category. 695 hub checks pass.
