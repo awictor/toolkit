@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.3.0
+
+- Added **Superheat & Subcooling Calculator** (tool 653) — refrigeration superheat, subcooling, and air-side ΔT for HVAC diagnostics. Everyday category. 659 hub checks pass.
+
 ## v50.2.0
 
 - Added **Absolute Humidity Calculator** (tool 652) — grams of water vapor per m³ from temperature and relative humidity. Everyday category. 658 hub checks pass.
