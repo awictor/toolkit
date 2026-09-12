@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.5.0
+
+- Added **Drop Rate Odds** (tool 715) — at-least-once chance over N tries, tries for a target cumulative chance, and average tries to first success. Game category. 721 hub checks pass.
+
 ## v56.4.0
 
 - Added **Wire Ampacity** (tool 714) — copper wire ampacity by AWG (75 °C), a load-adequacy check, and a derating factor. Utilities category. 720 hub checks pass.
