@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.4.0
+
+- Added **Elo Rating Calculator** (tool 574) — expected score, win probability, and rating change after a win, loss, or draw for chess and games. Everyday category. 580 hub checks pass.
+
 ## v42.3.0
 
 - Added **Golf Handicap Calculator** (tool 573) — handicap index from score differentials, plus course handicap and net score. Everyday category. 579 hub checks pass.
