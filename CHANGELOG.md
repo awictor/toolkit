@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.4.0
+
+- Added **Fence Picket Calculator** (tool 754) — pickets, posts, and rail lumber for a fence run from length, picket width, gap, and post spacing. Utilities category. 760 hub checks pass.
+
 ## v60.3.0
 
 - Added **Bike Tire Pressure** (tool 753) — starting tire PSI from total system weight and tire width, with a lower-front / higher-rear split. Utilities category. 759 hub checks pass.
