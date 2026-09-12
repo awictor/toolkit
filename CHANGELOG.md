@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.3.0
+
+- Added **Book Spine Width** (tool 703) — spine width in inches, mm, and points from page count and pages-per-inch, plus the inverse. Utilities category. 709 hub checks pass.
+
 ## v55.2.0
 
 - Added **Frame Time** (tool 702) — FPS ↔ milliseconds per frame, frames over a duration, and a 90% render budget. Multimedia category. 708 hub checks pass.
