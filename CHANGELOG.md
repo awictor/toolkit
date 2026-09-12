@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.3.0
+
+- Added **Sound Level & Distance** (tool 593) — how sound level drops with distance (inverse-square), plus combining two sources. Everyday category. 599 hub checks pass.
+
 ## v44.2.0
 
 - Added **Speedometer Error** (tool 592) — how a tire size change shifts true speed and speedometer reading, with tire diameters. Everyday category. 598 hub checks pass.
