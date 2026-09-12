@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.3.0
+
+- Added **Firewood BTU** (tool 713) — heat energy (million BTU per cord) across 11 wood species, total heat for a number of cords, and cords needed for a target. Utilities category. 719 hub checks pass.
+
 ## v56.2.0
 
 - Added **Rug Size** (tool 712) — recommended rug dimensions from room size and border, rug area, and nearest standard size. Utilities category. 718 hub checks pass.
