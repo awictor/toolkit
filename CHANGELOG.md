@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.2.0
+
+- Added **Keg Calculator** (tool 642) — how many pours a keg yields at your glass size, plus cost per serving. Everyday category. 648 hub checks pass.
+
 ## v49.1.0
 
 - Added **Standard Drinks Calculator** (tool 641) — grams of pure alcohol, US standard drinks, and UK units from volume and ABV. Everyday category. 647 hub checks pass.
