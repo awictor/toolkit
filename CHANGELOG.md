@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.2.0
+
+- Added **Speedometer Error** (tool 592) — how a tire size change shifts true speed and speedometer reading, with tire diameters. Everyday category. 598 hub checks pass.
+
 ## v44.1.0
 
 - Added **Swim Pace Calculator** (tool 591) — pace per 100m/100yd, total time, and speed from distance and time. Everyday category. 597 hub checks pass.
