@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.2.0
+
+- Added **Rug Size** (tool 712) — recommended rug dimensions from room size and border, rug area, and nearest standard size. Utilities category. 718 hub checks pass.
+
 ## v56.1.0
 
 - Added **UV Sun Exposure** (tool 711) — time to sunburn from UV index and skin type, SPF-extended time, and UV risk band. Utilities category. 717 hub checks pass.
