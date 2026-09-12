@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.6.0
+
+- Added **Capacitor Network Calculator** (tool 626) — total capacitance in series or parallel, plus stored energy, from a list of values. Everyday category. 632 hub checks pass.
+
 ## v47.5.0
 
 - Added **Pipe Flow Rate Calculator** (tool 625) — flow rate or velocity from pipe diameter using Q = area × velocity. Everyday category. 631 hub checks pass.
