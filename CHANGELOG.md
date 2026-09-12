@@ -1,5 +1,9 @@
 # Changelog
 
+## v40.8.0
+
+- Added **Horsepower Calculator** (tool 558) — horsepower from torque and RPM, torque from power, and horsepower to kilowatts. Everyday category. 564 hub checks pass.
+
 ## v40.7.0
 
 - Added **Compression Ratio** (tool 557) — engine compression ratio from swept and clearance volume, or the clearance volume for a target ratio. Everyday category. 563 hub checks pass.
