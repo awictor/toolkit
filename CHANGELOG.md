@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.8.0
+
+- Added **PTO Accrual Calculator** (tool 638) — paid time off accrual per hour and per pay period, plus PTO earned to date. Everyday category. 644 hub checks pass.
+
 ## v48.7.0
 
 - Added **Lottery Odds Calculator** (tool 637) — jackpot odds from the number pool, picks, and an optional bonus ball. Everyday category. 643 hub checks pass.
