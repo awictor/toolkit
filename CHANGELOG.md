@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.1.0
+
+- Added **Turkey Roast Time** (tool 721) — roasting time (stuffed/unstuffed), fridge thaw days, and servings from the turkey's weight. Utilities category. 727 hub checks pass.
+
 ## v57.0.0
 
 - 🎉 **720 tools milestone.** Added **Grout Calculator** (tool 720) — how much tile grout you need from tile size, joint width and depth, and area, with a smaller-tiles-need-more-grout model. Utilities category. 726 hub checks pass.
