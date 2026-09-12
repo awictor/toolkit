@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.5.0
+
+- Added **Brix Calculator** (tool 645) — convert Brix to specific gravity and estimate potential alcohol for brewing and wine. Everyday category. 651 hub checks pass.
+
 ## v49.4.0
 
 - Added **Pool Chlorine Calculator** (tool 644) — how much chlorine product to add to raise a pool by a target ppm. Everyday category. 650 hub checks pass.
