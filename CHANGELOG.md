@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.2.0
+
+- Added **AC BTU Calculator** (tool 722) — size a room air conditioner in BTU and tons from area, sun exposure, occupants, and kitchen use. Utilities category. 728 hub checks pass.
+
 ## v57.1.0
 
 - Added **Turkey Roast Time** (tool 721) — roasting time (stuffed/unstuffed), fridge thaw days, and servings from the turkey's weight. Utilities category. 727 hub checks pass.
