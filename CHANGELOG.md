@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.5.0
+
+- Added **Brick & Block Estimator** (tool 685) — wall area, units needed (with waste), and mortar bags for brick or CMU block. Utilities category. 691 hub checks pass.
+
 ## v53.4.0
 
 - Added **Ceiling Fan Size** (tool 684) — recommended blade span and room-size class from floor area, plus downrod length from ceiling height. Utilities category. 690 hub checks pass.
