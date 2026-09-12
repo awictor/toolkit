@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.0.0 — 560 tools 🎉
+
+- **Milestone: 560 tools.** Added **Pulley & Belt Calculator** (tool 560) — V-belt length, drive ratio, output RPM, and belt surface speed from pulley diameters and center distance. Everyday category. 566 hub checks pass.
+
 ## v40.9.0
 
 - Added **Pool Volume Calculator** (tool 559) — swimming pool volume in gallons and liters for rectangular and round pools with sloped bottoms. Everyday category. 565 hub checks pass.
