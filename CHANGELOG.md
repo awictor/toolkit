@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.4.0
+
+- Added **Appliance Electricity Cost** (tool 744) — daily, monthly, and yearly running cost of an appliance from watts, hours, and your kWh rate. Utilities category. 750 hub checks pass.
+
 ## v59.3.0
 
 - Added **Pipe Volume** (tool 743) — water volume inside a pipe in gallons, liters, and cubic feet from inner diameter and length. Utilities category. 749 hub checks pass.
