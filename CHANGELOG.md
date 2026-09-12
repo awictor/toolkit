@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.0.0
+
+- 🎉 **730 tools milestone.** Added **Mortar Mix Calculator** (tool 730) — bags of mortar and tons of sand to lay concrete block or brick, from your unit count. Utilities category. 736 hub checks pass.
+
 ## v57.9.0
 
 - Added **Birthstone Lookup** (tool 729) — birthstone and birth flower for any month of the year, with accepted alternates. Utilities category. 735 hub checks pass.
