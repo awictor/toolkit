@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.9.0
+
+- Added **Bike Gearing Calculator** (tool 589) — gear inches, development, ratio, and speed at cadence from chainring, cog, and wheel size. Everyday category. 595 hub checks pass.
+
 ## v43.8.0
 
 - Added **Dog Age Calculator** (tool 588) — dog's age in human years via the modern epigenetic formula, plus life stage. Everyday category. 594 hub checks pass.
