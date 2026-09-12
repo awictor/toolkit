@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.8.0
+
+- Added **Room Lighting** (tool 708) — total lumens needed from area and footcandles, plus bulbs to reach it. Utilities category. 714 hub checks pass.
+
 ## v55.7.0
 
 - Added **Sprinkler Precip Rate** (tool 707) — irrigation precipitation rate (in/hr) from flow and area, runtime for a target depth, and inches applied. Utilities category. 713 hub checks pass.
