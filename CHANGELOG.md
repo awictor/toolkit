@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.9.0
+
+- Added **Post Hole Concrete** (tool 689) — hole volume, concrete needed (hole minus post), and bags per post from hole and post dimensions. Utilities category. 695 hub checks pass.
+
 ## v53.8.0
 
 - Added **Wheel Offset** (tool 688) — converts wheel offset (mm) to backspacing and front spacing (in) from rim width. Automotive/utilities category. 694 hub checks pass.
