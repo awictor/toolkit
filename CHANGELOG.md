@@ -1,5 +1,9 @@
 # Changelog
 
+## v40.6.0
+
+- Added **Engine Displacement** (tool 556) — displacement in cc, liters, and cubic inches from bore, stroke, and cylinder count. Everyday category. 562 hub checks pass.
+
 ## v40.5.0
 
 - Added **Bitrate Calculator** (tool 555) — solve for bitrate, file size, duration, or the video bitrate to hit a target size after audio. Developer category. 561 hub checks pass.
