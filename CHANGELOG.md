@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.6.0
+
+- Added **Screen PPI Calculator** (tool 726) — display pixel density, dot pitch, and total megapixels from resolution and diagonal size. Utilities category. 732 hub checks pass.
+
 ## v57.5.0
 
 - Added **Helium Balloon Calculator** (tool 725) — how much helium and how many tanks to fill a batch of balloons, from balloon size and count. Utilities category. 731 hub checks pass.
