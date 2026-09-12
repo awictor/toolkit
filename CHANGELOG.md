@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.7.0
+
+- Added **Brine Calculator** (tool 597) — salt for a percent brine, equilibrium brining, concentration, and pink curing salt. Everyday category. 603 hub checks pass.
+
 ## v44.6.0
 
 - Added **Tire Pressure & Temperature** (tool 596) — how tire pressure shifts with temperature (Gay-Lussac), about 1 PSI per 10°F. Everyday category. 602 hub checks pass.
