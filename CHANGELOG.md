@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.9.0
+
+- Added **RAID Calculator** (tool 609) — usable capacity, efficiency, and fault tolerance for RAID 0, 1, 5, 6, and 10 arrays. Everyday category. 615 hub checks pass.
+
 ## v45.8.0
 
 - Added **Snow Load Calculator** (tool 608) — roof snow load, total load, and water equivalent from snow depth and density. Everyday category. 614 hub checks pass.
