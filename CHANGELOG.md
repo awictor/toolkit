@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.7.0
+
+- Added **Generator Sizing** (tool 747) — generator watts needed from an appliance checklist: total running load plus the largest starting surge, with a recommended size. Utilities category. 753 hub checks pass.
+
 ## v59.6.0
 
 - Added **Gutter Size** (tool 746) — 5-inch vs 6-inch K-style gutter recommendation from roof footprint, pitch, and rainfall intensity. Utilities category. 752 hub checks pass.
