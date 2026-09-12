@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.5.0
+
+- Added **Reverb Time (RT60)** (tool 595) — Sabine reverberation time from room volume and absorption, plus the absorption for a target. Everyday category. 601 hub checks pass.
+
 ## v44.4.0
 
 - Added **Fuel Range Calculator** (tool 594) — driving range on a tank, distance to empty, fuel for a trip, and usable range with a reserve. Everyday category. 600 hub checks pass.
