@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.4.0
+
+- Added **Lumber Weight** (tool 734) — weight of boards and timber by species, dimensions, and quantity, plus total board feet. Utilities category. 740 hub checks pass.
+
 ## v58.3.0
 
 - Added **Bike Chain Length** (tool 733) — chain length in inches and even link count from chainring, cog, and chainstay measurements. Utilities category. 739 hub checks pass.
