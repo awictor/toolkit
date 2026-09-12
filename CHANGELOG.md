@@ -1,5 +1,9 @@
 # Changelog
 
+## v40.4.0
+
+- Added **Timecode Calculator** (tool 554) — SMPTE timecode to frames and real seconds at any frame rate, plus timecode addition. Developer category. 560 hub checks pass.
+
 ## v40.3.0
 
 - Added **Pythagorean Means** (tool 553) — arithmetic, geometric, and harmonic means plus RMS, with guidance on which average fits rates and growth. Developer category. 559 hub checks pass.
