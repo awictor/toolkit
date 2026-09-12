@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.6.0
+
+- Added **Gutter Size** (tool 746) — 5-inch vs 6-inch K-style gutter recommendation from roof footprint, pitch, and rainfall intensity. Utilities category. 752 hub checks pass.
+
 ## v59.5.0
 
 - Added **Snowboard Size** (tool 745) — recommended board length from rider height and riding style, with the classic chin-to-nose range. Utilities category. 751 hub checks pass.
