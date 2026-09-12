@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.3.0
+
+- Added **Two-Stroke Fuel Mix** (tool 603) — two-stroke oil to add for a gas:oil ratio, in mL and fluid ounces. Everyday category. 609 hub checks pass.
+
 ## v45.2.0
 
 - Added **Ring Size Converter** (tool 602) — convert ring sizes between US size, circumference, diameter, and EU/ISO. Everyday category. 608 hub checks pass.
