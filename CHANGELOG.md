@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.7.0
+
+- Added **Watt to Lumens** (tool 727) — convert watts to bulb brightness by type and find the LED wattage that replaces an old incandescent. Utilities category. 733 hub checks pass.
+
 ## v57.6.0
 
 - Added **Screen PPI Calculator** (tool 726) — display pixel density, dot pitch, and total megapixels from resolution and diagonal size. Utilities category. 732 hub checks pass.
