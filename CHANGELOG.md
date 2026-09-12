@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.6.0
+
+- Added **Molar Mass Calculator** (tool 616) — molar mass of any chemical formula, including parentheses and nested groups. Everyday category. 622 hub checks pass.
+
 ## v46.5.0
 
 - Added **Resistor Network Calculator** (tool 615) — total resistance of resistors in series or parallel from a list of values. Everyday category. 621 hub checks pass.
