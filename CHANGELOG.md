@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.1.0
+
+- Added **Cold Brew Ratio** (tool 681) — coffee from water and ratio, water from coffee, or the ratio of a batch, with concentrate/ready-to-drink presets. Utilities category. 687 hub checks pass.
+
 ## v53.0.0
 
 - 🎉 **680-tool milestone.** Added **Baker's Percentage** (tool 680) — turns a bread formula written in baker's percentages into real ingredient weights (water from hydration, salt, levain) plus total dough weight. Utilities category. 686 hub checks pass.
