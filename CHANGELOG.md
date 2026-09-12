@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.7.0
+
+- Added **Garden Plant Spacing** (tool 737) — how many plants fit a bed from its size and spacing, plus plants per square foot. Utilities category. 743 hub checks pass.
+
 ## v58.6.0
 
 - Added **Rainwater Harvest** (tool 736) — gallons of rainwater you can collect from roof area, rainfall, and collection efficiency. Utilities category. 742 hub checks pass.
