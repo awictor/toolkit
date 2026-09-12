@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.7.0
+
+- Added **Extension Ladder** (tool 687) — base distance, ladder length, and setup angle from the 4:1 safe-ladder rule. Utilities category. 693 hub checks pass.
+
 ## v53.6.0
 
 - Added **Tankless Water Heater** (tool 686) — temperature rise, required BTU/hr (GPM × 500 × rise), and deliverable GPM for a given output. Utilities category. 692 hub checks pass.
