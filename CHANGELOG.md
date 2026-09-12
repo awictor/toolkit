@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.1.0
+
+- Added **Hull Speed** (tool 671) — displacement boat hull speed (1.34·√LWL) in knots and mph, plus speed-length ratio. Marine/utilities category. 677 hub checks pass.
+
 ## v52.0.0
 
 - 🎉 **670-tool milestone.** Added **Room Modes** (tool 670) — lists the axial standing-wave frequencies of a room from its dimensions (f = n·c/2L) with a temperature-corrected speed of sound, for bass-trap placement and choosing listening positions. Multimedia category. 676 hub checks pass.
