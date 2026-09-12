@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.6.0
+
+- Added **Torque Wrench Extension** (tool 706) — adjusted wrench setting for an in-line crowfoot/extension, the actual torque delivered, and the correction factor. Utilities category. 712 hub checks pass.
+
 ## v55.5.0
 
 - Added **Paper Weight** (tool 705) — convert paper weight between GSM and US pound basis weight across bond, text, cover, and index grades. Utilities category. 711 hub checks pass.
