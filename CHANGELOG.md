@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.9.0
+
+- Added **Flash Guide Number** (tool 679) — flash reach, required aperture, and ISO-adjusted guide number from a flash's guide number. Multimedia category. 685 hub checks pass.
+
 ## v52.8.0
 
 - Added **Arrow Kinetic Energy** (tool 678) — kinetic energy and momentum from arrow grains and fps, with a bowhunting game-size guide. Utilities category. 684 hub checks pass.
