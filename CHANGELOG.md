@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.3.0
+
+- Added **Time Value of Money** (tool 613) — present value, future value, rate, or periods for a lump sum; solve any variable. Everyday category. 619 hub checks pass.
+
 ## v46.2.0
 
 - Added **Reorder Point & Safety Stock** (tool 612) — reorder point and safety stock from daily demand, lead time, variability, and service level. Everyday category. 618 hub checks pass.
