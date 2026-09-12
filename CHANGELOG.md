@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.6.0
+
+- Added **Rowing Split Calculator** (tool 586) — convert 500m split, watts, and calories per hour with the Concept2 formula. Everyday category. 592 hub checks pass.
+
 ## v43.5.0
 
 - Added **IBU Calculator** (tool 585) — beer bitterness (Tinseth) from hop weight, alpha acid, boil time, volume, and gravity. Everyday category. 591 hub checks pass.
