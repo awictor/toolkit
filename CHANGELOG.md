@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.8.0
+
+- Added **Sealed Speaker Box** (tool 668) — system resonance Fc and total Q (Qtc) from Thiele-Small parameters, plus the box volume for a target Qtc. Multimedia category. 674 hub checks pass.
+
 ## v51.7.0
 
 - Added **Propane Tank Runtime** (tool 667) — burn time from tank weight and appliance BTU/hr, plus total energy and equivalent gallons. Utilities category. 673 hub checks pass.
