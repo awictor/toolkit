@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.2.0
+
+- Added **Window Tint VLT** (tool 742) — combined visible light transmission over factory glass, a legal pass/fail check, and the film needed to hit a target. Utilities category. 748 hub checks pass.
+
 ## v59.1.0
 
 - Added **Dog Food Portion** (tool 741) — daily calories and cups to feed a dog from its weight and activity level, using the RER formula. Utilities category. 747 hub checks pass.
