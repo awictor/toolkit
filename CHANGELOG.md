@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.8.0
+
+- Added **Hat Size Calculator** (tool 628) — head circumference to US fitted, EU, and exact hat sizes, in cm or inches. Everyday category. 634 hub checks pass.
+
 ## v47.7.0
 
 - Added **Shutter Angle Calculator** (tool 627) — convert between shutter angle and shutter speed for any frame rate. Everyday category. 633 hub checks pass.
