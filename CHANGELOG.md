@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.1.0
+
+- Added **OEE Calculator** (tool 661) — Overall Equipment Effectiveness from availability, performance, and quality. Everyday category. 667 hub checks pass.
+
 ## v51.0.0
 
 - 🎉 **660 tools milestone.** Added **Uptime SLA Calculator** (tool 660) — allowed downtime per day, week, month, and year for any uptime SLA. Everyday category. 666 hub checks pass.
