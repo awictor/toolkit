@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.3.0
+
+- Added **Golf Handicap Calculator** (tool 573) — handicap index from score differentials, plus course handicap and net score. Everyday category. 579 hub checks pass.
+
 ## v42.2.0
 
 - Added **Muzzle Energy Calculator** (tool 572) — muzzle energy (ft-lbs), power factor, and Taylor KO from grains and velocity. Everyday category. 578 hub checks pass.
