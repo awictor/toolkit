@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.3.0
+
+- Added **Shoe Size Converter** (tool 723) — convert US shoe sizes to UK, EU, and foot length in cm, for men and women. Utilities category. 729 hub checks pass.
+
 ## v57.2.0
 
 - Added **AC BTU Calculator** (tool 722) — size a room air conditioner in BTU and tons from area, sun exposure, occupants, and kitchen use. Utilities category. 728 hub checks pass.
