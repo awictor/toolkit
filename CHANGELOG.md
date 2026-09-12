@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.8.0
+
+- Added **Kayak Paddle Length** (tool 718) — recommends paddle length (205–250 cm) from paddler height and kayak width, in inches or centimeters. Utilities category. 724 hub checks pass.
+
 ## v56.7.0
 
 - Added **Meat Thaw Time** (tool 717) — safe defrost time for frozen meat by weight: refrigerator (~24 h per 5 lb) vs. cold-water bath (~30 min per lb), in pounds or kilograms. Utilities category. 723 hub checks pass.
