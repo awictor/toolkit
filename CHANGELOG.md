@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.3.0
+
+- Added **CO2 Emissions Calculator** (tool 583) — carbon footprint from driving, flying, and electricity, plus trees to offset. Everyday category. 589 hub checks pass.
+
 ## v43.2.0
 
 - Added **Plant Spacing Calculator** (tool 582) — how many plants fit a garden bed via square grid, triangular layout, and per square foot. Everyday category. 588 hub checks pass.
