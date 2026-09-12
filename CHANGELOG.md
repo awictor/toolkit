@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.2.0
+
+- Added **Tongue Weight** (tool 672) — trailer tongue weight as a percent of trailer weight, balance status against the safe 10–15% range, and target tongue weight for a chosen percentage. Utilities category. 678 hub checks pass.
+
 ## v52.1.0
 
 - Added **Hull Speed** (tool 671) — displacement boat hull speed (1.34·√LWL) in knots and mph, plus speed-length ratio. Marine/utilities category. 677 hub checks pass.
