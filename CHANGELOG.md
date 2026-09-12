@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.6.0
+
+- Added **Pottery Shrinkage** (tool 696) — fired size from wet, wet size for a fired target, and shrink rate from a test tile. Crafts/utilities category. 702 hub checks pass.
+
 ## v54.5.0
 
 - Added **Knitting Gauge** (tool 695) — stitches per inch, cast-on for a target width, and width for a stitch count from a gauge. Crafts/utilities category. 701 hub checks pass.
