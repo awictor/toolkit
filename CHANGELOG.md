@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.5.0
+
+- Added **Epoxy / Resin Mix** (tool 605) — resin and hardener for a mix ratio, plus the volume to cover an area at a pour depth. Everyday category. 611 hub checks pass.
+
 ## v45.4.0
 
 - Added **Dilution Ratio Calculator** (tool 604) — concentrate and water to mix for a dilution ratio like 1:10, at any batch size. Everyday category. 610 hub checks pass.
