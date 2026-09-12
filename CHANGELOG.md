@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.6.0
+
+- Added **Star Exposure** (tool 676) — longest shutter speed before stars trail via the 500/300 rule from focal length and crop factor, with full-frame equivalent and sky drift. Multimedia category. 682 hub checks pass.
+
 ## v52.5.0
 
 - Added **Fabric Yardage** (tool 675) — how many yards to buy for a set of pieces at a given size from a bolt of known width (pieces per row, rows, yards). Crafts/utilities category. 681 hub checks pass.
