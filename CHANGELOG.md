@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.6.0
+
+- Added **EV Charging Time** (tool 606) — charging time, energy added, and cost from battery size, charger power, and charge level. Everyday category. 612 hub checks pass.
+
 ## v45.5.0
 
 - Added **Epoxy / Resin Mix** (tool 605) — resin and hardener for a mix ratio, plus the volume to cover an area at a pour depth. Everyday category. 611 hub checks pass.
