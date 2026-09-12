@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.0.0
+
+- 🎉 **700-tool milestone.** Added **Octane Blend** (tool 700) — volume-weighted octane of two blended fuels, the fraction of high-octane needed for a target, and the high-octane volume for a total. Utilities category. 706 hub checks pass.
+
 ## v54.9.0
 
 - Added **Concrete Column** (tool 699) — cylindrical column/Sonotube volume in cubic feet and yards for one or many columns, plus bags to buy. Utilities category. 705 hub checks pass.
