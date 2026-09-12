@@ -1,5 +1,9 @@
 # Changelog
 
+## v40.3.0
+
+- Added **Pythagorean Means** (tool 553) — arithmetic, geometric, and harmonic means plus RMS, with guidance on which average fits rates and growth. Developer category. 559 hub checks pass.
+
 ## v27.8.0
 - Add Base45 (tool 398, Developer) — RFC 9285 encoder/decoder (EU COVID-cert encoding).
 
