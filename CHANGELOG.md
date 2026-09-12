@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.2.0
+
+- Added **Plant Spacing Calculator** (tool 582) — how many plants fit a garden bed via square grid, triangular layout, and per square foot. Everyday category. 588 hub checks pass.
+
 ## v43.1.0
 
 - Added **Electricity Cost Calculator** (tool 581) — appliance running cost: daily kWh and daily, monthly, and yearly cost from wattage, hours, and rate. Everyday category. 587 hub checks pass.
