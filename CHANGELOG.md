@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.8.0
+
+- Added **Op-Amp Gain Calculator** (tool 568) — inverting and non-inverting gain, gain in dB, and output voltage from Rf and Rin. Everyday category. 574 hub checks pass.
+
 ## v41.7.0
 
 - Added **LM317 Calculator** (tool 567) — regulator output voltage, R2 solve, constant-current resistor, and power dissipation. Everyday category. 573 hub checks pass.
