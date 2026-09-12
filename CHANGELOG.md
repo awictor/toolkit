@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.7.0
+
+- Added **Roof Area** (tool 697) — slope multiplier from pitch, true roof surface area from a footprint, and roofing squares to order with a waste allowance. Utilities category. 703 hub checks pass.
+
 ## v54.6.0
 
 - Added **Pottery Shrinkage** (tool 696) — fired size from wet, wet size for a fired target, and shrink rate from a test tile. Crafts/utilities category. 702 hub checks pass.
