@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.2.0
+
+- Added **TV Size & Viewing Distance** (tool 632) — screen width and height from diagonal and aspect ratio, plus recommended viewing distance. Everyday category. 638 hub checks pass.
+
 ## v48.1.0
 
 - Added **Air Changes per Hour** (tool 631) — ventilation airflow (CFM) for a target ACH, or ACH from a fan's CFM, plus room volume. Everyday category. 637 hub checks pass.
