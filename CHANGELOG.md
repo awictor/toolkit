@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.8.0
+
+- Added **Density Altitude Calculator** (tool 578) — density altitude, pressure altitude, and ISA deviation from elevation, altimeter, and temperature. Everyday category. 584 hub checks pass.
+
 ## v42.7.0
 
 - Added **Crosswind Calculator** (tool 577) — crosswind and head/tailwind components from runway heading, wind direction, and speed. Everyday category. 583 hub checks pass.
