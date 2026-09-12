@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.7.0
+
+- Added **Timelapse** (tool 677) — frames captured, final clip length, and speed-up factor from shoot duration, interval, and frame rate, plus the inverse shoot time. Multimedia category. 683 hub checks pass.
+
 ## v52.6.0
 
 - Added **Star Exposure** (tool 676) — longest shutter speed before stars trail via the 500/300 rule from focal length and crop factor, with full-frame equivalent and sky drift. Multimedia category. 682 hub checks pass.
