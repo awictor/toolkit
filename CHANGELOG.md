@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.0.0 — 580 tools 🎉
+
+- **Milestone: 580 tools.** Added **Solar Panel Calculator** (tool 580) — array size, panel count, expected output, and battery bank from daily energy use and peak sun hours. Everyday category. 586 hub checks pass.
+
 ## v42.9.0
 
 - Added **Cloud Base Calculator** (tool 579) — cumulus cloud base from surface temperature and dew point, in feet and meters AGL. Everyday category. 585 hub checks pass.
