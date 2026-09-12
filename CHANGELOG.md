@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.2.0
+
+- Added **Frame Time** (tool 702) — FPS ↔ milliseconds per frame, frames over a duration, and a 90% render budget. Multimedia category. 708 hub checks pass.
+
 ## v55.1.0
 
 - Added **Aquarium Stocking** (tool 701) — fish capacity (inch-per-gallon rule), current stocking percentage, and inches of fish remaining. Utilities category. 707 hub checks pass.
