@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.1.0
+
+- Added **Machining Speeds & Feeds** (tool 651) — spindle RPM and feed rate from cutting speed, tool diameter, chip load, and flutes. Everyday category. 657 hub checks pass.
+
 ## v50.0.0
 
 - 🎉 **650 tools milestone.** Added **EV vs Gas Cost Calculator** (tool 650) — compare cost per mile of an EV vs a gas car and see your annual fuel savings. Everyday category. 656 hub checks pass.
