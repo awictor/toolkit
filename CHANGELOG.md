@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.0.0
+
+- 🎉 **720 tools milestone.** Added **Grout Calculator** (tool 720) — how much tile grout you need from tile size, joint width and depth, and area, with a smaller-tiles-need-more-grout model. Utilities category. 726 hub checks pass.
+
 ## v56.9.0
 
 - Added **Party Drinks Calculator** (tool 719) — how much beer, wine, and liquor to buy for a party from guest count, party length, and drink mix. Utilities category. 725 hub checks pass.
