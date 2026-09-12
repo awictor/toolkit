@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.6.0
+
+- Added **Vertical Jump Calculator** (tool 656) — jump height, hang time, and takeoff velocity from projectile physics. Everyday category. 662 hub checks pass.
+
 ## v50.5.0
 
 - Added **eDPI & Sensitivity Converter** (tool 655) — eDPI, cm/360, and DPI-to-DPI sensitivity conversion for gamers. Everyday category. 661 hub checks pass.
