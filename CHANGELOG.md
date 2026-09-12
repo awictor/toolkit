@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.9.0
+
+- Added **Concrete Column** (tool 699) — cylindrical column/Sonotube volume in cubic feet and yards for one or many columns, plus bags to buy. Utilities category. 705 hub checks pass.
+
 ## v54.8.0
 
 - Added **Driveway Sealer** (tool 698) — gallons of asphalt sealer from area, coats, and coverage, plus 5-gallon pails to buy. Utilities category. 704 hub checks pass.
