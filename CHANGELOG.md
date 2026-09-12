@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.5.0
+
+- Added **Snowboard Size** (tool 745) — recommended board length from rider height and riding style, with the classic chin-to-nose range. Utilities category. 751 hub checks pass.
+
 ## v59.4.0
 
 - Added **Appliance Electricity Cost** (tool 744) — daily, monthly, and yearly running cost of an appliance from watts, hours, and your kWh rate. Utilities category. 750 hub checks pass.
