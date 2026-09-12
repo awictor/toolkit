@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.9.0
+
+- Added **VSWR Calculator** (tool 629) — VSWR, reflection coefficient, return loss, and mismatch loss for RF matching. Everyday category. 635 hub checks pass.
+
 ## v47.8.0
 
 - Added **Hat Size Calculator** (tool 628) — head circumference to US fitted, EU, and exact hat sizes, in cm or inches. Everyday category. 634 hub checks pass.
