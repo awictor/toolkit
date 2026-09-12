@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.5.0
+
+- Added **Poker Pot Odds** (tool 575) — required equity to call, pot odds ratio, draw equity from outs, and a profitable-call verdict. Everyday category. 581 hub checks pass.
+
 ## v42.4.0
 
 - Added **Elo Rating Calculator** (tool 574) — expected score, win probability, and rating change after a win, loss, or draw for chess and games. Everyday category. 580 hub checks pass.
