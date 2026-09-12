@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.1.0
+
+- Added **Wall Stud Count** (tool 751) — number of studs and plate lumber a wall needs from its length and stud spacing. Utilities category. 757 hub checks pass.
+
 ## v60.0.0
 
 - 🎉 **750 tools milestone.** Added **Deck Joist Span** (tool 750) — maximum deck joist span by lumber size and on-center spacing (Southern Pine, 40 psf) with a pass/fail check. Utilities category. 756 hub checks pass.
