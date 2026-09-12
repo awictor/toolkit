@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.2.0
+
+- Added **Grass Seed** (tool 682) — pounds of seed from lawn area and seeding rate, bags to buy, and coverage, with new-lawn/overseed presets. Utilities category. 688 hub checks pass.
+
 ## v53.1.0
 
 - Added **Cold Brew Ratio** (tool 681) — coffee from water and ratio, water from coffee, or the ratio of a batch, with concentrate/ready-to-drink presets. Utilities category. 687 hub checks pass.
