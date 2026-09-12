@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.1.0
+
+- Added **Typing Speed Test** (tool 731) — live net WPM, accuracy, and time with per-character highlighting. Utilities category. 737 hub checks pass.
+
 ## v58.0.0
 
 - 🎉 **730 tools milestone.** Added **Mortar Mix Calculator** (tool 730) — bags of mortar and tons of sand to lay concrete block or brick, from your unit count. Utilities category. 736 hub checks pass.
