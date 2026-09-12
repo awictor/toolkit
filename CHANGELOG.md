@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.4.0
+
+- Added **Dehumidifier Sizing** (tool 664) — pints/day capacity and recommended unit size from room area and dampness level, using the classic AHAM chart. Home/utilities category. 670 hub checks pass.
+
 ## v51.3.0
 
 - Added **Per Diem Calculator** (tool 663) — travel per diem from daily M&IE and trip length, with 75% travel days and lodging. Everyday category. 669 hub checks pass.
