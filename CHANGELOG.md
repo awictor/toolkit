@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.5.0
+
+- Added **Faucet Flow Rate** (tool 755) — measure GPM from a container fill test, check against limits, and estimate daily and yearly water usage. Utilities category. 761 hub checks pass.
+
 ## v60.4.0
 
 - Added **Fence Picket Calculator** (tool 754) — pickets, posts, and rail lumber for a fence run from length, picket width, gap, and post spacing. Utilities category. 760 hub checks pass.
