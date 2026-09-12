@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.1.0
+
+- Added **ADA Ramp Calculator** (tool 561) — wheelchair ramp run, length, and slope compliance against the ADA 1:12 maximum. Everyday category. 567 hub checks pass.
+
 ## v41.0.0 — 560 tools 🎉
 
 - **Milestone: 560 tools.** Added **Pulley & Belt Calculator** (tool 560) — V-belt length, drive ratio, output RPM, and belt surface speed from pulley diameters and center distance. Everyday category. 566 hub checks pass.
