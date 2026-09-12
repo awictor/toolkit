@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.0.0
+
+- 🎉 **750 tools milestone.** Added **Deck Joist Span** (tool 750) — maximum deck joist span by lumber size and on-center spacing (Southern Pine, 40 psf) with a pass/fail check. Utilities category. 756 hub checks pass.
+
 ## v59.9.0
 
 - Added **Coffee Scoop Calculator** (tool 749) — grams, scoops, and tablespoons of ground coffee for any number of cups at a chosen strength. Utilities category. 755 hub checks pass.
