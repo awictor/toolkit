@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.9.0
+
+- Added **Cloud Base Calculator** (tool 579) — cumulus cloud base from surface temperature and dew point, in feet and meters AGL. Everyday category. 585 hub checks pass.
+
 ## v42.8.0
 
 - Added **Density Altitude Calculator** (tool 578) — density altitude, pressure altitude, and ISA deviation from elevation, altimeter, and temperature. Everyday category. 584 hub checks pass.
