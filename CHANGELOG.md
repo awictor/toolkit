@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.7.0
+
+- Added **Lottery Odds Calculator** (tool 637) — jackpot odds from the number pool, picks, and an optional bonus ball. Everyday category. 643 hub checks pass.
+
 ## v48.6.0
 
 - Added **Flooring Calculator** (tool 636) — boxes of flooring needed from room size, box coverage, and a waste factor. Everyday category. 642 hub checks pass.
