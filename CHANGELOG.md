@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.3.0
+
+- Added **Bike Chain Length** (tool 733) — chain length in inches and even link count from chainring, cog, and chainstay measurements. Utilities category. 739 hub checks pass.
+
 ## v58.2.0
 
 - Added **Canning Time Calculator** (tool 732) — altitude-adjusted home-canning processing time and pressure for water-bath and pressure canning. Utilities category. 738 hub checks pass.
