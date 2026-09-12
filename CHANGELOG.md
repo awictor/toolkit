@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.7.0
+
+- Added **Propane Tank Runtime** (tool 667) — burn time from tank weight and appliance BTU/hr, plus total energy and equivalent gallons. Utilities category. 673 hub checks pass.
+
 ## v51.6.0
 
 - Added **Wind Turbine Power** (tool 666) — instantaneous power (½·ρ·A·v³·Cp), rotor swept area, and annual energy from rotor diameter, wind speed, and efficiency, with Betz-limit validation. Utilities category. 672 hub checks pass.
