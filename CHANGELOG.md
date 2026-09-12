@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.4.0
+
+- Added **Growing Degree Days** (tool 614) — daily and accumulated growing degree days from high/low temps, base, and optional cap. Everyday category. 620 hub checks pass.
+
 ## v46.3.0
 
 - Added **Time Value of Money** (tool 613) — present value, future value, rate, or periods for a lump sum; solve any variable. Everyday category. 619 hub checks pass.
