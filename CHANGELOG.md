@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.7.0
+
+- Added **Steps to Distance Calculator** (tool 657) — distance and calories from step count, stride length, and body weight. Everyday category. 663 hub checks pass.
+
 ## v50.6.0
 
 - Added **Vertical Jump Calculator** (tool 656) — jump height, hang time, and takeoff velocity from projectile physics. Everyday category. 662 hub checks pass.
