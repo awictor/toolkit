@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.3.0
+
+- Added **Crop Factor & Equivalent Focal Length** (tool 633) — crop factor from sensor size, plus 35mm-equivalent focal length and aperture. Everyday category. 639 hub checks pass.
+
 ## v48.2.0
 
 - Added **TV Size & Viewing Distance** (tool 632) — screen width and height from diagonal and aspect ratio, plus recommended viewing distance. Everyday category. 638 hub checks pass.
