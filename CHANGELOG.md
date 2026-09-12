@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.9.0
+
+- Added **Christmas Lights** (tool 709) — estimate string lights for a tree (per-foot rule), strands to buy, and garland counts. Lifestyle category. 715 hub checks pass.
+
 ## v55.8.0
 
 - Added **Room Lighting** (tool 708) — total lumens needed from area and footcandles, plus bulbs to reach it. Utilities category. 714 hub checks pass.
