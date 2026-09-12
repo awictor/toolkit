@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.0.0
+
+- 🎉 **710-tool milestone.** Added **Hurricane Category** (tool 710) — Saffir-Simpson category number, full classification (TD/TS/Cat 1–5), and major-hurricane status from sustained wind speed. Utilities category. 716 hub checks pass.
+
 ## v55.9.0
 
 - Added **Christmas Lights** (tool 709) — estimate string lights for a tree (per-foot rule), strands to buy, and garland counts. Lifestyle category. 715 hub checks pass.
