@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.7.0
+
+- Added **Gravel Calculator** (tool 607) — cubic feet, cubic yards, and tons of gravel or topsoil from area and depth. Everyday category. 613 hub checks pass.
+
 ## v45.6.0
 
 - Added **EV Charging Time** (tool 606) — charging time, energy added, and cost from battery size, charger power, and charge level. Everyday category. 612 hub checks pass.
