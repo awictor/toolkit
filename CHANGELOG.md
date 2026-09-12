@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.6.0
+
+- Added **Candy Stages** (tool 716) — candy-making sugar stage temperatures, altitude adjustment (~1 °F per 500 ft), and the stage from a thermometer reading. Utilities category. 722 hub checks pass.
+
 ## v56.5.0
 
 - Added **Drop Rate Odds** (tool 715) — at-least-once chance over N tries, tries for a target cumulative chance, and average tries to first success. Game category. 721 hub checks pass.
