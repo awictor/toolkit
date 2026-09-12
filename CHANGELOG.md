@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.3.0
+
+- Added **Anchor Scope** (tool 673) — rode length needed for a target scope, actual scope from depth and bow height, and a holding assessment against the 5:1–7:1 range. Marine/utilities category. 679 hub checks pass.
+
 ## v52.2.0
 
 - Added **Tongue Weight** (tool 672) — trailer tongue weight as a percent of trailer weight, balance status against the safe 10–15% range, and target tongue weight for a chosen percentage. Utilities category. 678 hub checks pass.
