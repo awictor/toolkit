@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.0.0
+
+- 🎉 **630 tools milestone.** Added **Watt-Hour & Battery Pack Calculator** (tool 630) — convert Wh and mAh, and size a battery pack from series/parallel cell configuration. Everyday category. 636 hub checks pass.
+
 ## v47.9.0
 
 - Added **VSWR Calculator** (tool 629) — VSWR, reflection coefficient, return loss, and mismatch loss for RF matching. Everyday category. 635 hub checks pass.
