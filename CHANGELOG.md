@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.4.0
+
+- Added **Pool Chlorine Calculator** (tool 644) — how much chlorine product to add to raise a pool by a target ppm. Everyday category. 650 hub checks pass.
+
 ## v49.3.0
 
 - Added **Bolt Torque Calculator** (tool 643) — tightening torque or clamp force from diameter and friction factor (T = K·D·F). Everyday category. 649 hub checks pass.
