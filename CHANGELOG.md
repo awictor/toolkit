@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.2.0
+
+- Added **Drywall Sheet Calculator** (tool 752) — number of drywall sheets from area to cover, sheet size, and a waste allowance. Utilities category. 758 hub checks pass.
+
 ## v60.1.0
 
 - Added **Wall Stud Count** (tool 751) — number of studs and plate lumber a wall needs from its length and stud spacing. Utilities category. 757 hub checks pass.
