@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.1.0
+
+- Added **Aquarium Stocking** (tool 701) — fish capacity (inch-per-gallon rule), current stocking percentage, and inches of fish remaining. Utilities category. 707 hub checks pass.
+
 ## v55.0.0
 
 - 🎉 **700-tool milestone.** Added **Octane Blend** (tool 700) — volume-weighted octane of two blended fuels, the fraction of high-octane needed for a target, and the high-octane volume for a total. Utilities category. 706 hub checks pass.
