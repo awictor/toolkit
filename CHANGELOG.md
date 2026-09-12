@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.7.0
+
+- Added **Watts per Kilogram** (tool 587) — cycling power-to-weight from FTP and body weight, with FTP category and target watts. Everyday category. 593 hub checks pass.
+
 ## v43.6.0
 
 - Added **Rowing Split Calculator** (tool 586) — convert 500m split, watts, and calories per hour with the Concept2 formula. Everyday category. 592 hub checks pass.
