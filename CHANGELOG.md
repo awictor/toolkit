@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.0.0
+
+- 🎉 **740 tools milestone.** Added **Road Trip Fuel Cost** (tool 740) — gas cost of a drive from distance, MPG, and price, with cost per mile and per person. Utilities category. 746 hub checks pass.
+
 ## v58.9.0
 
 - Added **Air Fryer Converter** (tool 739) — convert oven temperature and time to air fryer settings and back (−25 °F, ×0.8 time). Utilities category. 745 hub checks pass.
