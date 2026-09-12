@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.6.0
+
+- Added **Flooring Calculator** (tool 636) — boxes of flooring needed from room size, box coverage, and a waste factor. Everyday category. 642 hub checks pass.
+
 ## v48.5.0
 
 - Added **Rebar Calculator** (tool 635) — grid bar count and total rebar length for a slab from area and spacing. Everyday category. 641 hub checks pass.
