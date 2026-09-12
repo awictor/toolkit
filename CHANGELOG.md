@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.8.0
+
+- Added **Tap Drill Size Calculator** (tool 648) — tap drill size for a metric thread from major diameter and pitch, with engagement. Everyday category. 654 hub checks pass.
+
 ## v49.7.0
 
 - Added **Cricket Chirp Thermometer** (tool 647) — estimate the temperature from how fast a cricket chirps, using Dolbear's law. Everyday category. 653 hub checks pass.
