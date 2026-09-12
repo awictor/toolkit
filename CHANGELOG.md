@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.1.0
+
+- Added **Electricity Cost Calculator** (tool 581) — appliance running cost: daily kWh and daily, monthly, and yearly cost from wattage, hours, and rate. Everyday category. 587 hub checks pass.
+
 ## v43.0.0 — 580 tools 🎉
 
 - **Milestone: 580 tools.** Added **Solar Panel Calculator** (tool 580) — array size, panel count, expected output, and battery bank from daily energy use and peak sun hours. Everyday category. 586 hub checks pass.
