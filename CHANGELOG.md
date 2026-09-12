@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.9.0
+
+- Added **Birthstone Lookup** (tool 729) — birthstone and birth flower for any month of the year, with accepted alternates. Utilities category. 735 hub checks pass.
+
 ## v57.8.0
 
 - Added **Anniversary Gifts** (tool 728) — traditional and modern wedding anniversary gifts by year, with next-milestone guidance. Utilities category. 734 hub checks pass.
