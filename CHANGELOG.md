@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.1.0
+
+- Added **Air Changes per Hour** (tool 631) — ventilation airflow (CFM) for a target ACH, or ACH from a fan's CFM, plus room volume. Everyday category. 637 hub checks pass.
+
 ## v48.0.0
 
 - 🎉 **630 tools milestone.** Added **Watt-Hour & Battery Pack Calculator** (tool 630) — convert Wh and mAh, and size a battery pack from series/parallel cell configuration. Everyday category. 636 hub checks pass.
