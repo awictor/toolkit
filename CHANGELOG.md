@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.0.0
+
+- 🎉 **670-tool milestone.** Added **Room Modes** (tool 670) — lists the axial standing-wave frequencies of a room from its dimensions (f = n·c/2L) with a temperature-corrected speed of sound, for bass-trap placement and choosing listening positions. Multimedia category. 676 hub checks pass.
+
 ## v51.9.0
 
 - Added **Spoke Length** (tool 669) — bicycle spoke length from ERD, hub flange geometry, spoke count, and cross pattern using exact 3D geometry, plus the crossing angle. Utilities category. 675 hub checks pass.
