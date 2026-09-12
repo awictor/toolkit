@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.0.0
+
+- 🎉 **680-tool milestone.** Added **Baker's Percentage** (tool 680) — turns a bread formula written in baker's percentages into real ingredient weights (water from hydration, salt, levain) plus total dough weight. Utilities category. 686 hub checks pass.
+
 ## v52.9.0
 
 - Added **Flash Guide Number** (tool 679) — flash reach, required aperture, and ISO-adjusted guide number from a flash's guide number. Multimedia category. 685 hub checks pass.
