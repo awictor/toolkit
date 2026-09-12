@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.8.0
+
+- Added **Dog Age Calculator** (tool 588) — dog's age in human years via the modern epigenetic formula, plus life stage. Everyday category. 594 hub checks pass.
+
 ## v43.7.0
 
 - Added **Watts per Kilogram** (tool 587) — cycling power-to-weight from FTP and body weight, with FTP category and target watts. Everyday category. 593 hub checks pass.
