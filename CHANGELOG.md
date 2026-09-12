@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.6.0
+
+- Added **Bowling Score Calculator** (tool 576) — score a ten-pin game from your rolls with correct strike, spare, and 10th-frame bonuses. Everyday category. 582 hub checks pass.
+
 ## v42.5.0
 
 - Added **Poker Pot Odds** (tool 575) — required equity to call, pot odds ratio, draw equity from outs, and a profitable-call verdict. Everyday category. 581 hub checks pass.
