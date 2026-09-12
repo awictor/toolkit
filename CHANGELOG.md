@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.6.0
+
+- Added **Water Hardness Converter** (tool 646) — convert water hardness between ppm, grains per gallon, and mmol/L, with a rating. Everyday category. 652 hub checks pass.
+
 ## v49.5.0
 
 - Added **Brix Calculator** (tool 645) — convert Brix to specific gravity and estimate potential alcohol for brewing and wine. Everyday category. 651 hub checks pass.
