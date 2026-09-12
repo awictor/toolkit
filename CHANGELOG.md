@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.7.0
+
+- Added **Orbital Period Calculator** (tool 617) — orbital period, circular velocity, and semi-major axis from Kepler's third law. Everyday category. 623 hub checks pass.
+
 ## v46.6.0
 
 - Added **Molar Mass Calculator** (tool 616) — molar mass of any chemical formula, including parentheses and nested groups. Everyday category. 622 hub checks pass.
