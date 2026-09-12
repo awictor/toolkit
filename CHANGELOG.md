@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.8.0
+
+- Added **Wheel Offset** (tool 688) — converts wheel offset (mm) to backspacing and front spacing (in) from rim width. Automotive/utilities category. 694 hub checks pass.
+
 ## v53.7.0
 
 - Added **Extension Ladder** (tool 687) — base distance, ladder length, and setup angle from the 4:1 safe-ladder rule. Utilities category. 693 hub checks pass.
