@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.7.0
+
+- Added **Sprinkler Precip Rate** (tool 707) — irrigation precipitation rate (in/hr) from flow and area, runtime for a target depth, and inches applied. Utilities category. 713 hub checks pass.
+
 ## v55.6.0
 
 - Added **Torque Wrench Extension** (tool 706) — adjusted wrench setting for an in-line crowfoot/extension, the actual torque delivered, and the correction factor. Utilities category. 712 hub checks pass.
