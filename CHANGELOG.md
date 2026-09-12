@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.7.0
+
+- Added **Shutter Angle Calculator** (tool 627) — convert between shutter angle and shutter speed for any frame rate. Everyday category. 633 hub checks pass.
+
 ## v47.6.0
 
 - Added **Capacitor Network Calculator** (tool 626) — total capacitance in series or parallel, plus stored energy, from a list of values. Everyday category. 632 hub checks pass.
