@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.1.0
+
+- Added **Rental Yield Calculator** (tool 621) — gross and net rental yield from rent, expenses, and property value. Everyday category. 627 hub checks pass.
+
 ## v47.0.0
 
 - 🎉 **620 tools milestone.** Added **Cat Age Calculator** (tool 620) — convert your cat's age to human years and back, with life stage. Everyday category. 626 hub checks pass.
