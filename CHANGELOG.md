@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.9.0
+
+- Added **Yeast Converter** (tool 599) — convert baking yeast between instant, active dry, and fresh by weight. Everyday category. 605 hub checks pass.
+
 ## v44.8.0
 
 - Added **Typing Speed Calculator** (tool 598) — WPM, net WPM after errors, accuracy, and CPM from characters and time. Everyday category. 604 hub checks pass.
