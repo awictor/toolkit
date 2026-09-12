@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.2.0
+
+- Added **Absolute Humidity Calculator** (tool 652) — grams of water vapor per m³ from temperature and relative humidity. Everyday category. 658 hub checks pass.
+
 ## v50.1.0
 
 - Added **Machining Speeds & Feeds** (tool 651) — spindle RPM and feed rate from cutting speed, tool diameter, chip load, and flutes. Everyday category. 657 hub checks pass.
