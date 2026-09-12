@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.4.0
+
+- Added **Buoyancy Calculator** (tool 624) — buoyant force, apparent weight, and float/sink test via Archimedes' principle. Everyday category. 630 hub checks pass.
+
 ## v47.3.0
 
 - Added **Net Worth Calculator** (tool 623) — net worth and debt-to-asset ratio from your assets and liabilities. Everyday category. 629 hub checks pass.
