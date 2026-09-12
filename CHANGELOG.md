@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.8.0
+
+- Added **Arrow Kinetic Energy** (tool 678) — kinetic energy and momentum from arrow grains and fps, with a bowhunting game-size guide. Utilities category. 684 hub checks pass.
+
 ## v52.7.0
 
 - Added **Timelapse** (tool 677) — frames captured, final clip length, and speed-up factor from shoot duration, interval, and frame rate, plus the inverse shoot time. Multimedia category. 683 hub checks pass.
