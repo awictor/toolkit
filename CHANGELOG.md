@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.7.0
+
+- Added **Cricket Chirp Thermometer** (tool 647) — estimate the temperature from how fast a cricket chirps, using Dolbear's law. Everyday category. 653 hub checks pass.
+
 ## v49.6.0
 
 - Added **Water Hardness Converter** (tool 646) — convert water hardness between ppm, grains per gallon, and mmol/L, with a rating. Everyday category. 652 hub checks pass.
