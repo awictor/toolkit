@@ -1,5 +1,9 @@
 # Changelog
 
+## v56.1.0
+
+- Added **UV Sun Exposure** (tool 711) — time to sunburn from UV index and skin type, SPF-extended time, and UV risk band. Utilities category. 717 hub checks pass.
+
 ## v56.0.0
 
 - 🎉 **710-tool milestone.** Added **Hurricane Category** (tool 710) — Saffir-Simpson category number, full classification (TD/TS/Cat 1–5), and major-hurricane status from sustained wind speed. Utilities category. 716 hub checks pass.
