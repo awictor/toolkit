@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.5.0
+
+- Added **Compost C:N Ratio** (tool 665) — blend browns and greens to the ideal compost carbon-to-nitrogen ratio; shows combined C:N, balance status, and ideal green share. Home/garden category. 671 hub checks pass.
+
 ## v51.4.0
 
 - Added **Dehumidifier Sizing** (tool 664) — pints/day capacity and recommended unit size from room area and dampness level, using the classic AHAM chart. Home/utilities category. 670 hub checks pass.
