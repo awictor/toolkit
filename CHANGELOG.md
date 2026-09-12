@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.7.0
+
+- Added **LM317 Calculator** (tool 567) — regulator output voltage, R2 solve, constant-current resistor, and power dissipation. Everyday category. 573 hub checks pass.
+
 ## v41.6.0
 
 - Added **Dipole Antenna Calculator** (tool 566) — half-wave dipole and quarter-wave vertical lengths from frequency, in feet and meters. Everyday category. 572 hub checks pass.
