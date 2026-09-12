@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.0.0
+
+- 🎉 **660 tools milestone.** Added **Uptime SLA Calculator** (tool 660) — allowed downtime per day, week, month, and year for any uptime SLA. Everyday category. 666 hub checks pass.
+
 ## v50.9.0
 
 - Added **LLM VRAM Calculator** (tool 659) — GPU VRAM needed to run a model from parameter count and quantization. Everyday category. 665 hub checks pass.
