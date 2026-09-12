@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.1.0
+
+- Added **Standard Drinks Calculator** (tool 641) — grams of pure alcohol, US standard drinks, and UK units from volume and ABV. Everyday category. 647 hub checks pass.
+
 ## v49.0.0
 
 - 🎉 **640 tools milestone.** Added **Generator Sizing Calculator** (tool 640) — backup generator wattage from your appliances' running watts plus the largest surge. Everyday category. 646 hub checks pass.
