@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.4.0
+
+- Added **Espresso Ratio** (tool 724) — brew-ratio calculator: solve for ratio, yield, or dose, with ristretto/normale/lungo shot classification. Utilities category. 730 hub checks pass.
+
 ## v57.3.0
 
 - Added **Shoe Size Converter** (tool 723) — convert US shoe sizes to UK, EU, and foot length in cm, for men and women. Utilities category. 729 hub checks pass.
