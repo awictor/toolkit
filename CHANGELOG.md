@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.0.0
+
+- 🎉 **620 tools milestone.** Added **Cat Age Calculator** (tool 620) — convert your cat's age to human years and back, with life stage. Everyday category. 626 hub checks pass.
+
 ## v46.9.0
 
 - Added **String Tension & Frequency** (tool 619) — string fundamental frequency, tension, or linear density from Mersenne's law. Everyday category. 625 hub checks pass.
