@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.8.0
+
+- Added **Snow Load Calculator** (tool 608) — roof snow load, total load, and water equivalent from snow depth and density. Everyday category. 614 hub checks pass.
+
 ## v45.7.0
 
 - Added **Gravel Calculator** (tool 607) — cubic feet, cubic yards, and tons of gravel or topsoil from area and depth. Everyday category. 613 hub checks pass.
