@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.5.0
+
+- Added **IBU Calculator** (tool 585) — beer bitterness (Tinseth) from hop weight, alpha acid, boil time, volume, and gravity. Everyday category. 591 hub checks pass.
+
 ## v43.4.0
 
 - Added **3D Print Cost Calculator** (tool 584) — filament and electricity cost of a print, plus the filament length used. Everyday category. 590 hub checks pass.
