@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.8.0
+
+- Added **Anniversary Gifts** (tool 728) — traditional and modern wedding anniversary gifts by year, with next-milestone guidance. Utilities category. 734 hub checks pass.
+
 ## v57.7.0
 
 - Added **Watt to Lumens** (tool 727) — convert watts to bulb brightness by type and find the LED wattage that replaces an old incandescent. Utilities category. 733 hub checks pass.
