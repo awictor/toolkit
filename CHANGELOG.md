@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.0.0 — 570 tools 🎉
+
+- **Milestone: 570 tools.** Added **Voltage Drop Calculator** (tool 570) — copper wire voltage drop and percentage from AWG size, run length, and current, with a 3% guideline check. Everyday category. 576 hub checks pass.
+
 ## v41.9.0
 
 - Added **Coil Inductance Calculator** (tool 569) — air-core solenoid inductance (Wheeler's formula), turns solve, and inductive reactance. Everyday category. 575 hub checks pass.
