@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.3.0
+
+- Added **Per Diem Calculator** (tool 663) — travel per diem from daily M&IE and trip length, with 75% travel days and lodging. Everyday category. 669 hub checks pass.
+
 ## v51.2.0
 
 - Added **Takt Time Calculator** (tool 662) — takt time from available time and demand, with a cycle-vs-takt bottleneck check. Everyday category. 668 hub checks pass.
