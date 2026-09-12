@@ -1,5 +1,9 @@
 # Changelog
 
+## v57.5.0
+
+- Added **Helium Balloon Calculator** (tool 725) — how much helium and how many tanks to fill a batch of balloons, from balloon size and count. Utilities category. 731 hub checks pass.
+
 ## v57.4.0
 
 - Added **Espresso Ratio** (tool 724) — brew-ratio calculator: solve for ratio, yield, or dose, with ristretto/normale/lungo shot classification. Utilities category. 730 hub checks pass.
