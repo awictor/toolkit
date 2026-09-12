@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.6.0
+
+- Added **Tankless Water Heater** (tool 686) — temperature rise, required BTU/hr (GPM × 500 × rise), and deliverable GPM for a given output. Utilities category. 692 hub checks pass.
+
 ## v53.5.0
 
 - Added **Brick & Block Estimator** (tool 685) — wall area, units needed (with waste), and mortar bags for brick or CMU block. Utilities category. 691 hub checks pass.
