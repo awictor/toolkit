@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.5.0
+
+- Added **Knitting Gauge** (tool 695) — stitches per inch, cast-on for a target width, and width for a stitch count from a gauge. Crafts/utilities category. 701 hub checks pass.
+
 ## v54.4.0
 
 - Added **Chinese Zodiac** (tool 694) — zodiac animal and five-element for any year, from the 12-year and 60-year sexagenary cycles. Lifestyle category. 700 hub checks pass.
