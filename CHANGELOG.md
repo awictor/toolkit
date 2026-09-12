@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.5.0
+
+- Added **Resistor Network Calculator** (tool 615) — total resistance of resistors in series or parallel from a list of values. Everyday category. 621 hub checks pass.
+
 ## v46.4.0
 
 - Added **Growing Degree Days** (tool 614) — daily and accumulated growing degree days from high/low temps, base, and optional cap. Everyday category. 620 hub checks pass.
