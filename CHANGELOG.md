@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.8.0
+
+- Added **Typing Speed Calculator** (tool 598) — WPM, net WPM after errors, accuracy, and CPM from characters and time. Everyday category. 604 hub checks pass.
+
 ## v44.7.0
 
 - Added **Brine Calculator** (tool 597) — salt for a percent brine, equilibrium brining, concentration, and pink curing salt. Everyday category. 603 hub checks pass.
