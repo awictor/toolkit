@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.6.0
+
+- Added **Rainwater Harvest** (tool 736) — gallons of rainwater you can collect from roof area, rainfall, and collection efficiency. Utilities category. 742 hub checks pass.
+
 ## v58.5.0
 
 - Added **Camera Field of View** (tool 735) — horizontal, vertical, and diagonal angle of view from focal length and sensor size, with format presets. Utilities category. 741 hub checks pass.
