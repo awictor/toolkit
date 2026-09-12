@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.8.0
+
+- Added **Pool Salt Calculator** (tool 748) — pounds and 40 lb bags of salt to reach a target saltwater-pool salinity from volume and current ppm. Utilities category. 754 hub checks pass.
+
 ## v59.7.0
 
 - Added **Generator Sizing** (tool 747) — generator watts needed from an appliance checklist: total running load plus the largest starting surge, with a recommended size. Utilities category. 753 hub checks pass.
