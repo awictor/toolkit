@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.4.0
+
+- Added **Balance Transfer Calculator** (tool 634) — compare keeping vs. transferring a credit card balance to a 0% intro card, with net savings. Everyday category. 640 hub checks pass.
+
 ## v48.3.0
 
 - Added **Crop Factor & Equivalent Focal Length** (tool 633) — crop factor from sensor size, plus 35mm-equivalent focal length and aperture. Everyday category. 639 hub checks pass.
