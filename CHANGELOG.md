@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.4.0
+
+- Added **Coffee Extraction Calculator** (tool 654) — extraction yield from dose, beverage weight, and TDS, with a Golden Cup rating. Everyday category. 660 hub checks pass.
+
 ## v50.3.0
 
 - Added **Superheat & Subcooling Calculator** (tool 653) — refrigeration superheat, subcooling, and air-side ΔT for HVAC diagnostics. Everyday category. 659 hub checks pass.
