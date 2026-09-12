@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.9.0
+
+- Added **Boiling Point at Altitude** (tool 639) — boiling point of water at any elevation, in Celsius and Fahrenheit. Everyday category. 645 hub checks pass.
+
 ## v48.8.0
 
 - Added **PTO Accrual Calculator** (tool 638) — paid time off accrual per hour and per pay period, plus PTO earned to date. Everyday category. 644 hub checks pass.
