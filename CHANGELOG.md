@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.2.0
+
+- Added **Freelance Rate Calculator** (tool 622) — the hourly rate you need from target income, expenses, and billable hours. Everyday category. 628 hub checks pass.
+
 ## v47.1.0
 
 - Added **Rental Yield Calculator** (tool 621) — gross and net rental yield from rent, expenses, and property value. Everyday category. 627 hub checks pass.
