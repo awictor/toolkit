@@ -1,5 +1,9 @@
 # Changelog
 
+## v40.9.0
+
+- Added **Pool Volume Calculator** (tool 559) — swimming pool volume in gallons and liters for rectangular and round pools with sloped bottoms. Everyday category. 565 hub checks pass.
+
 ## v40.8.0
 
 - Added **Horsepower Calculator** (tool 558) — horsepower from torque and RPM, torque from power, and horsepower to kilowatts. Everyday category. 564 hub checks pass.
