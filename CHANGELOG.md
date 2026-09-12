@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.4.0
+
+- Added **Chinese Zodiac** (tool 694) — zodiac animal and five-element for any year, from the 12-year and 60-year sexagenary cycles. Lifestyle category. 700 hub checks pass.
+
 ## v54.3.0
 
 - Added **Curtain Width** (tool 693) — fabric width needed (rod × fullness), panels to buy, and the actual fullness the panels give. Utilities category. 699 hub checks pass.
