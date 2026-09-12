@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.9.0
+
+- Added **LED Strip Power Calculator** (tool 649) — total wattage, current draw, and power-supply size for an LED strip. Everyday category. 655 hub checks pass.
+
 ## v49.8.0
 
 - Added **Tap Drill Size Calculator** (tool 648) — tap drill size for a metric thread from major diameter and pitch, with engagement. Everyday category. 654 hub checks pass.
