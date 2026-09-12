@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.4.0
+
+- Added **Ceiling Fan Size** (tool 684) — recommended blade span and room-size class from floor area, plus downrod length from ceiling height. Utilities category. 690 hub checks pass.
+
 ## v53.3.0
 
 - Added **Fertilizer Rate** (tool 683) — product per 1000 sq ft and total product for a target nitrogen rate and %N, plus the nitrogen actually applied. Utilities category. 689 hub checks pass.
