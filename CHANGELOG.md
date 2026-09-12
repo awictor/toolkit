@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.8.0
+
+- Added **Wet-Bulb Temperature** (tool 618) — wet-bulb temperature and heat-stress risk from air temperature and relative humidity via Stull's formula. Everyday category. 624 hub checks pass.
+
 ## v46.7.0
 
 - Added **Orbital Period Calculator** (tool 617) — orbital period, circular velocity, and semi-major axis from Kepler's third law. Everyday category. 623 hub checks pass.
