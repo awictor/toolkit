@@ -1,5 +1,9 @@
 # Changelog
 
+## v54.3.0
+
+- Added **Curtain Width** (tool 693) — fabric width needed (rod × fullness), panels to buy, and the actual fullness the panels give. Utilities category. 699 hub checks pass.
+
 ## v54.2.0
 
 - Added **Clock Angle** (tool 692) — angle between a clock's hour and minute hands at any time (shorter way round) plus each hand's position. Educational category. 698 hub checks pass.
