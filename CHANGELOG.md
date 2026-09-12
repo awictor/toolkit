@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.2.0
+
+- Added **Canning Time Calculator** (tool 732) — altitude-adjusted home-canning processing time and pressure for water-bath and pressure canning. Utilities category. 738 hub checks pass.
+
 ## v58.1.0
 
 - Added **Typing Speed Test** (tool 731) — live net WPM, accuracy, and time with per-character highlighting. Utilities category. 737 hub checks pass.
