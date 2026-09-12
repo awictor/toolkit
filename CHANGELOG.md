@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.2.0
+
+- Added **Drywall Calculator** (tool 562) — wall area, drywall sheet count with waste, and screw estimate from room dimensions. Everyday category. 568 hub checks pass.
+
 ## v41.1.0
 
 - Added **ADA Ramp Calculator** (tool 561) — wheelchair ramp run, length, and slope compliance against the ADA 1:12 maximum. Everyday category. 567 hub checks pass.
