@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.9.0
+
+- Added **Spoke Length** (tool 669) — bicycle spoke length from ERD, hub flange geometry, spoke count, and cross pattern using exact 3D geometry, plus the crossing angle. Utilities category. 675 hub checks pass.
+
 ## v51.8.0
 
 - Added **Sealed Speaker Box** (tool 668) — system resonance Fc and total Q (Qtc) from Thiele-Small parameters, plus the box volume for a target Qtc. Multimedia category. 674 hub checks pass.
