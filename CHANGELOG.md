@@ -1,5 +1,9 @@
 # Changelog
 
+## v49.3.0
+
+- Added **Bolt Torque Calculator** (tool 643) — tightening torque or clamp force from diameter and friction factor (T = K·D·F). Everyday category. 649 hub checks pass.
+
 ## v49.2.0
 
 - Added **Keg Calculator** (tool 642) — how many pours a keg yields at your glass size, plus cost per serving. Everyday category. 648 hub checks pass.
