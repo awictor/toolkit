@@ -1,5 +1,9 @@
 # Changelog
 
+## v43.4.0
+
+- Added **3D Print Cost Calculator** (tool 584) — filament and electricity cost of a print, plus the filament length used. Everyday category. 590 hub checks pass.
+
 ## v43.3.0
 
 - Added **CO2 Emissions Calculator** (tool 583) — carbon footprint from driving, flying, and electricity, plus trees to offset. Everyday category. 589 hub checks pass.
