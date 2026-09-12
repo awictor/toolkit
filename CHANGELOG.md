@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.2.0
+
+- Added **Reorder Point & Safety Stock** (tool 612) — reorder point and safety stock from daily demand, lead time, variability, and service level. Everyday category. 618 hub checks pass.
+
 ## v46.1.0
 
 - Added **Transformer Calculator** (tool 611) — turns ratio, secondary voltage and current, and impedance ratio for an ideal transformer. Everyday category. 617 hub checks pass.
