@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.9.0
+
+- Added **Coffee Scoop Calculator** (tool 749) — grams, scoops, and tablespoons of ground coffee for any number of cups at a chosen strength. Utilities category. 755 hub checks pass.
+
 ## v59.8.0
 
 - Added **Pool Salt Calculator** (tool 748) — pounds and 40 lb bags of salt to reach a target saltwater-pool salinity from volume and current ppm. Utilities category. 754 hub checks pass.
