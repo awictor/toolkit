@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.5.0
+
+- Added **Pipe Flow Rate Calculator** (tool 625) — flow rate or velocity from pipe diameter using Q = area × velocity. Everyday category. 631 hub checks pass.
+
 ## v47.4.0
 
 - Added **Buoyancy Calculator** (tool 624) — buoyant force, apparent weight, and float/sink test via Archimedes' principle. Everyday category. 630 hub checks pass.
