@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.6.0
+
+- Added **Wind Turbine Power** (tool 666) — instantaneous power (½·ρ·A·v³·Cp), rotor swept area, and annual energy from rotor diameter, wind speed, and efficiency, with Betz-limit validation. Utilities category. 672 hub checks pass.
+
 ## v51.5.0
 
 - Added **Compost C:N Ratio** (tool 665) — blend browns and greens to the ideal compost carbon-to-nitrogen ratio; shows combined C:N, balance status, and ideal green share. Home/garden category. 671 hub checks pass.
