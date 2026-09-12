@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.8.0
+
+- Added **LLM Token Cost Calculator** (tool 658) — estimate LLM API cost from input/output tokens with per-call and monthly projections. Everyday category. 664 hub checks pass.
+
 ## v50.7.0
 
 - Added **Steps to Distance Calculator** (tool 657) — distance and calories from step count, stride length, and body weight. Everyday category. 663 hub checks pass.
