@@ -1,5 +1,9 @@
 # Changelog
 
+## v55.4.0
+
+- Added **Butter Converter** (tool 704) — convert butter between US sticks, cups, tablespoons, ounces, and grams. Utilities category. 710 hub checks pass.
+
 ## v55.3.0
 
 - Added **Book Spine Width** (tool 703) — spine width in inches, mm, and points from page count and pages-per-inch, plus the inverse. Utilities category. 709 hub checks pass.
