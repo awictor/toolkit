@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.1.0
+
+- Added **Dog Food Portion** (tool 741) — daily calories and cups to feed a dog from its weight and activity level, using the RER formula. Utilities category. 747 hub checks pass.
+
 ## v59.0.0
 
 - 🎉 **740 tools milestone.** Added **Road Trip Fuel Cost** (tool 740) — gas cost of a drive from distance, MPG, and price, with cost per mile and per person. Utilities category. 746 hub checks pass.
