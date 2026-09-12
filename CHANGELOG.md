@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.0.0
+
+- 🎉 **610 tools milestone.** Added **Cash-on-Cash Return** (tool 610) — rental cash flow and cash-on-cash return from rent, expenses, mortgage, and cash invested. Everyday category. 616 hub checks pass.
+
 ## v45.9.0
 
 - Added **RAID Calculator** (tool 609) — usable capacity, efficiency, and fault tolerance for RAID 0, 1, 5, 6, and 10 arrays. Everyday category. 615 hub checks pass.
