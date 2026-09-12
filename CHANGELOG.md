@@ -1,5 +1,9 @@
 # Changelog
 
+## v51.2.0
+
+- Added **Takt Time Calculator** (tool 662) — takt time from available time and demand, with a cycle-vs-takt bottleneck check. Everyday category. 668 hub checks pass.
+
 ## v51.1.0
 
 - Added **OEE Calculator** (tool 661) — Overall Equipment Effectiveness from availability, performance, and quality. Everyday category. 667 hub checks pass.
