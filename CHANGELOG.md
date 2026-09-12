@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.9.0
+
+- Added **Air Fryer Converter** (tool 739) — convert oven temperature and time to air fryer settings and back (−25 °F, ×0.8 time). Utilities category. 745 hub checks pass.
+
 ## v58.8.0
 
 - Added **Room Lighting** (tool 738) — lumens and fixture count a room needs for a target foot-candle level, with lux conversion and room-type presets. Utilities category. 744 hub checks pass.
