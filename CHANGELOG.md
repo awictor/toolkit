@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.5.0
+
+- Added **Camera Field of View** (tool 735) — horizontal, vertical, and diagonal angle of view from focal length and sensor size, with format presets. Utilities category. 741 hub checks pass.
+
 ## v58.4.0
 
 - Added **Lumber Weight** (tool 734) — weight of boards and timber by species, dimensions, and quantity, plus total board feet. Utilities category. 740 hub checks pass.
