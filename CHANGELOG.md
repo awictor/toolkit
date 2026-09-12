@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.3.0
+
+- Added **Beam Deflection** (tool 563) — maximum deflection for simply supported and cantilever beams under point or uniform loads, plus rectangular moment of inertia. Everyday category. 569 hub checks pass.
+
 ## v41.2.0
 
 - Added **Drywall Calculator** (tool 562) — wall area, drywall sheet count with waste, and screw estimate from room dimensions. Everyday category. 568 hub checks pass.
