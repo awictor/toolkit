@@ -1,5 +1,9 @@
 # Changelog
 
+## v44.1.0
+
+- Added **Swim Pace Calculator** (tool 591) — pace per 100m/100yd, total time, and speed from distance and time. Everyday category. 597 hub checks pass.
+
 ## v44.0.0 — 590 tools 🎉
 
 - **Milestone: 590 tools.** Added **Caffeine Calculator** (tool 590) — how much caffeine is left by its half-life and when it drops below a bedtime threshold. Everyday category. 596 hub checks pass.
