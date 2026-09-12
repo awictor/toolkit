@@ -1,5 +1,9 @@
 # Changelog
 
+## v41.9.0
+
+- Added **Coil Inductance Calculator** (tool 569) — air-core solenoid inductance (Wheeler's formula), turns solve, and inductive reactance. Everyday category. 575 hub checks pass.
+
 ## v41.8.0
 
 - Added **Op-Amp Gain Calculator** (tool 568) — inverting and non-inverting gain, gain in dB, and output voltage from Rf and Rin. Everyday category. 574 hub checks pass.
