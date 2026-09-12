@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.5.0
+
+- Added **Fabric Yardage** (tool 675) — how many yards to buy for a set of pieces at a given size from a bolt of known width (pieces per row, rows, yards). Crafts/utilities category. 681 hub checks pass.
+
 ## v52.4.0
 
 - Added **Sail Area Ratio** (tool 674) — sailboat performance ratios: sail area-displacement (SA/D), displacement-length (D/L), and ballast ratio. Marine/utilities category. 680 hub checks pass.
