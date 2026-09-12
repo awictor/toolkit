@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.0.0 — 600 tools 🎉🎉
+
+- **Milestone: 600 tools.** Added **Party Servings Calculator** (tool 600) — drinks, main protein, appetizers, and ice for a guest count and party length. Everyday category. 606 hub checks pass.
+
 ## v44.9.0
 
 - Added **Yeast Converter** (tool 599) — convert baking yeast between instant, active dry, and fresh by weight. Everyday category. 605 hub checks pass.
