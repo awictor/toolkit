@@ -1,5 +1,9 @@
 # Changelog
 
+## v46.9.0
+
+- Added **String Tension & Frequency** (tool 619) — string fundamental frequency, tension, or linear density from Mersenne's law. Everyday category. 625 hub checks pass.
+
 ## v46.8.0
 
 - Added **Wet-Bulb Temperature** (tool 618) — wet-bulb temperature and heat-stress risk from air temperature and relative humidity via Stull's formula. Everyday category. 624 hub checks pass.
