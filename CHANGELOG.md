@@ -1,5 +1,9 @@
 # Changelog
 
+## v52.4.0
+
+- Added **Sail Area Ratio** (tool 674) — sailboat performance ratios: sail area-displacement (SA/D), displacement-length (D/L), and ballast ratio. Marine/utilities category. 680 hub checks pass.
+
 ## v52.3.0
 
 - Added **Anchor Scope** (tool 673) — rode length needed for a target scope, actual scope from depth and bow height, and a holding assessment against the 5:1–7:1 range. Marine/utilities category. 679 hub checks pass.
