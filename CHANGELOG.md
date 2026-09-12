@@ -1,5 +1,9 @@
 # Changelog
 
+## v45.2.0
+
+- Added **Ring Size Converter** (tool 602) — convert ring sizes between US size, circumference, diameter, and EU/ISO. Everyday category. 608 hub checks pass.
+
 ## v45.1.0
 
 - Added **DPI / Print Size Calculator** (tool 601) — print size from pixels and DPI, pixels needed for a size, effective DPI, and megapixels. Everyday category. 607 hub checks pass.
