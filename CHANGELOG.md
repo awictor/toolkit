@@ -1,5 +1,9 @@
 # Changelog
 
+## v53.3.0
+
+- Added **Fertilizer Rate** (tool 683) — product per 1000 sq ft and total product for a target nitrogen rate and %N, plus the nitrogen actually applied. Utilities category. 689 hub checks pass.
+
 ## v53.2.0
 
 - Added **Grass Seed** (tool 682) — pounds of seed from lawn area and seeding rate, bags to buy, and coverage, with new-lawn/overseed presets. Utilities category. 688 hub checks pass.
