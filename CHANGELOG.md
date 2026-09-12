@@ -1,5 +1,9 @@
 # Changelog
 
+## v50.9.0
+
+- Added **LLM VRAM Calculator** (tool 659) — GPU VRAM needed to run a model from parameter count and quantization. Everyday category. 665 hub checks pass.
+
 ## v50.8.0
 
 - Added **LLM Token Cost Calculator** (tool 658) — estimate LLM API cost from input/output tokens with per-call and monthly projections. Everyday category. 664 hub checks pass.
