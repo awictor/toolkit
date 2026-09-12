@@ -1,5 +1,9 @@
 # Changelog
 
+## v47.3.0
+
+- Added **Net Worth Calculator** (tool 623) — net worth and debt-to-asset ratio from your assets and liabilities. Everyday category. 629 hub checks pass.
+
 ## v47.2.0
 
 - Added **Freelance Rate Calculator** (tool 622) — the hourly rate you need from target income, expenses, and billable hours. Everyday category. 628 hub checks pass.
