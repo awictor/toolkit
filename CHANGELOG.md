@@ -1,5 +1,9 @@
 # Changelog
 
+## v48.5.0
+
+- Added **Rebar Calculator** (tool 635) — grid bar count and total rebar length for a slab from area and spacing. Everyday category. 641 hub checks pass.
+
 ## v48.4.0
 
 - Added **Balance Transfer Calculator** (tool 634) — compare keeping vs. transferring a credit card balance to a 0% intro card, with net savings. Everyday category. 640 hub checks pass.
