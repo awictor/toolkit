@@ -1,5 +1,9 @@
 # Changelog
 
+## v42.1.0
+
+- Added **Telescope Calculator** (tool 571) — magnification, focal ratio, exit pupil, and max useful magnification from aperture, focal length, and eyepiece. Everyday category. 577 hub checks pass.
+
 ## v42.0.0 — 570 tools 🎉
 
 - **Milestone: 570 tools.** Added **Voltage Drop Calculator** (tool 570) — copper wire voltage drop and percentage from AWG size, run length, and current, with a 3% guideline check. Everyday category. 576 hub checks pass.
