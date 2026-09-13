@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.5.0
+
+- Added **Roof Squares** (tool 825) — roofing squares and shingle bundles from footprint, pitch, and waste. Utilities category. 831 hub checks pass.
+
 ## v67.4.0
 
 - Added **Crawlspace Vents** (tool 824) — how many foundation vents a crawlspace needs by the 1/150 rule or 1/1500 with a vapor barrier. Utilities category. 830 hub checks pass.
