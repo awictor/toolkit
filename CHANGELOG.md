@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.8.0
+
+- Added **Landscape Fabric** (tool 818) — strips and rolls to cover a bed, allowing for overlap between strips. Utilities category. 824 hub checks pass.
+
 ## v66.7.0
 
 - Added **Retaining Wall Blocks** (tool 817) — block count for a retaining wall from wall and block dimensions, cap course included. Utilities category. 823 hub checks pass.
