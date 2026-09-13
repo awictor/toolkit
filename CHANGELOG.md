@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.6.0
+
+- Added **Gelatin Calculator** (tool 796) — how much gelatin sets a given volume of liquid at a chosen firmness, with sheet and envelope equivalents. Utilities category. 802 hub checks pass.
+
 ## v64.5.0
 
 - Added **Cake Pan Converter** (tool 795) — scale a cake or brownie recipe when you swap pan sizes, by comparing pan areas. Utilities category. 801 hub checks pass.
