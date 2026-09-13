@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.3.0
+
+- Added **Wrench Size Converter** (tool 803) — convert between metric and SAE wrench and socket sizes with nearest-match rounding. Utilities category. 809 hub checks pass.
+
 ## v65.2.0
 
 - Added **Seed Starting Date** (tool 802) — when to start seeds indoors, counting back from the last frost date by crop. Utilities category. 808 hub checks pass.
