@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.9.0
+
+- Added **Weed Killer Mix** (tool 819) — concentrate per sprayer tank at the label rate, and tanks to cover an area. Utilities category. 825 hub checks pass.
+
 ## v66.8.0
 
 - Added **Landscape Fabric** (tool 818) — strips and rolls to cover a bed, allowing for overlap between strips. Utilities category. 824 hub checks pass.
