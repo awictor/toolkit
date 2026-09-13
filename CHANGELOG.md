@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.1.0
+
+- Added **Kerf Bending** (tool 761) — number of kerf cuts to bend a board around a radius, from bend geometry and measured test-kerf spacing. Utilities category. 767 hub checks pass.
+
 ## v61.0.0
 
 - 🎉 **760 tools milestone.** Added **Water Heater Recovery** (tool 760) — reheat time from tank size, temperature rise, and electric or gas power input. Utilities category. 766 hub checks pass.
