@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.6.0
+
+- Added **TV Viewing Distance** (tool 756) — ideal seating distance from TV size and resolution, or the biggest TV that fits a distance. Utilities category. 762 hub checks pass.
+
 ## v60.5.0
 
 - Added **Faucet Flow Rate** (tool 755) — measure GPM from a container fill test, check against limits, and estimate daily and yearly water usage. Utilities category. 761 hub checks pass.
