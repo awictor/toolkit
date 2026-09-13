@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.4.0
+
+- Added **Coolant Mix** (tool 804) — concentrated antifreeze and water for a target coolant concentration and system capacity. Utilities category. 810 hub checks pass.
+
 ## v65.3.0
 
 - Added **Wrench Size Converter** (tool 803) — convert between metric and SAE wrench and socket sizes with nearest-match rounding. Utilities category. 809 hub checks pass.
