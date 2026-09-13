@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.2.0
+
+- Added **Hot Tub Heat-Up Time** (tool 782) — estimate how long a hot tub takes to reach temperature from volume, temperature rise, and heater power. Utilities category. 788 hub checks pass.
+
 ## v63.1.0
 
 - Added **Sauna Heater Size** (tool 781) — size a sauna heater in kW from room dimensions plus glass and uninsulated surfaces. Utilities category. 787 hub checks pass.
