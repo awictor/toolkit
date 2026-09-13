@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.9.0
+
+- Added **Nozzle Flow Rate** (tool 809) — 3D printer volumetric flow and max print speed from layer height, line width, and hotend flow limit. Utilities category. 815 hub checks pass.
+
 ## v65.8.0
 
 - Added **Desk Height** (tool 808) — ergonomic sitting, standing, and monitor heights from body height. Utilities category. 814 hub checks pass.
