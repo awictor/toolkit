@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.4.0
+
+- Added **SAC Rate** (tool 844) — scuba surface air consumption, RMV breathing volume, ATA at depth, and full-tank duration. Diving category. 850 hub checks pass.
+
 ## v69.3.0
 
 - Added **Nitrox MOD** (tool 843) — max operating depth (metres/feet), ppO₂ at depth, and best enriched-air mix for a target depth. Diving category. 849 hub checks pass.
