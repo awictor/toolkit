@@ -1,5 +1,10 @@
 # Changelog
 
+## v63.0.0
+
+- Added **Well Tank Drawdown** (tool 780) — usable water between pump cycles from tank size, precharge, and cut-in/cut-out pressures. Utilities category. 786 hub checks pass.
+- Milestone: the Toolkit now spans **780 tools**.
+
 ## v62.9.0
 
 - Added **Range Hood CFM** (tool 779) — size a kitchen range hood in CFM from cooktop width, burner BTU, and island placement. Utilities category. 785 hub checks pass.
