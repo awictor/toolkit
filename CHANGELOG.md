@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.3.0
+
+- Added **Garage Heater BTU** (tool 783) — size a garage or shop heater in BTU from room dimensions, temperature rise, and insulation quality. Utilities category. 789 hub checks pass.
+
 ## v63.2.0
 
 - Added **Hot Tub Heat-Up Time** (tool 782) — estimate how long a hot tub takes to reach temperature from volume, temperature rise, and heater power. Utilities category. 788 hub checks pass.
