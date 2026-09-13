@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.6.0
+
+- Added **Water Heater Peak Demand** (tool 786) — estimate peak-hour hot water demand and match it to a water heater's First Hour Rating. Utilities category. 792 hub checks pass.
+
 ## v63.5.0
 
 - Added **Dryer Vent Length** (tool 785) — check a dryer vent against the code limit: equivalent length from straight duct plus elbows, and allowance left. Utilities category. 791 hub checks pass.
