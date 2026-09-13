@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.4.0
+
+- Added **Soaker Hose Run Time** (tool 774) — how long to run a soaker hose to give a bed a target depth of water, from area, depth, and flow rate. Utilities category. 780 hub checks pass.
+
 ## v62.3.0
 
 - Added **Septic Tank Size** (tool 773) — recommended septic tank capacity and daily flow from the number of bedrooms. Utilities category. 779 hub checks pass.
