@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.5.0
+
+- Added **Cake Pan Converter** (tool 795) — scale a cake or brownie recipe when you swap pan sizes, by comparing pan areas. Utilities category. 801 hub checks pass.
+
 ## v64.4.0
 
 - Added **Deep Fry Oil** (tool 794) — how much frying oil a pot holds at a safe depth, from pot diameter, height, and headspace. Utilities category. 800 hub checks pass.
