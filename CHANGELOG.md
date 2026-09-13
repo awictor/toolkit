@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.5.0
+
+- Added **Ski Size** (tool 775) — the right ski length from your height, skill level, and weight. Utilities category. 781 hub checks pass.
+
 ## v62.4.0
 
 - Added **Soaker Hose Run Time** (tool 774) — how long to run a soaker hose to give a bed a target depth of water, from area, depth, and flow rate. Utilities category. 780 hub checks pass.
