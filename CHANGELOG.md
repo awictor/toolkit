@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.3.0
+
+- Added **Deck Footing Size** (tool 833) — required footing diameter for a deck post from its tributary load and soil bearing capacity (IRC R401.4.1). Utilities category. 839 hub checks pass.
+
 ## v68.2.0
 
 - Added **Thinset Coverage** (tool 832) — bags of thinset mortar for a tile job from area, trowel notch size, and waste allowance. Utilities category. 838 hub checks pass.
