@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.2.0
+
+- Added **Seed Starting Date** (tool 802) — when to start seeds indoors, counting back from the last frost date by crop. Utilities category. 808 hub checks pass.
+
 ## v65.1.0
 
 - Added **Chicken Coop Size** (tool 801) — coop and run square footage and nest-box count for a backyard flock. Utilities category. 807 hub checks pass.
