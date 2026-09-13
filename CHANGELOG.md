@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.7.0
+
+- Added **Top of Descent** (tool 837) — descent point from the 3:1 rule, the 3° descent rate for a groundspeed, and current glidepath angle. Aviation category. 843 hub checks pass.
+
 ## v68.6.0
 
 - Added **ND Filter** (tool 836) — long-exposure shutter time after stacking a neutral density filter (each stop doubles the exposure). Photography category. 842 hub checks pass.
