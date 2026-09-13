@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.4.0
+
+- Added **Chair Rail Height** (tool 814) — classic chair rail, wainscoting, and picture rail heights from your wall height. Utilities category. 820 hub checks pass.
+
 ## v66.3.0
 
 - Added **Picture Hanging Height** (tool 813) — exact hook height to hang art at gallery eye level, from picture height and wire drop. Utilities category. 819 hub checks pass.
