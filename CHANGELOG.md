@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.4.0
+
+- Added **LED Strip Power Supply** (tool 764) — power supply watts and amps for an LED strip from watts per foot, length, voltage, and headroom. Utilities category. 770 hub checks pass.
+
 ## v61.3.0
 
 - Added **Treadmill Pace** (tool 763) — convert treadmill MPH to running pace per mile and per kilometer, and back. Utilities category. 769 hub checks pass.
