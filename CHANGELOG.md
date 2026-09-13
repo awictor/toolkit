@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.1.0
+
+- Added **Sauna Heater Size** (tool 781) — size a sauna heater in kW from room dimensions plus glass and uninsulated surfaces. Utilities category. 787 hub checks pass.
+
 ## v63.0.0
 
 - Added **Well Tank Drawdown** (tool 780) — usable water between pump cycles from tank size, precharge, and cut-in/cut-out pressures. Utilities category. 786 hub checks pass.
