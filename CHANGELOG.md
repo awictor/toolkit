@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.7.0
+
+- Added **Generator Fuel Time** (tool 787) — estimate how long a generator runs on a tank of fuel from rated power, load level, and tank size. Utilities category. 793 hub checks pass.
+
 ## v63.6.0
 
 - Added **Water Heater Peak Demand** (tool 786) — estimate peak-hour hot water demand and match it to a water heater's First Hour Rating. Utilities category. 792 hub checks pass.
