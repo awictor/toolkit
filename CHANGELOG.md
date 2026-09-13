@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.3.0
+
+- Added **Nitrox MOD** (tool 843) — max operating depth (metres/feet), ppO₂ at depth, and best enriched-air mix for a target depth. Diving category. 849 hub checks pass.
+
 ## v69.2.0
 
 - Added **Strike Water Temp** (tool 842) — homebrew strike water temperature from mash target, grain temp, and water-to-grain ratio (Palmer's infusion formula). Cooking category. 848 hub checks pass.
