@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.2.0
+
+- Added **Tile Layout** (tool 812) — full tiles across a run and the edge cut size, from tile size and grout gap. Utilities category. 818 hub checks pass.
+
 ## v66.1.0
 
 - Added **Solar Panel Tilt** (tool 811) — best fixed solar panel tilt from latitude, with summer and winter adjustments. Utilities category. 817 hub checks pass.
