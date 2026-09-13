@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.9.0
+
+- Added **Range Hood CFM** (tool 779) — size a kitchen range hood in CFM from cooktop width, burner BTU, and island placement. Utilities category. 785 hub checks pass.
+
 ## v62.8.0
 
 - Added **Water Softener Size** (tool 778) — size a water softener from household size, water hardness, and iron. Utilities category. 784 hub checks pass.
