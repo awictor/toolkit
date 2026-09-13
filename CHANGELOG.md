@@ -1,5 +1,10 @@
 # Changelog
 
+## v66.0.0
+
+- Added **Inverter Size** (tool 810) — continuous and surge watts a power inverter must handle, from running load and largest motor. Utilities category. 816 hub checks pass.
+- Milestone: the Toolkit now spans **810 tools**.
+
 ## v65.9.0
 
 - Added **Nozzle Flow Rate** (tool 809) — 3D printer volumetric flow and max print speed from layer height, line width, and hotend flow limit. Utilities category. 815 hub checks pass.
