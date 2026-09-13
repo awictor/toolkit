@@ -1,5 +1,10 @@
 # Changelog
 
+## v65.0.0
+
+- Added **Greenhouse Heater** (tool 800) — size a greenhouse heater from glazing area, glazing type, and temperature difference. Utilities category. 806 hub checks pass.
+- Milestone: the Toolkit now spans **800 tools**.
+
 ## v64.9.0
 
 - Added **Pond Liner Size** (tool 799) — flexible pond liner dimensions from pond length, width, depth, and overlap. Utilities category. 805 hub checks pass.
