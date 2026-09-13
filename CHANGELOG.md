@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.7.0
+
+- Added **Speaker Impedance** (tool 757) — total ohms for speakers wired in series or parallel, with an amp-minimum safety check. Utilities category. 763 hub checks pass.
+
 ## v60.6.0
 
 - Added **TV Viewing Distance** (tool 756) — ideal seating distance from TV size and resolution, or the biggest TV that fits a distance. Utilities category. 762 hub checks pass.
