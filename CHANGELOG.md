@@ -1,5 +1,10 @@
 # Changelog
 
+## v64.0.0
+
+- Added **Radiant Floor Heat** (tool 790) — estimate radiant floor heat output from area and floor-to-room temperature difference, with a comfort-limited max. Utilities category. 796 hub checks pass.
+- Milestone: the Toolkit now spans **790 tools**.
+
 ## v63.9.0
 
 - Added **Water Pressure Loss** (tool 789) — estimate water pressure loss to pipe friction (Hazen-Williams) from flow, pipe size, length, and material. Utilities category. 795 hub checks pass.
