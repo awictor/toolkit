@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.3.0
+
+- Added **Treadmill Pace** (tool 763) — convert treadmill MPH to running pace per mile and per kilometer, and back. Utilities category. 769 hub checks pass.
+
 ## v61.2.0
 
 - Added **Board & Batten** (tool 762) — batten count, even spacing, and total batten lumber for an accent wall. Utilities category. 768 hub checks pass.
