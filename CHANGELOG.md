@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.7.0
+
+- Added **Sump Pump Size** (tool 777) — find the pump GPM you need from basin diameter and how fast water rises in the pit. Utilities category. 783 hub checks pass.
+
 ## v62.6.0
 
 - Added **Expansion Tank Size** (tool 776) — size a thermal expansion tank for a water heater from capacity, supply pressure, and relief pressure. Utilities category. 782 hub checks pass.
