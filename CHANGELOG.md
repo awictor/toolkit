@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.0.0
+
+- 🎉 **770 tools milestone.** Added **Towing Capacity Check** (tool 770) — whether a loaded trailer is within a vehicle's tow rating, with margin and tongue weight. Utilities category. 776 hub checks pass.
+
 ## v61.9.0
 
 - Added **Crown Molding Angles** (tool 769) — miter and bevel angles for cutting crown molding flat on a compound saw, from spring and wall corner angle. Utilities category. 775 hub checks pass.
