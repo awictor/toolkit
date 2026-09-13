@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.6.0
+
+- Added **Caulk Coverage** (tool 766) — tubes of caulk needed from joint length and bead size, with per-tube coverage. Utilities category. 772 hub checks pass.
+
 ## v61.5.0
 
 - Added **TV Mount Height** (tool 765) — TV mounting height with screen center at seated eye level and the bracket bottom-edge height. Utilities category. 771 hub checks pass.
