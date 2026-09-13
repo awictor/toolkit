@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.1.0
+
+- Added **Return Grille Size** (tool 791) — size an HVAC return air grille from airflow, face velocity, and grille free area. Utilities category. 797 hub checks pass.
+
 ## v64.0.0
 
 - Added **Radiant Floor Heat** (tool 790) — estimate radiant floor heat output from area and floor-to-room temperature difference, with a comfort-limited max. Utilities category. 796 hub checks pass.
