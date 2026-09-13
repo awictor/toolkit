@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.8.0
+
+- Added **Pool Heater BTU** (tool 788) — size a pool heater in BTU from surface area and temperature rise, plus heat-up time. Utilities category. 794 hub checks pass.
+
 ## v63.7.0
 
 - Added **Generator Fuel Time** (tool 787) — estimate how long a generator runs on a tank of fuel from rated power, load level, and tank size. Utilities category. 793 hub checks pass.
