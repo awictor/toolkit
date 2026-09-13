@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.1.0
+
+- Added **Deck Beam Span** (tool 831) — max allowable deck beam span and the smallest beam that carries your joists, from IRC Table R507.5 (Southern Pine). Utilities category. 837 hub checks pass.
+
 ## v68.0.0
 
 - Added **EV Charger Circuit** (tool 830) — breaker and wire size for a Level 2 EV charger by the NEC 125% continuous-load rule. Utilities category. 836 hub checks pass.
