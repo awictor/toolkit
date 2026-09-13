@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.3.0
+
+- Added **Picture Hanging Height** (tool 813) — exact hook height to hang art at gallery eye level, from picture height and wire drop. Utilities category. 819 hub checks pass.
+
 ## v66.2.0
 
 - Added **Tile Layout** (tool 812) — full tiles across a run and the edge cut size, from tile size and grout gap. Utilities category. 818 hub checks pass.
