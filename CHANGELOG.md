@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.8.0
+
+- Added **Radiant Tube Length** (tool 828) — PEX tubing feet and loops a radiant floor needs from area and tube spacing. Utilities category. 834 hub checks pass.
+
 ## v67.7.0
 
 - Added **Baseboard Heat Length** (tool 827) — feet of hydronic baseboard a room needs from its heat loss and output per foot. Utilities category. 833 hub checks pass.
