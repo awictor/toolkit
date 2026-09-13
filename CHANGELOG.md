@@ -1,5 +1,10 @@
 # Changelog
 
+## v69.0.0
+
+- Added **Weight & Balance** (tool 840) — aircraft total weight, center of gravity, and CG-envelope check (forward/aft limits + max gross). Aviation category. 846 hub checks pass.
+- Milestone: the Toolkit now spans **840 tools**.
+
 ## v68.9.0
 
 - Added **Wind Correction Angle** (tool 839) — wind triangle solver: crab angle, heading, groundspeed, and head/cross components. Aviation category. 845 hub checks pass.
