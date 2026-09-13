@@ -1,5 +1,10 @@
 # Changelog
 
+## v67.0.0
+
+- Added **Salt Spreader Rate** (tool 820) — how much ice-melt or fertilizer to spread over an area, and how many bags to buy. Utilities category. 826 hub checks pass.
+- Milestone: the Toolkit now spans **820 tools**.
+
 ## v66.9.0
 
 - Added **Weed Killer Mix** (tool 819) — concentrate per sprayer tank at the label rate, and tanks to cover an area. Utilities category. 825 hub checks pass.
