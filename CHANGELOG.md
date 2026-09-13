@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.2.0
+
+- Added **Plywood Sheets** (tool 822) — how many 4×8 plywood or OSB sheets cover an area, with a waste allowance. Utilities category. 828 hub checks pass.
+
 ## v67.1.0
 
 - Added **Joist Count** (tool 821) — floor joists across a run at a given on-center spacing, plus mid-span blocking rows. Utilities category. 827 hub checks pass.
