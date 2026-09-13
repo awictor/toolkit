@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.1.0
+
+- Added **Solar Panel Tilt** (tool 811) — best fixed solar panel tilt from latitude, with summer and winter adjustments. Utilities category. 817 hub checks pass.
+
 ## v66.0.0
 
 - Added **Inverter Size** (tool 810) — continuous and surge watts a power inverter must handle, from running load and largest motor. Utilities category. 816 hub checks pass.
