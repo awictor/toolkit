@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.1.0
+
+- Added **Air Tool CFM** (tool 771) — compressor CFM sizing from combined air-tool demand and a safety factor, with a common-tool checklist. Utilities category. 777 hub checks pass.
+
 ## v62.0.0
 
 - 🎉 **770 tools milestone.** Added **Towing Capacity Check** (tool 770) — whether a loaded trailer is within a vehicle's tow rating, with margin and tongue weight. Utilities category. 776 hub checks pass.
