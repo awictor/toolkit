@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.0.0
+
+- 🎉 **760 tools milestone.** Added **Water Heater Recovery** (tool 760) — reheat time from tank size, temperature rise, and electric or gas power input. Utilities category. 766 hub checks pass.
+
 ## v60.9.0
 
 - Added **Attic Ventilation** (tool 759) — net free vent area (1/150 or 1/300 rule) with intake/exhaust split from attic floor area. Utilities category. 765 hub checks pass.
