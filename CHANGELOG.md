@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.8.0
+
+- Added **Water Softener Size** (tool 778) — size a water softener from household size, water hardness, and iron. Utilities category. 784 hub checks pass.
+
 ## v62.7.0
 
 - Added **Sump Pump Size** (tool 777) — find the pump GPM you need from basin diameter and how fast water rises in the pit. Utilities category. 783 hub checks pass.
