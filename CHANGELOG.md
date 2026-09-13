@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.7.0
+
+- Added **Retaining Wall Blocks** (tool 817) — block count for a retaining wall from wall and block dimensions, cap course included. Utilities category. 823 hub checks pass.
+
 ## v66.6.0
 
 - Added **Railing Baluster Spacing** (tool 816) — balusters to keep railing gaps under 4 inches, plus the code handrail height range. Utilities category. 822 hub checks pass.
