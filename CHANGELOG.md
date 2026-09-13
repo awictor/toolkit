@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.8.0
+
+- Added **Vinyl Siding Squares** (tool 768) — squares of vinyl siding from wall area and a waste allowance. Utilities category. 774 hub checks pass.
+
 ## v61.7.0
 
 - Added **Rebar Lap Splice** (tool 767) — lap splice overlap length from bar size and lap factor, with the 12-inch code minimum. Utilities category. 773 hub checks pass.
