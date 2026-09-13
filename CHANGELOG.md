@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.8.0
+
+- Added **True Airspeed** (tool 838) — calibrated-to-true airspeed conversion via the ISA density ratio, with gain percentage. Aviation category. 844 hub checks pass.
+
 ## v68.7.0
 
 - Added **Top of Descent** (tool 837) — descent point from the 3:1 rule, the 3° descent rate for a groundspeed, and current glidepath angle. Aviation category. 843 hub checks pass.
