@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.2.0
+
+- Added **Deck Stain Coverage** (tool 772) — gallons of deck stain or sealer from area, coats, and coverage rate. Utilities category. 778 hub checks pass.
+
 ## v62.1.0
 
 - Added **Air Tool CFM** (tool 771) — compressor CFM sizing from combined air-tool demand and a safety factor, with a common-tool checklist. Utilities category. 777 hub checks pass.
