@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.5.0
+
+- Added **Hitch Drop** (tool 805) — ball-mount drop or rise for a level tow, from receiver and coupler heights. Utilities category. 811 hub checks pass.
+
 ## v65.4.0
 
 - Added **Coolant Mix** (tool 804) — concentrated antifreeze and water for a target coolant concentration and system capacity. Utilities category. 810 hub checks pass.
