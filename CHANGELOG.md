@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.6.0
+
+- Added **ND Filter** (tool 836) — long-exposure shutter time after stacking a neutral density filter (each stop doubles the exposure). Photography category. 842 hub checks pass.
+
 ## v68.5.0
 
 - Added **Sous Vide Time** (tool 835) — core heat-up time in a water bath from thickness and shape, using the square-law heating model (Baldwin). Cooking category. 841 hub checks pass.
