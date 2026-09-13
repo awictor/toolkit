@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.5.0
+
+- Added **Wood Movement** (tool 845) — seasonal board expansion/shrinkage across the grain by species, cut, and moisture-content change (Wood Handbook coefficients). Woodworking category. 851 hub checks pass.
+
 ## v69.4.0
 
 - Added **SAC Rate** (tool 844) — scuba surface air consumption, RMV breathing volume, ATA at depth, and full-tank duration. Diving category. 850 hub checks pass.
