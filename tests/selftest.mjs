@@ -820,6 +820,7 @@ const tools = [
   ['Joist Count', 'https://awictor.github.io/joist-count-floor/'],
   ['Plywood Sheets', 'https://awictor.github.io/plywood-sheets-wall/'],
   ['Attic Ventilation', 'https://awictor.github.io/attic-ventilation/'],
+  ['Crawlspace Vents', 'https://awictor.github.io/crawlspace-vents/'],
   ['Take-Home Pay', 'https://awictor.github.io/take-home/'],
   ['JsonToSwift', 'https://awictor.github.io/json-to-swift/'],
   ['Deck Board Calculator', 'https://awictor.github.io/deck-calc/'],
@@ -841,27 +842,27 @@ for (const [name, url] of tools) {
     assert.ok(html.includes('>' + name + '<'), `missing name ${name}`);
   });
 }
-check('exactly 823 tool cards', () => {
-  assert.equal((html.match(/class="card"/g) || []).length, 823);
+check('exactly 824 tool cards', () => {
+  assert.equal((html.match(/class="card"/g) || []).length, 824);
 });
 check('tools grouped into category sections', () => {
   assert.equal((html.match(/class="cat"/g) || []).length, 7);
   for (const c of ['Finance', 'Developer', 'Design', 'Security', 'Writing', 'Health', 'Everyday'])
     assert.ok(html.includes('<h3>' + c) || html.includes(c + '</h3>') || new RegExp('<h3>'+c).test(html), 'missing category ' + c);
 });
-check('valid JSON-LD ItemList with 823 items', () => {
+check('valid JSON-LD ItemList with 824 items', () => {
   const m = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
   assert.ok(m, 'no JSON-LD block');
   const data = JSON.parse(m[1]);
   assert.equal(data['@type'], 'ItemList');
-  assert.equal(data.itemListElement.length, 823);
+  assert.equal(data.itemListElement.length, 824);
   assert.equal(data.itemListElement[0].item.url, tools[0][1]);
 });
 
-check('sitemap.xml lists all 823 pages', () => {
+check('sitemap.xml lists all 824 pages', () => {
   const sm = readFileSync(join(__dirname, '..', 'sitemap.xml'), 'utf8');
   const urls = ['toolkit', ...tools.map(t => t[1])];
-  assert.equal((sm.match(/<loc>/g) || []).length, 824);
+  assert.equal((sm.match(/<loc>/g) || []).length, 825);
   assert.ok(sm.includes('https://awictor.github.io/toolkit/'));
   for (const [, url] of tools) assert.ok(sm.includes(url), 'sitemap missing ' + url);
 });
