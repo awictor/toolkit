@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.8.0
+
+- Added **Grow Light Wattage** (tool 798) — size an LED grow light in watts from canopy area and growth stage. Utilities category. 804 hub checks pass.
+
 ## v64.7.0
 
 - Added **Cheese Board Amount** (tool 797) — how much cheese and charcuterie to buy for a gathering, and how many cheese varieties. Utilities category. 803 hub checks pass.
