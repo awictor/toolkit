@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.7.0
+
+- Added **Baseboard Heat Length** (tool 827) — feet of hydronic baseboard a room needs from its heat loss and output per foot. Utilities category. 833 hub checks pass.
+
 ## v67.6.0
 
 - Added **Gutter Slope** (tool 826) — drop and downspouts a gutter run needs to drain, from run length. Utilities category. 832 hub checks pass.
