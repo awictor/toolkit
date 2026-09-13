@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.1.0
+
+- Added **Battery C-Rate** (tool 841) — charge/discharge current, runtime, and 1C reference from pack capacity and C-rate. Electronics category. 847 hub checks pass.
+
 ## v69.0.0
 
 - Added **Weight & Balance** (tool 840) — aircraft total weight, center of gravity, and CG-envelope check (forward/aft limits + max gross). Aviation category. 846 hub checks pass.
