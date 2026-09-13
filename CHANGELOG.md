@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.9.0
+
+- Added **Wind Correction Angle** (tool 839) — wind triangle solver: crab angle, heading, groundspeed, and head/cross components. Aviation category. 845 hub checks pass.
+
 ## v68.8.0
 
 - Added **True Airspeed** (tool 838) — calibrated-to-true airspeed conversion via the ISA density ratio, with gain percentage. Aviation category. 844 hub checks pass.
