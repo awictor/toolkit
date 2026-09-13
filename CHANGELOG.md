@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.8.0
+
+- Added **Desk Height** (tool 808) — ergonomic sitting, standing, and monitor heights from body height. Utilities category. 814 hub checks pass.
+
 ## v65.7.0
 
 - Added **UPS Runtime** (tool 807) — estimate how long a UPS runs from battery capacity, voltage, and connected load. Utilities category. 813 hub checks pass.
