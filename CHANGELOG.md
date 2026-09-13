@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.9.0
+
+- Added **Crown Molding Angles** (tool 769) — miter and bevel angles for cutting crown molding flat on a compound saw, from spring and wall corner angle. Utilities category. 775 hub checks pass.
+
 ## v61.8.0
 
 - Added **Vinyl Siding Squares** (tool 768) — squares of vinyl siding from wall area and a waste allowance. Utilities category. 774 hub checks pass.
