@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.4.0
+
+- Added **Flue Size** (tool 834) — chimney flue area and the round liner size from a fireplace opening, using the masonry 1/10 rule. Utilities category. 840 hub checks pass.
+
 ## v68.3.0
 
 - Added **Deck Footing Size** (tool 833) — required footing diameter for a deck post from its tributary load and soil bearing capacity (IRC R401.4.1). Utilities category. 839 hub checks pass.
