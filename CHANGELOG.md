@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.6.0
+
+- Added **Railing Baluster Spacing** (tool 816) — balusters to keep railing gaps under 4 inches, plus the code handrail height range. Utilities category. 822 hub checks pass.
+
 ## v66.5.0
 
 - Added **Shelf Bracket Spacing** (tool 815) — how many shelf brackets you need and their spacing from length and material safe span. Utilities category. 821 hub checks pass.
