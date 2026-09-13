@@ -1,5 +1,9 @@
 # Changelog
 
+## v66.5.0
+
+- Added **Shelf Bracket Spacing** (tool 815) — how many shelf brackets you need and their spacing from length and material safe span. Utilities category. 821 hub checks pass.
+
 ## v66.4.0
 
 - Added **Chair Rail Height** (tool 814) — classic chair rail, wainscoting, and picture rail heights from your wall height. Utilities category. 820 hub checks pass.
