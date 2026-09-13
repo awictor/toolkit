@@ -1,5 +1,10 @@
 # Changelog
 
+## v68.0.0
+
+- Added **EV Charger Circuit** (tool 830) — breaker and wire size for a Level 2 EV charger by the NEC 125% continuous-load rule. Utilities category. 836 hub checks pass.
+- Milestone: the Toolkit now spans **830 tools**.
+
 ## v67.9.0
 
 - Added **Junction Box Fill** (tool 829) — NEC box fill: conductor volume by wire gauge versus box cubic-inch capacity. Utilities category. 835 hub checks pass.
