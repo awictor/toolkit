@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.2.0
+
+- Added **Board & Batten** (tool 762) — batten count, even spacing, and total batten lumber for an accent wall. Utilities category. 768 hub checks pass.
+
 ## v61.1.0
 
 - Added **Kerf Bending** (tool 761) — number of kerf cuts to bend a board around a radius, from bend geometry and measured test-kerf spacing. Utilities category. 767 hub checks pass.
