@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.7.0
+
+- Added **UPS Runtime** (tool 807) — estimate how long a UPS runs from battery capacity, voltage, and connected load. Utilities category. 813 hub checks pass.
+
 ## v65.6.0
 
 - Added **CCTV Storage** (tool 806) — how many days of security footage fit on an NVR/DVR drive from cameras, bitrate, and hours. Utilities category. 812 hub checks pass.
