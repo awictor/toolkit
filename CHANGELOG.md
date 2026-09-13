@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.5.0
+
+- Added **TV Mount Height** (tool 765) — TV mounting height with screen center at seated eye level and the bracket bottom-edge height. Utilities category. 771 hub checks pass.
+
 ## v61.4.0
 
 - Added **LED Strip Power Supply** (tool 764) — power supply watts and amps for an LED strip from watts per foot, length, voltage, and headroom. Utilities category. 770 hub checks pass.
