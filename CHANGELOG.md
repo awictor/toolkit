@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.6.0
+
+- Added **Gutter Slope** (tool 826) — drop and downspouts a gutter run needs to drain, from run length. Utilities category. 832 hub checks pass.
+
 ## v67.5.0
 
 - Added **Roof Squares** (tool 825) — roofing squares and shingle bundles from footprint, pitch, and waste. Utilities category. 831 hub checks pass.
