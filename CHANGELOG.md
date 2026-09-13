@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.7.0
+
+- Added **Cheese Board Amount** (tool 797) — how much cheese and charcuterie to buy for a gathering, and how many cheese varieties. Utilities category. 803 hub checks pass.
+
 ## v64.6.0
 
 - Added **Gelatin Calculator** (tool 796) — how much gelatin sets a given volume of liquid at a chosen firmness, with sheet and envelope equivalents. Utilities category. 802 hub checks pass.
