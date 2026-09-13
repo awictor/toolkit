@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.4.0
+
+- Added **Deep Fry Oil** (tool 794) — how much frying oil a pot holds at a safe depth, from pot diameter, height, and headspace. Utilities category. 800 hub checks pass.
+
 ## v64.3.0
 
 - Added **Charcoal Amount** (tool 793) — how many charcoal briquettes to light from grill grate size and target heat level. Utilities category. 799 hub checks pass.
