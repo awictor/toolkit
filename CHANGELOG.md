@@ -1,5 +1,9 @@
 # Changelog
 
+## v61.7.0
+
+- Added **Rebar Lap Splice** (tool 767) — lap splice overlap length from bar size and lap factor, with the 12-inch code minimum. Utilities category. 773 hub checks pass.
+
 ## v61.6.0
 
 - Added **Caulk Coverage** (tool 766) — tubes of caulk needed from joint length and bead size, with per-tube coverage. Utilities category. 772 hub checks pass.
