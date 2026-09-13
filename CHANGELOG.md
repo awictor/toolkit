@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.1.0
+
+- Added **Joist Count** (tool 821) — floor joists across a run at a given on-center spacing, plus mid-span blocking rows. Utilities category. 827 hub checks pass.
+
 ## v67.0.0
 
 - Added **Salt Spreader Rate** (tool 820) — how much ice-melt or fertilizer to spread over an area, and how many bags to buy. Utilities category. 826 hub checks pass.
