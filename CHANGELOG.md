@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.8.0
+
+- Added **Extension Cord Gauge** (tool 758) — recommended cord AWG from load (amps or watts) and length, with safety guards. Utilities category. 764 hub checks pass.
+
 ## v60.7.0
 
 - Added **Speaker Impedance** (tool 757) — total ohms for speakers wired in series or parallel, with an amp-minimum safety check. Utilities category. 763 hub checks pass.
