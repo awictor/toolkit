@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.9.0
+
+- Added **Pond Liner Size** (tool 799) — flexible pond liner dimensions from pond length, width, depth, and overlap. Utilities category. 805 hub checks pass.
+
 ## v64.8.0
 
 - Added **Grow Light Wattage** (tool 798) — size an LED grow light in watts from canopy area and growth stage. Utilities category. 804 hub checks pass.
