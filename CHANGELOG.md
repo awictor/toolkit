@@ -1,5 +1,9 @@
 # Changelog
 
+## v60.9.0
+
+- Added **Attic Ventilation** (tool 759) — net free vent area (1/150 or 1/300 rule) with intake/exhaust split from attic floor area. Utilities category. 765 hub checks pass.
+
 ## v60.8.0
 
 - Added **Extension Cord Gauge** (tool 758) — recommended cord AWG from load (amps or watts) and length, with safety guards. Utilities category. 764 hub checks pass.
