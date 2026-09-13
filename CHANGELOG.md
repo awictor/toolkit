@@ -1,5 +1,9 @@
 # Changelog
 
+## v65.1.0
+
+- Added **Chicken Coop Size** (tool 801) — coop and run square footage and nest-box count for a backyard flock. Utilities category. 807 hub checks pass.
+
 ## v65.0.0
 
 - Added **Greenhouse Heater** (tool 800) — size a greenhouse heater from glazing area, glazing type, and temperature difference. Utilities category. 806 hub checks pass.
