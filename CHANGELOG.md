@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.2.0
+
+- Added **Strike Water Temp** (tool 842) — homebrew strike water temperature from mash target, grain temp, and water-to-grain ratio (Palmer's infusion formula). Cooking category. 848 hub checks pass.
+
 ## v69.1.0
 
 - Added **Battery C-Rate** (tool 841) — charge/discharge current, runtime, and 1C reference from pack capacity and C-rate. Electronics category. 847 hub checks pass.
