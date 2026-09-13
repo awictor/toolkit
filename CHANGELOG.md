@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.3.0
+
+- Added **Septic Tank Size** (tool 773) — recommended septic tank capacity and daily flow from the number of bedrooms. Utilities category. 779 hub checks pass.
+
 ## v62.2.0
 
 - Added **Deck Stain Coverage** (tool 772) — gallons of deck stain or sealer from area, coats, and coverage rate. Utilities category. 778 hub checks pass.
