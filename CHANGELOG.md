@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.9.0
+
+- Added **Junction Box Fill** (tool 829) — NEC box fill: conductor volume by wire gauge versus box cubic-inch capacity. Utilities category. 835 hub checks pass.
+
 ## v67.8.0
 
 - Added **Radiant Tube Length** (tool 828) — PEX tubing feet and loops a radiant floor needs from area and tube spacing. Utilities category. 834 hub checks pass.
