@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.5.0
+
+- Added **Sous Vide Time** (tool 835) — core heat-up time in a water bath from thickness and shape, using the square-law heating model (Baldwin). Cooking category. 841 hub checks pass.
+
 ## v68.4.0
 
 - Added **Flue Size** (tool 834) — chimney flue area and the round liner size from a fireplace opening, using the masonry 1/10 rule. Utilities category. 840 hub checks pass.
