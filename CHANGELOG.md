@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.5.0
+
+- Added **Dryer Vent Length** (tool 785) — check a dryer vent against the code limit: equivalent length from straight duct plus elbows, and allowance left. Utilities category. 791 hub checks pass.
+
 ## v63.4.0
 
 - Added **Window AC BTU** (tool 784) — size a window or room air conditioner in BTU from area, sun exposure, occupants, and kitchen use. Utilities category. 790 hub checks pass.
