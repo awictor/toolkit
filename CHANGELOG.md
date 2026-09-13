@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.9.0
+
+- Added **Water Pressure Loss** (tool 789) — estimate water pressure loss to pipe friction (Hazen-Williams) from flow, pipe size, length, and material. Utilities category. 795 hub checks pass.
+
 ## v63.8.0
 
 - Added **Pool Heater BTU** (tool 788) — size a pool heater in BTU from surface area and temperature rise, plus heat-up time. Utilities category. 794 hub checks pass.
