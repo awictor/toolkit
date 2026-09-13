@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.3.0
+
+- Added **Charcoal Amount** (tool 793) — how many charcoal briquettes to light from grill grate size and target heat level. Utilities category. 799 hub checks pass.
+
 ## v64.2.0
 
 - Added **Duct Air Velocity** (tool 792) — find air velocity in a round or rectangular duct from airflow and duct dimensions. Utilities category. 798 hub checks pass.
