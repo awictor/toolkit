@@ -1,5 +1,9 @@
 # Changelog
 
+## v62.6.0
+
+- Added **Expansion Tank Size** (tool 776) — size a thermal expansion tank for a water heater from capacity, supply pressure, and relief pressure. Utilities category. 782 hub checks pass.
+
 ## v62.5.0
 
 - Added **Ski Size** (tool 775) — the right ski length from your height, skill level, and weight. Utilities category. 781 hub checks pass.
