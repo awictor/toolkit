@@ -1,5 +1,9 @@
 # Changelog
 
+## v64.2.0
+
+- Added **Duct Air Velocity** (tool 792) — find air velocity in a round or rectangular duct from airflow and duct dimensions. Utilities category. 798 hub checks pass.
+
 ## v64.1.0
 
 - Added **Return Grille Size** (tool 791) — size an HVAC return air grille from airflow, face velocity, and grille free area. Utilities category. 797 hub checks pass.
