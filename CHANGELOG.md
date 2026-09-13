@@ -1,5 +1,9 @@
 # Changelog
 
+## v67.3.0
+
+- Added **Attic Ventilation** (tool 823) — net free vent area an attic needs by the 1/300 rule, split intake and exhaust. Utilities category. 829 hub checks pass.
+
 ## v67.2.0
 
 - Added **Plywood Sheets** (tool 822) — how many 4×8 plywood or OSB sheets cover an area, with a waste allowance. Utilities category. 828 hub checks pass.
