@@ -1,5 +1,9 @@
 # Changelog
 
+## v63.4.0
+
+- Added **Window AC BTU** (tool 784) — size a window or room air conditioner in BTU from area, sun exposure, occupants, and kitchen use. Utilities category. 790 hub checks pass.
+
 ## v63.3.0
 
 - Added **Garage Heater BTU** (tool 783) — size a garage or shop heater in BTU from room dimensions, temperature rise, and insulation quality. Utilities category. 789 hub checks pass.
