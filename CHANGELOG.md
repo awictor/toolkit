@@ -1,5 +1,9 @@
 # Changelog
 
+## v68.2.0
+
+- Added **Thinset Coverage** (tool 832) — bags of thinset mortar for a tile job from area, trowel notch size, and waste allowance. Utilities category. 838 hub checks pass.
+
 ## v68.1.0
 
 - Added **Deck Beam Span** (tool 831) — max allowable deck beam span and the smallest beam that carries your joists, from IRC Table R507.5 (Southern Pine). Utilities category. 837 hub checks pass.
