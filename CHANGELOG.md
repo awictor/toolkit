@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.7.0
+
+- Added **Annulus (Ring)** (tool 1037) — area between two concentric circles, ring width, inner and outer circumference, and the inner radius for a target area. Geometry category. 1043 hub checks pass.
+
 ## v88.6.0
 
 - Added **Square Pyramid** (tool 1036) — volume, slant height, lateral and total surface area of a square pyramid from its base side and height. Geometry category. 1042 hub checks pass.
