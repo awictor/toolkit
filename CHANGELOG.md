@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.1.0
+
+- Added **Elastic Collision** (tool 1011) — final velocities of two masses in a 1D elastic collision, with momentum and kinetic-energy checks. Physics category. 1017 hub checks pass.
+
 ## v86.0.0
 
 - Added **Friction Force** (tool 1010) — friction from the coefficient and normal force (F = μN), the normal force on a flat surface or an incline, friction on a slope, and the angle of repose. Physics category. 1016 hub checks pass.
