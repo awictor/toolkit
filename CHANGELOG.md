@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.9.0
+
+- Added **Pole Length** (tool 869) — ski and trekking pole length from height, with uphill/downhill adjustments. Outdoor category. 875 hub checks pass.
+
 ## v71.8.0
 
 - Added **Glaze Batch** (tool 868) — scale a pottery glaze recipe from ingredient percentages to a weighed batch, with water to mix. Pottery category. 874 hub checks pass.
