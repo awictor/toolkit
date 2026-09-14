@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.5.0
+
+- Added **Logistic Growth** (tool 1045) — S-curve population over time toward a carrying capacity, the growth rate, inflection time, and peak growth rate. Biology category. 1051 hub checks pass.
+
 ## v89.4.0
 
 - Added **Molar Volume** (tool 1044) — convert between moles, gas volume at STP, number of particles (Avogadro), and mass. Chemistry category. 1050 hub checks pass.
