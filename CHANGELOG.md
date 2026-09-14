@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.7.0
+
+- Added **Shooting Efficiency** (tool 917) — basketball field goal %, effective field goal %, true shooting %, and points per shot from a scoring line. Sports category. 923 hub checks pass.
+
 ## v76.6.0
 
 - Added **DPS Calculator** (tool 916) — base and crit-adjusted damage per second from hit damage, fire rate, crit chance, and multiplier, plus time to kill a health pool. Gaming category. 922 hub checks pass.
