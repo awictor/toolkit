@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.0.0
+
+- 🔬 **Milestone: 990 tools.** Added **Heisenberg Uncertainty** (tool 990) — the minimum momentum, position, or velocity uncertainty from Δx·Δp ≥ ℏ/2, plus the energy-time limit. Quantum physics category. 996 hub checks pass.
+
 ## v83.9.0
 
 - Added **Torus** (tool 989) — volume and surface area of a donut from its major and minor radii, plus the inner and outer radius. Geometry category. 995 hub checks pass.
