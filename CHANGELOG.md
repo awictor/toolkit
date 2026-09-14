@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.0.0
+
+- Added **Friction Force** (tool 1010) — friction from the coefficient and normal force (F = μN), the normal force on a flat surface or an incline, friction on a slope, and the angle of repose. Physics category. 1016 hub checks pass.
+
 ## v85.9.0
 
 - Added **Gravitational PE** (tool 1009) — potential energy (mgh), the impact speed and fall time of a drop, and the height or mass for a target energy. Physics category. 1015 hub checks pass.
