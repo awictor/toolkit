@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.7.0
+
+- Added **Music Interval** (tool 857) — interval name, semitone distance, and quality between two notes (ascending within an octave). Music category. 863 hub checks pass.
+
 ## v70.6.0
 
 - Added **EC / PPM Converter** (tool 856) — hydroponic nutrient strength between EC (mS/cm) and PPM on the 500 and 700 scales. Gardening category. 862 hub checks pass.
