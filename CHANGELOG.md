@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.1.0
+
+- Added **Young's Modulus** (tool 1001) — axial stress, strain, elastic modulus, elongation under load, and axial stiffness for a rod or wire. Physics category. 1007 hub checks pass.
+
 ## v85.0.0
 
 - 🎉 **1000 tools.** Added **Hydraulic Press** (tool 1000) — Pascal's law force multiplier: output force, mechanical advantage, system pressure, and the piston-travel trade-off. Physics category. 1006 hub checks pass.
