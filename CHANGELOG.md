@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.8.0
+
+- Added **Thread Pitch** (tool 978) — convert screw thread pitch to threads per inch, the lead for multi-start threads, and the thread count over a length. Machining category. 984 hub checks pass.
+
 ## v82.7.0
 
 - Added **Stefan-Boltzmann** (tool 977) — power a blackbody radiates from its temperature, area, and emissivity (the T⁴ law), the temperature for a given exitance, and the Wien peak wavelength. Physics category. 983 hub checks pass.
