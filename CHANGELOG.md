@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.4.0
+
+- Added **Molar Volume** (tool 1044) — convert between moles, gas volume at STP, number of particles (Avogadro), and mass. Chemistry category. 1050 hub checks pass.
+
 ## v89.3.0
 
 - Added **Partial Pressure** (tool 1043) — Dalton's law: partial pressure from mole fraction and total pressure, mole fraction from moles, and total from partials. Chemistry category. 1049 hub checks pass.
