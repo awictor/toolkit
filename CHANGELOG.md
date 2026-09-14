@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.2.0
+
+- Added **Sailing VMG** (tool 902) — velocity made good, cross-track speed, efficiency, and time on a leg from boat speed and the angle to the target or wind. Sailing category. 908 hub checks pass.
+
 ## v75.1.0
 
 - Added **Pipe Slope Calculator** (tool 901) — drainage pipe total fall, slope in inches per foot, and percent grade for DWV and sewer lines, with the 1/4-inch-per-foot code guideline and a too-flat warning. Plumbing category. 907 hub checks pass.
