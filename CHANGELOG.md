@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.1.0
+
+- Added **Name Number** (tool 871) — numerology Expression Number from a name using the Pythagorean letter system, preserving master numbers. Lifestyle category. 877 hub checks pass.
+
 ## v72.0.0
 
 - Added **Life Path Number** (tool 870) — numerology Life Path from a birthdate, preserving master numbers 11/22/33, with meanings. Lifestyle category. 876 hub checks pass.
