@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.3.0
+
+- Added **Inductor Energy** (tool 993) — energy stored (½LI²), flux linkage, and back-EMF from a rate of current change, plus the current for a target energy. Electronics category. 999 hub checks pass.
+
 ## v84.2.0
 
 - Added **Capacitor Energy** (tool 992) — energy stored (½CV²) and charge in a capacitor, plus the voltage or capacitance needed for a target energy. Electronics category. 998 hub checks pass.
