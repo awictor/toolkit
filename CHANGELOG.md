@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.4.0
+
+- Added **Creatine Dose** (tool 884) — creatine loading and maintenance doses by bodyweight, split into servings. Fitness category. 890 hub checks pass.
+
 ## v73.3.0
 
 - Added **Sweat Rate** (tool 883) — hydration sweat rate from before/after weight and fluid intake, with total loss and an hourly drink target. Fitness category. 889 hub checks pass.
