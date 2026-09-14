@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.3.0
+
+- Added **Cone Calculator** (tool 1033) — volume, slant height, lateral and total surface area of a right circular cone from its radius and height. Geometry category. 1039 hub checks pass.
+
 ## v88.2.0
 
 - Added **Speaker SPL** (tool 1032) — loudness in dB from speaker sensitivity, amplifier power, and distance, the power for a target level, and combined SPL of two sources. Acoustics category. 1038 hub checks pass.
