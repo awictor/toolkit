@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.1.0
+
+- Added **Humidity Ratio** (tool 951) — grams of water vapour per kilogram of dry air from temperature, relative humidity, and pressure, with saturation/vapour pressure and specific humidity. Psychrometrics category. 957 hub checks pass.
+
 ## v80.0.0
 
 - 📡 **Milestone: 950 tools.** Added **Shannon-Hartley** (tool 950) — the maximum error-free channel capacity from bandwidth and signal-to-noise ratio (C = B·log₂(1+SNR)), plus spectral efficiency and the SNR needed for a target data rate. Communications category. 956 hub checks pass.
