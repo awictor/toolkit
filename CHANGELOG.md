@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.5.0
+
+- Added **ERA & WHIP** (tool 915) — baseball pitching stats: ERA, WHIP, K/9, and BB/9 from a pitcher's line, plus outs-to-innings conversion. Sports category. 921 hub checks pass.
+
 ## v76.4.0
 
 - Added **Passer Rating** (tool 914) — NFL quarterback passer rating from completions, attempts, yards, touchdowns, and interceptions, with the four capped components and a quality tier. Sports category. 920 hub checks pass.
