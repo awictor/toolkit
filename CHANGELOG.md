@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.5.0
+
+- Added **Wire Resistance** (tool 1005) — conductor resistance from R = ρL/A with material presets, plus voltage drop and power lost at a current. Electronics category. 1011 hub checks pass.
+
 ## v85.4.0
 
 - Added **RC Charging** (tool 1004) — RC time constant, capacitor voltage while charging or discharging at any time, time to a target voltage, and percent charged. Electronics category. 1010 hub checks pass.
