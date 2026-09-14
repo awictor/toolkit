@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.4.0
+
+- Added **Synodic Period** (tool 954) — how often two orbiting bodies line up again from their orbital periods, with relative angular rate and separation angle over time. Astronomy category. 960 hub checks pass.
+
 ## v80.3.0
 
 - Added **Coefficient of Variation** (tool 953) — standard deviation relative to the mean (CV%), with mean, variance, and standard deviation for sample or population data. Statistics category. 959 hub checks pass.
