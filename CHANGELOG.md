@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.3.0
+
+- Added **Roche Limit** (tool 1023) — the distance within which a moon is torn apart by tidal forces, for rigid and fluid bodies, from radius and densities. Astronomy category. 1029 hub checks pass.
+
 ## v87.2.0
 
 - Added **Redshift Velocity** (tool 1022) — recession velocity from cosmological redshift (classical and relativistic), Hubble distance, and observed wavelength. Astronomy category. 1028 hub checks pass.
