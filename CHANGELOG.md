@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.2.0
+
+- Added **Kardashev Scale** (tool 962) — a civilization's Kardashev type from its power output, the power a target type needs, and the gap to reach it. Astronomy category. 968 hub checks pass.
+
 ## v81.1.0
 
 - Added **Mass-Energy** (tool 961) — Einstein's E = mc²: energy locked in a mass and its inverse, the TNT equivalent, and relativistic total energy at speed. Physics category. 967 hub checks pass.
