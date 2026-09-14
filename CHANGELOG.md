@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.8.0
+
+- Added **Ellipse** (tool 988) — area, perimeter (Ramanujan approximation), eccentricity, and focal distance of an ellipse from its two semi-axes. Geometry category. 994 hub checks pass.
+
 ## v83.7.0
 
 - Added **Osmotic Pressure** (tool 987) — van't Hoff osmotic pressure (π = iMRT) from molarity, temperature, and dissociation factor, with osmolarity and the reverse. Chemistry category. 993 hub checks pass.
