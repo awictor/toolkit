@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.3.0
+
+- Added **Pump Power** (tool 943) — hydraulic power from flow rate and total head, plus shaft power at a given pump efficiency, in kW and horsepower. HVAC/mechanical category. 949 hub checks pass.
+
 ## v79.2.0
 
 - Added **Flywheel Energy** (tool 942) — rotational kinetic energy stored in a spinning disk from mass, radius, and RPM, with moment of inertia and angular velocity. Physics/mechanical category. 948 hub checks pass.
