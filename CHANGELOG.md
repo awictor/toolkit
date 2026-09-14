@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.7.0
+
+- Added **Stefan-Boltzmann** (tool 977) — power a blackbody radiates from its temperature, area, and emissivity (the T⁴ law), the temperature for a given exitance, and the Wien peak wavelength. Physics category. 983 hub checks pass.
+
 ## v82.6.0
 
 - Added **Julian Date** (tool 976) — the Julian Day Number for any Gregorian date, the day of the week, and the number of days between two dates. Time/astronomy category. 982 hub checks pass.
