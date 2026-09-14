@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.2.0
+
+- Added **Protein Intake** (tool 882) — daily protein target from bodyweight and goal factor, with a per-meal split and lb/kg support. Fitness category. 888 hub checks pass.
+
 ## v73.1.0
 
 - Added **DOTS Score** (tool 881) — powerlifting total normalized by bodyweight (the modern Wilks replacement), with coefficient and level. Fitness category. 887 hub checks pass.
