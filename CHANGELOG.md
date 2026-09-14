@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.0.0
+
+- Added **Diagnostic Test** (tool 1030) — sensitivity, specificity, precision, accuracy, and F1 score from a 2×2 confusion matrix, for clinical tests and classifiers. Statistics category. 1036 hub checks pass.
+
 ## v87.9.0
 
 - Added **Dividend Discount Model** (tool 1029) — Gordon growth stock value from dividend, required return, and growth, plus implied return and growth from a price. Finance category. 1035 hub checks pass.
