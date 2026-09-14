@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.4.0
+
+- Added **Carryover Cooking** (tool 874) — pull temperature from target and expected carryover rise, with cut presets. Cooking category. 880 hub checks pass.
+
 ## v72.3.0
 
 - Added **Yarn Substitution** (tool 873) — substitute-yarn skein count from pattern yardage, new skein size, and a safety margin. Crafts category. 879 hub checks pass.
