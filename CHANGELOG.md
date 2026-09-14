@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.1.0
+
+- Added **Pipe Slope Calculator** (tool 901) — drainage pipe total fall, slope in inches per foot, and percent grade for DWV and sewer lines, with the 1/4-inch-per-foot code guideline and a too-flat warning. Plumbing category. 907 hub checks pass.
+
 ## v75.0.0
 
 - 🎉 **900 tools.** Added **Aircraft Fuel Endurance** (tool 900) — flight endurance and still-air range from usable fuel, burn rate, and true airspeed, with a VFR reserve and per-leg fuel required. Aviation category. 906 hub checks pass.
