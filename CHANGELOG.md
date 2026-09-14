@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.9.0
+
+- Added **WBGT Heat Stress** (tool 899) — wet bulb globe temperature from wet-bulb, globe, and air temperatures (outdoor with solar load or indoor), with the green/yellow/red/black activity heat-stress flag. Health category. 905 hub checks pass.
+
 ## v74.8.0
 
 - Added **Wind Load Calculator** (tool 898) — ASCE dynamic wind pressure (psf/Pa) and the total force on a sign, fence, panel, or wall from wind speed, area, and drag coefficient, in imperial or metric. Engineering category. 904 hub checks pass.
