@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.3.0
+
+- Added **Lift Force** (tool 973) — aerodynamic lift from air density, airspeed, lift coefficient, and wing area, plus the lift-to-drag ratio and stall speed. Aviation/physics category. 979 hub checks pass.
+
 ## v82.2.0
 
 - Added **Drag Force** (tool 972) — aerodynamic drag from air density, speed, drag coefficient, and area, with dynamic pressure, drag area (CdA), and the power to overcome it. Physics/automotive category. 978 hub checks pass.
