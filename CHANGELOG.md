@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.9.0
+
+- Added **Diffraction Limit** (tool 979) — Rayleigh angular resolution of an aperture from wavelength and diameter, in arcseconds, and the smallest detail resolvable at a distance. Optics/astronomy category. 985 hub checks pass.
+
 ## v82.8.0
 
 - Added **Thread Pitch** (tool 978) — convert screw thread pitch to threads per inch, the lead for multi-start threads, and the thread count over a length. Machining category. 984 hub checks pass.
