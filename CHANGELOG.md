@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.0.0
+
+- Added **Sound Intensity** (tool 1020) — sound intensity level in decibels, intensity from a source's power and distance, and inverse-square distance falloff. Acoustics category. 1026 hub checks pass.
+
 ## v86.9.0
 
 - Added **Stellar Parallax** (tool 1019) — a star's distance in parsecs and light-years from its parallax angle, with milliarcsecond and unit conversions. Astronomy category. 1025 hub checks pass.
