@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.5.0
+
+- Added **Tea Steeping Guide** (tool 895) — ideal water temperature and steep time for green, black, oolong, white, herbal, and pu-erh tea, with strength control and a gongfu multi-infusion schedule. Cooking category. 901 hub checks pass.
+
 ## v74.4.0
 
 - Added **Pythagorean Expectation** (tool 894) — expected win % and season wins from points scored and allowed, with Bill James exponents tuned per sport (baseball/basketball/football/hockey/soccer) plus a custom option. Sports category. 900 hub checks pass.
