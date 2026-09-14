@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.9.0
+
+- Added **Time Dilation** (tool 909) — Lorentz factor, time dilation, and length contraction at relativistic speeds from a fraction of the speed of light, with a speed slider. Physics category. 915 hub checks pass.
+
 ## v75.8.0
 
 - Added **Percent Yield** (tool 908) — reaction percent yield from actual and theoretical yield, solving for either, plus theoretical mass from moles × molar mass. Chemistry category. 914 hub checks pass.
