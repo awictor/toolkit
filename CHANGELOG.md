@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.3.0
+
+- Added **Moment of Inertia** (tool 1013) — moment of inertia for common shapes (sphere, cylinder, hoop, rod) plus rotational kinetic energy at a given spin. Physics category. 1019 hub checks pass.
+
 ## v86.2.0
 
 - Added **Inclined Plane** (tool 1012) — ramp forces: gravity down the slope, the normal force, sliding acceleration with friction, and mechanical advantage. Physics category. 1018 hub checks pass.
