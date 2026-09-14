@@ -1,3 +1,7 @@
+## v89.8.0
+
+- Add Pipe Harmonics (tool 1048): open and closed pipe fundamentals and harmonics from length and speed of sound.
+
 # Changelog
 
 ## v89.7.0
