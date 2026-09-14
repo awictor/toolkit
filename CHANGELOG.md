@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.1.0
+
+- Added **Three-Phase Power** (tool 1041) — real, apparent, and reactive power, line current, and phase voltage for a balanced three-phase load. Electrical category. 1047 hub checks pass.
+
 ## v89.0.0
 
 - Added **Conical Frustum** (tool 1040) — volume, slant height, lateral and total surface area of a truncated cone (bucket or lampshade) from top and bottom radii and height. Geometry category. 1046 hub checks pass.
