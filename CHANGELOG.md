@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.2.0
+
+- Added **Router Bit Speed** (tool 862) — maximum safe router RPM by bit diameter, with rim speed in ft/min and mph. Woodworking category. 868 hub checks pass.
+
 ## v71.1.0
 
 - Added **DLI Calculator** (tool 861) — Daily Light Integral from grow-light PPFD and photoperiod, with crop-suitability guidance. Gardening category. 867 hub checks pass.
