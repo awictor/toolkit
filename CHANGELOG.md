@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.5.0
+
+- Added **Path Loss (FSPL)** (tool 1025) — free-space path loss from distance and frequency, plus received power, link margin, and max range for a radio link. Telecom category. 1031 hub checks pass.
+
 ## v87.4.0
 
 - Added **Vapor Pressure Deficit** (tool 1024) — air and leaf VPD from temperature and humidity, saturation and actual vapor pressure, and the humidity for a target VPD. Environmental category. 1030 hub checks pass.
