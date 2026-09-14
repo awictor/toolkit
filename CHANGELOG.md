@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.3.0
+
+- Added **Stopping Distance** (tool 853) — total stopping distance from speed, reaction time, and road grip, split into thinking and braking distance. Automotive category. 859 hub checks pass.
+
 ## v70.2.0
 
 - Added **Darts Checkout** (tool 852) — 501 finish route finder: shortest sequence ending on a double, for scores 2–170. Games category. 858 hub checks pass.
