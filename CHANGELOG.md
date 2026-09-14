@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.6.0
+
+- Added **Hohmann Transfer** (tool 956) — the two-burn delta-v and coast time to move between circular orbits, with Earth/Sun/Moon/Mars presets. Aerospace category. 962 hub checks pass.
+
 ## v80.5.0
 
 - Added **Apparent Magnitude** (tool 955) — brightness ratio between star magnitudes, the combined magnitude of multiple sources, and absolute magnitude from distance. Astronomy category. 961 hub checks pass.
