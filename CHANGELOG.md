@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.5.0
+
+- Added **Distance & Midpoint** (tool 905) — Euclidean distance, midpoint, slope, and Manhattan distance between two points on the plane. Math category. 911 hub checks pass.
+
 ## v75.4.0
 
 - Added **Combined Gas Law** (tool 904) — solve P₁V₁/T₁ = P₂V₂/T₂ for a final pressure, volume, or temperature, with Boyle/Charles/Gay-Lussac sub-laws and a Kelvin reminder. Chemistry category. 910 hub checks pass.
