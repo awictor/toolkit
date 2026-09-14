@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.1.0
+
+- Added **Trap Speed Horsepower** (tool 891) — estimate engine horsepower from quarter-mile trap speed or ET and vehicle weight (Fox equations), and predict trap speed and ET from horsepower. Automotive category. 897 hub checks pass.
+
 ## v74.0.0
 
 - 🎉 **890 tools.** Added **Egg Boil Timer** (tool 890) — soft/medium/hard boil time adjusted for egg size, fridge or room-temperature start, and altitude (via the boiling-point drop). Cooking category. 896 hub checks pass.
