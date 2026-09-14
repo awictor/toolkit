@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.3.0
+
+- Added **Coefficient of Variation** (tool 953) — standard deviation relative to the mean (CV%), with mean, variance, and standard deviation for sample or population data. Statistics category. 959 hub checks pass.
+
 ## v80.2.0
 
 - Added **Geometric Mean** (tool 952) — the nth-root average for rates, ratios, and growth factors, with arithmetic mean and average compound growth per period. Statistics category. 958 hub checks pass.
