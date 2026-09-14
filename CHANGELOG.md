@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.2.0
+
+- Added **Camelot Wheel** (tool 922) — harmonically compatible keys for DJ mixing (same, energy up/down, relative major/minor) with a full 24-key Camelot map and wrap-around. Music category. 928 hub checks pass.
+
 ## v77.1.0
 
 - Added **Audio Latency** (tool 921) — one-way and round-trip latency in milliseconds from buffer size and sample rate, plus the buffer needed for a target latency. Audio category. 927 hub checks pass.
