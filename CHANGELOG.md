@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.4.0
+
+- Added **Bike Frame Size** (tool 864) — road/mountain/hybrid frame size from inseam, with MTB inches and standover target. Cycling category. 870 hub checks pass.
+
 ## v71.3.0
 
 - Added **Honey Super Yield** (tool 863) — estimate a beehive's honey harvest from super type, frame count, and fill percentage, plus jars filled. Beekeeping category. 869 hub checks pass.
