@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.1.0
+
+- Added **Glide Ratio** (tool 941) — glide distance from altitude, glide angle, and sink rate at a chosen airspeed for sailplanes and engine-out planning. Aviation category. 947 hub checks pass.
+
 ## v79.0.0
 
 - 🚀 **Milestone: 940 tools.** Added **Rocket Equation** (tool 940) — the Tsiolkovsky rocket equation: delta-v from specific impulse and full-to-empty mass ratio, plus exhaust velocity, required mass ratio, and propellant fraction. Aerospace/physics category. 946 hub checks pass.
