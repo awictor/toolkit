@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.0.0
+
+- Added **Conical Frustum** (tool 1040) — volume, slant height, lateral and total surface area of a truncated cone (bucket or lampshade) from top and bottom radii and height. Geometry category. 1046 hub checks pass.
+
 ## v88.9.0
 
 - Added **Spherical Cap** (tool 1039) — volume and curved surface area of a dome sliced from a sphere, plus its base radius, from sphere radius and cap height. Geometry category. 1045 hub checks pass.
