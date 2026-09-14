@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.6.0
+
+- Added **Regular Polygon** (tool 986) — area, perimeter, interior angle, apothem, and circumradius of a regular polygon from its sides and side length. Geometry category. 992 hub checks pass.
+
 ## v83.5.0
 
 - Added **Percent Error** (tool 985) — percent error against a true value, absolute and relative error, and the symmetric percent difference between two measurements. Statistics category. 991 hub checks pass.
