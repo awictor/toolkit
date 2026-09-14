@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.4.0
+
+- Added **Resistor Parallel** (tool 944) — total resistance in series and parallel for any list of resistors, plus the parallel resistor to reach a target. Electronics category. 950 hub checks pass.
+
 ## v79.3.0
 
 - Added **Pump Power** (tool 943) — hydraulic power from flow rate and total head, plus shaft power at a given pump efficiency, in kW and horsepower. HVAC/mechanical category. 949 hub checks pass.
