@@ -1,5 +1,10 @@
 # Changelog
 
+## v71.0.0
+
+- Added **Speaker Crossover** (tool 860) — first-order passive crossover capacitor and inductor from the crossover frequency and driver impedance. Audio category. 866 hub checks pass.
+- Milestone: the Toolkit now spans **860 tools**.
+
 ## v70.9.0
 
 - Added **Tippet Calculator** (tool 859) — fly-fishing tippet X-size to diameter (in/mm), approximate pound test, and suggested fly sizes. Fishing category. 865 hub checks pass.
