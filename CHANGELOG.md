@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.8.0
+
+- Added **Glaze Batch** (tool 868) — scale a pottery glaze recipe from ingredient percentages to a weighed batch, with water to mix. Pottery category. 874 hub checks pass.
+
 ## v71.7.0
 
 - Added **Golf Club Gapping** (tool 867) — yardage gap between two clubs with a status flag, plus even-gap spacing across a set. Golf category. 873 hub checks pass.
