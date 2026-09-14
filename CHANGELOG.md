@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.7.0
+
+- Added **Golf Club Gapping** (tool 867) — yardage gap between two clubs with a status flag, plus even-gap spacing across a set. Golf category. 873 hub checks pass.
+
 ## v71.6.0
 
 - Added **Sandpaper Grit** (tool 866) — CAMI grit to average micron particle size, typical use, and next-grit progression. Woodworking category. 872 hub checks pass.
