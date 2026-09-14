@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.4.0
+
+- Added **RC Charging** (tool 1004) — RC time constant, capacitor voltage while charging or discharging at any time, time to a target voltage, and percent charged. Electronics category. 1010 hub checks pass.
+
 ## v85.3.0
 
 - Added **Poiseuille Flow** (tool 1003) — laminar pipe flow rate from pressure drop, radius, viscosity, and length (the r⁴ law), plus hydraulic resistance and velocity. Fluids category. 1009 hub checks pass.
