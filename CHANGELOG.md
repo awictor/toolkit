@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.7.0
+
+- Added **Manning Flow** (tool 947) — open-channel water velocity and flow rate from Manning's equation using roughness, width, depth, and slope. Civil/hydraulics category. 953 hub checks pass.
+
 ## v79.6.0
 
 - Added **Carnot Efficiency** (tool 946) — maximum theoretical heat-engine efficiency between two temperatures, plus the ideal COP of a refrigerator and heat pump. Thermodynamics category. 952 hub checks pass.
