@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.9.0
+
+- Added **Torus** (tool 989) — volume and surface area of a donut from its major and minor radii, plus the inner and outer radius. Geometry category. 995 hub checks pass.
+
 ## v83.8.0
 
 - Added **Ellipse** (tool 988) — area, perimeter (Ramanujan approximation), eccentricity, and focal distance of an ellipse from its two semi-axes. Geometry category. 994 hub checks pass.
