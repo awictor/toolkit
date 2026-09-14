@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.9.0
+
+- Added **Stellar Parallax** (tool 1019) — a star's distance in parsecs and light-years from its parallax angle, with milliarcsecond and unit conversions. Astronomy category. 1025 hub checks pass.
+
 ## v86.8.0
 
 - Added **Damping Ratio** (tool 1018) — spring-mass-damper: damping ratio, critical damping, natural and damped frequency, quality factor, and the damping regime. Physics category. 1024 hub checks pass.
