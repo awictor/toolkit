@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.8.0
+
+- Added **Wind Load Calculator** (tool 898) — ASCE dynamic wind pressure (psf/Pa) and the total force on a sign, fence, panel, or wall from wind speed, area, and drag coefficient, in imperial or metric. Engineering category. 904 hub checks pass.
+
 ## v74.7.0
 
 - Added **Cycling Power & Speed** (tool 897) — speed from power (and the power to hold a speed) via the standard cycling model: rolling resistance, gravity on a grade, and aerodynamic drag, with configurable mass, CdA, and Crr. Cycling category. 903 hub checks pass.
