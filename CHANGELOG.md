@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.1.0
+
+- Added **Lens Diopters** (tool 1021) — optical power from focal length and back, combined power of stacked lenses, equivalent focal length, and magnifier power. Optics category. 1027 hub checks pass.
+
 ## v87.0.0
 
 - Added **Sound Intensity** (tool 1020) — sound intensity level in decibels, intensity from a source's power and distance, and inverse-square distance falloff. Acoustics category. 1026 hub checks pass.
