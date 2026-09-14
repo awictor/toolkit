@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.1.0
+
+- Added **DOTS Score** (tool 881) — powerlifting total normalized by bodyweight (the modern Wilks replacement), with coefficient and level. Fitness category. 887 hub checks pass.
+
 ## v73.0.0
 
 - Added **Ability Modifier** (tool 880) — D&D 5e ability score to modifier plus proficiency bonus by level. Tabletop category. 886 hub checks pass.
