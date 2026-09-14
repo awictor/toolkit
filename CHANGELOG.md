@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.4.0
+
+- Added **Buffer pH** (tool 1014) — Henderson-Hasselbalch: buffer pH from pKa and the base-to-acid ratio, the ratio for a target pH, and pKa/Ka conversions. Chemistry category. 1020 hub checks pass.
+
 ## v86.3.0
 
 - Added **Moment of Inertia** (tool 1013) — moment of inertia for common shapes (sphere, cylinder, hoop, rod) plus rotational kinetic energy at a given spin. Physics category. 1019 hub checks pass.
