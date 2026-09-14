@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.5.0
+
+- Added **Moment Magnitude** (tool 965) — an earthquake's Mw from its seismic moment, the moment from a fault rupture (μ·A·d), and the moment ratio between magnitudes. Geology category. 971 hub checks pass.
+
 ## v81.4.0
 
 - Added **Fujita Scale** (tool 964) — rate a tornado on the Enhanced Fujita scale from its wind speed, with tier thresholds, km/h conversion, and the original Fujita wind relation. Weather category. 970 hub checks pass.
