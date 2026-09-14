@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.6.0
+
+- Added **Sandpaper Grit** (tool 866) — CAMI grit to average micron particle size, typical use, and next-grit progression. Woodworking category. 872 hub checks pass.
+
 ## v71.5.0
 
 - Added **SWOLF Score** (tool 865) — swimming efficiency score (strokes + seconds per length) with a rating band and set averaging. Fitness category. 871 hub checks pass.
