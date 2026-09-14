@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.1.0
+
+- Added **Aquarium Water Change** (tool 931) — water-change volume for a target percentage, nitrate remaining after one or more changes, and the percent change needed to hit a target level. Aquarium category. 937 hub checks pass.
+
 ## v78.0.0
 
 - 🎉 **930 tools.** Added **XP Level Curve** (tool 930) — XP per level, total XP to reach a level, level from total XP, and XP remaining to a target for a configurable RPG leveling curve. Gaming category. 936 hub checks pass.
