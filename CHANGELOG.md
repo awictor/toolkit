@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.5.0
+
+- Added **Percent Error** (tool 985) — percent error against a true value, absolute and relative error, and the symmetric percent difference between two measurements. Statistics category. 991 hub checks pass.
+
 ## v83.4.0
 
 - Added **Fick Cardiac Output** (tool 984) — cardiac output by the Fick principle from oxygen consumption and the arteriovenous oxygen difference, with cardiac index. Physiology category. 990 hub checks pass.
