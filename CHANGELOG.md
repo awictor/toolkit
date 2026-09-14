@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.1.0
+
+- Added **Barometric Formula** (tool 1031) — air pressure and temperature at altitude, altitude from a pressure reading, sea-level reduction, and water's boiling point. Atmospheric category. 1037 hub checks pass.
+
 ## v88.0.0
 
 - Added **Diagnostic Test** (tool 1030) — sensitivity, specificity, precision, accuracy, and F1 score from a 2×2 confusion matrix, for clinical tests and classifiers. Statistics category. 1036 hub checks pass.
