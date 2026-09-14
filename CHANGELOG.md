@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.2.0
+
+- Added **Darts Checkout** (tool 852) — 501 finish route finder: shortest sequence ending on a double, for scores 2–170. Games category. 858 hub checks pass.
+
 ## v70.1.0
 
 - Added **Rocket Altitude Tracker** (tool 851) — single-station model rocket apogee from baseline distance and elevation angle, with slant range. Rocketry category. 857 hub checks pass.
