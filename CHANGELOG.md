@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.6.0
+
+- Added **Number Needed to Treat** (tool 906) — NNT/NNH, absolute and relative risk reduction, and relative risk from control and treatment event rates. Health category. 912 hub checks pass.
+
 ## v75.5.0
 
 - Added **Distance & Midpoint** (tool 905) — Euclidean distance, midpoint, slope, and Manhattan distance between two points on the plane. Math category. 911 hub checks pass.
