@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.2.0
+
+- Added **Geometric Mean** (tool 952) — the nth-root average for rates, ratios, and growth factors, with arithmetic mean and average compound growth per period. Statistics category. 958 hub checks pass.
+
 ## v80.1.0
 
 - Added **Humidity Ratio** (tool 951) — grams of water vapour per kilogram of dry air from temperature, relative humidity, and pressure, with saturation/vapour pressure and specific humidity. Psychrometrics category. 957 hub checks pass.
