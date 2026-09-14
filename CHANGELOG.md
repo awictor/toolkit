@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.2.0
+
+- Added **Graham's Law** (tool 1042) — effusion and diffusion rate ratio of two gases from their molar masses, the time ratio, and an unknown molar mass. Chemistry category. 1048 hub checks pass.
+
 ## v89.1.0
 
 - Added **Three-Phase Power** (tool 1041) — real, apparent, and reactive power, line current, and phase voltage for a balanced three-phase load. Electrical category. 1047 hub checks pass.
