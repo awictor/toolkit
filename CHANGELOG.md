@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.8.0
+
+- Added **Speed at RPM** (tool 968) — road speed from engine RPM, gear ratio, final drive, and tire diameter, plus the engine RPM at any given speed. Automotive category. 974 hub checks pass.
+
 ## v81.7.0
 
 - Added **Noise Figure** (tool 967) — convert noise figure to noise factor and effective noise temperature, and compute a receiver chain's Friis cascade noise figure. RF/electronics category. 973 hub checks pass.
