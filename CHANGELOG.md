@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.0.0
+
+- 🚀 **Milestone: 940 tools.** Added **Rocket Equation** (tool 940) — the Tsiolkovsky rocket equation: delta-v from specific impulse and full-to-empty mass ratio, plus exhaust velocity, required mass ratio, and propellant fraction. Aerospace/physics category. 946 hub checks pass.
+
 ## v78.9.0
 
 - Added **Banked Curve** (tool 939) — ideal banking angle for a curve from speed and radius, plus min and max safe speed once tire friction is included. Automotive/physics category. 945 hub checks pass.
