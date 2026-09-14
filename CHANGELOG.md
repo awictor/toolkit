@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.9.0
+
+- Added **Gravitational PE** (tool 1009) — potential energy (mgh), the impact speed and fall time of a drop, and the height or mass for a target energy. Physics category. 1015 hub checks pass.
+
 ## v85.8.0
 
 - Added **Specific Gravity** (tool 1008) — relative density against water, a float-or-sink test, petroleum API gravity, and mass from volume. Physics category. 1014 hub checks pass.
