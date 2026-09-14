@@ -1,5 +1,10 @@
 # Changelog
 
+## v72.0.0
+
+- Added **Life Path Number** (tool 870) — numerology Life Path from a birthdate, preserving master numbers 11/22/33, with meanings. Lifestyle category. 876 hub checks pass.
+- Milestone: the Toolkit now spans **870 tools**.
+
 ## v71.9.0
 
 - Added **Pole Length** (tool 869) — ski and trekking pole length from height, with uphill/downhill adjustments. Outdoor category. 875 hub checks pass.
