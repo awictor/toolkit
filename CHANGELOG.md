@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.5.0
+
+- Added **Circle Sector** (tool 1035) — arc length, sector area, chord, and segment area of a circle slice from its radius and angle. Geometry category. 1041 hub checks pass.
+
 ## v88.4.0
 
 - Added **Triangle Solver** (tool 1034) — area, all three angles, perimeter, and type of a triangle from its three sides, with a validity check. Geometry category. 1040 hub checks pass.
