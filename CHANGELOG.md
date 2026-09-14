@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.7.0
+
+- Added **Column Buckling** (tool 1017) — Euler critical buckling load from stiffness, section, length, and end conditions, with moment of inertia and critical stress. Engineering category. 1023 hub checks pass.
+
 ## v86.6.0
 
 - Added **Spring Frequency** (tool 1016) — mass-spring natural and angular frequency, period, and the spring or mass needed for a target frequency. Physics category. 1022 hub checks pass.
