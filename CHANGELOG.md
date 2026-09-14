@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.9.0
+
+- Added **Port Lookup** (tool 969) — the service on a TCP/UDP port, its range class (well-known, registered, dynamic), and whether it's a valid port. Networking category. 975 hub checks pass.
+
 ## v81.8.0
 
 - Added **Speed at RPM** (tool 968) — road speed from engine RPM, gear ratio, final drive, and tire diameter, plus the engine RPM at any given speed. Automotive category. 974 hub checks pass.
