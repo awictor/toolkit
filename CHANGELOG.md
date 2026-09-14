@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.7.0
+
+- Added **Capacitor Code** (tool 957) — decode a 3-digit ceramic capacitor marking into picofarads, nanofarads, and microfarads, with the tolerance letter. Electronics category. 963 hub checks pass.
+
 ## v80.6.0
 
 - Added **Hohmann Transfer** (tool 956) — the two-burn delta-v and coast time to move between circular orbits, with Earth/Sun/Moon/Mars presets. Aerospace category. 962 hub checks pass.
