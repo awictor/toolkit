@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.3.0
+
+- Added **Sweat Rate** (tool 883) — hydration sweat rate from before/after weight and fluid intake, with total loss and an hourly drink target. Fitness category. 889 hub checks pass.
+
 ## v73.2.0
 
 - Added **Protein Intake** (tool 882) — daily protein target from bodyweight and goal factor, with a per-meal split and lb/kg support. Fitness category. 888 hub checks pass.
