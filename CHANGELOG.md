@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.9.0
+
+- Added **Spherical Cap** (tool 1039) — volume and curved surface area of a dome sliced from a sphere, plus its base radius, from sphere radius and cap height. Geometry category. 1045 hub checks pass.
+
 ## v88.8.0
 
 - Added **Ellipsoid** (tool 1038) — volume, approximate surface area, and equal-volume sphere radius of an ellipsoid from its three semi-axes. Geometry category. 1044 hub checks pass.
