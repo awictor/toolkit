@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.7.0
+
+- Added **Fall Factor** (tool 847) — climbing fall factor, severity, and estimated peak rope impact force from fall length, rope out, and climber weight. Climbing category. 853 hub checks pass.
+
 ## v69.6.0
 
 - Added **Audio File Size** (tool 846) — uncompressed PCM/WAV size, bitrate, and data rate from sample rate, bit depth, channels, and duration. Audio category. 852 hub checks pass.
