@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.9.0
+
+- Added **Cheese Rennet** (tool 879) — rennet dose by milk volume and type (single/double liquid, tablet), with drops and a set-strength adjustment. Cheesemaking category. 885 hub checks pass.
+
 ## v72.8.0
 
 - Added **Chaptalization** (tool 878) — sugar to add to must to reach a target potential alcohol, with potential ABV from starting gravity. Winemaking category. 884 hub checks pass.
