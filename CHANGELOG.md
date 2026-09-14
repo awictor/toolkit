@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.4.0
+
+- Added **Current Ratio** (tool 974) — liquidity ratios (current, quick/acid-test, cash) plus working capital from a balance sheet. Finance category. 980 hub checks pass.
+
 ## v82.3.0
 
 - Added **Lift Force** (tool 973) — aerodynamic lift from air density, airspeed, lift coefficient, and wing area, plus the lift-to-drag ratio and stall speed. Aviation/physics category. 979 hub checks pass.
