@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.9.0
+
+- Added **Dividend Discount Model** (tool 1029) — Gordon growth stock value from dividend, required return, and growth, plus implied return and growth from a price. Finance category. 1035 hub checks pass.
+
 ## v87.8.0
 
 - Added **DSCR Calculator** (tool 1028) — debt service coverage ratio from NOI and debt payments, the max payment for a target DSCR, required NOI, and break-even occupancy. Finance category. 1034 hub checks pass.
