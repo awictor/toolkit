@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.4.0
+
+- Added **Quilt Backing** (tool 854) — backing fabric yardage, panels, and seams from quilt top size, overhang, and fabric width. Crafts category. 860 hub checks pass.
+
 ## v70.3.0
 
 - Added **Stopping Distance** (tool 853) — total stopping distance from speed, reaction time, and road grip, split into thinking and braking distance. Automotive category. 859 hub checks pass.
