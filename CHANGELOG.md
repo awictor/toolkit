@@ -1,3 +1,7 @@
+## v90.0.0
+
+- Add Rhumb Line (tool 1050): constant-bearing (loxodrome) course and distance between two lat/lon points. Milestone: 1050 tools.
+
 ## v89.9.0
 
 - Add Capstan Equation (tool 1049): rope-friction tension multiplier for holdable load and required hold force.
