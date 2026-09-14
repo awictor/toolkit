@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.7.0
+
+- Added **Mean Free Path** (tool 1027) — the average distance a gas molecule travels between collisions from temperature, pressure, and molecular size, with number density and collision frequency. Physics category. 1033 hub checks pass.
+
 ## v87.6.0
 
 - Added **Gas Molecule Speed** (tool 1026) — kinetic-theory RMS, mean, and most-probable molecular speed from temperature and molar mass, plus KE per mole. Physics category. 1032 hub checks pass.
