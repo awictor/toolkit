@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.1.0
+
+- Added **Bragg's Law** (tool 991) — X-ray diffraction angle, atomic-plane spacing, or wavelength from nλ = 2d·sinθ, plus the maximum diffraction order. Physics/crystallography category. 997 hub checks pass.
+
 ## v84.0.0
 
 - 🔬 **Milestone: 990 tools.** Added **Heisenberg Uncertainty** (tool 990) — the minimum momentum, position, or velocity uncertainty from Δx·Δp ≥ ℏ/2, plus the energy-time limit. Quantum physics category. 996 hub checks pass.
