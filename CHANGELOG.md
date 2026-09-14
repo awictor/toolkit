@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.9.0
+
+- Added **Erlang B** (tool 949) — call blocking probability from offered traffic and channels, offered/carried traffic, and the trunks needed for a target grade of service. Telecom category. 955 hub checks pass.
+
 ## v79.8.0
 
 - Added **Weir Flow** (tool 948) — discharge over a rectangular or V-notch weir from the head over the crest, plus the head needed for a target flow. Civil/hydraulics category. 954 hub checks pass.
