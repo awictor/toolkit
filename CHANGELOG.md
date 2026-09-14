@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.7.0
+
+- Added **Impulse & Momentum** (tool 1047) — impulse from force and time, change in momentum, the average force of a collision, momentum, and stopping time. Physics category. 1053 hub checks pass.
+
 ## v89.6.0
 
 - Added **Coefficient of Restitution** (tool 1046) — bounciness from rebound and impact speeds or drop and bounce heights, plus bounce height after N bounces. Physics category. 1052 hub checks pass.
