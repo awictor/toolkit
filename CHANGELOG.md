@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.3.0
+
+- Added **Turbo Boost** (tool 933) — turbo/supercharger pressure ratio, absolute manifold pressure, and estimated power gain from boost pressure and altitude. Automotive category. 939 hub checks pass.
+
 ## v78.2.0
 
 - Added **Battery Bank Sizing** (tool 932) — off-grid battery capacity in amp-hours from daily load, days of autonomy, system voltage, and depth of discharge, with usable energy and runtime. Energy category. 938 hub checks pass.
