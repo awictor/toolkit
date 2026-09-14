@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.8.0
+
+- Added **Weir Flow** (tool 948) — discharge over a rectangular or V-notch weir from the head over the crest, plus the head needed for a target flow. Civil/hydraulics category. 954 hub checks pass.
+
 ## v79.7.0
 
 - Added **Manning Flow** (tool 947) — open-channel water velocity and flow rate from Manning's equation using roughness, width, depth, and slope. Civil/hydraulics category. 953 hub checks pass.
