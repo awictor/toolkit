@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.3.0
+
+- Added **Batting Stats** (tool 913) — batting average, on-base percentage, slugging percentage, and OPS from a hitter's line (hit types, at-bats, walks, HBP, sac flies). Sports category. 919 hub checks pass.
+
 ## v76.2.0
 
 - Added **KDA Ratio** (tool 912) — KDA and K/D ratios, kill participation, and per-game averages from kills, deaths, and assists, with a perfect-score rule for zero deaths. Gaming category. 918 hub checks pass.
