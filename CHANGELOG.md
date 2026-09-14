@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.4.0
+
+- Added **Combined Gas Law** (tool 904) — solve P₁V₁/T₁ = P₂V₂/T₂ for a final pressure, volume, or temperature, with Boyle/Charles/Gay-Lussac sub-laws and a Kelvin reminder. Chemistry category. 910 hub checks pass.
+
 ## v75.3.0
 
 - Added **Angular Size Calculator** (tool 903) — apparent angular size of an object from its physical size and distance (θ = 2·arctan(s/2d)) in degrees, arcminutes, and arcseconds, plus inverse solves for size or distance. Astronomy category. 909 hub checks pass.
