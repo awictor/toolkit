@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.6.0
+
+- Added **Audio File Size** (tool 846) — uncompressed PCM/WAV size, bitrate, and data rate from sample rate, bit depth, channels, and duration. Audio category. 852 hub checks pass.
+
 ## v69.5.0
 
 - Added **Wood Movement** (tool 845) — seasonal board expansion/shrinkage across the grain by species, cut, and moisture-content change (Wood Handbook coefficients). Woodworking category. 851 hub checks pass.
