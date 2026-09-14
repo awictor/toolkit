@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.2.0
+
+- Added **Drag Force** (tool 972) — aerodynamic drag from air density, speed, drag coefficient, and area, with dynamic pressure, drag area (CdA), and the power to overcome it. Physics/automotive category. 978 hub checks pass.
+
 ## v82.1.0
 
 - Added **Hydrostatic Pressure** (tool 971) — gauge and absolute pressure at depth in a fluid, the depth for a target pressure, and the force on a submerged surface. Physics category. 977 hub checks pass.
