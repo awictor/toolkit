@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.0.0
+
+- 🎉 **890 tools.** Added **Egg Boil Timer** (tool 890) — soft/medium/hard boil time adjusted for egg size, fridge or room-temperature start, and altitude (via the boiling-point drop). Cooking category. 896 hub checks pass.
+
 ## v73.9.0
 
 - Added **Frame Miter Calculator** (tool 889) — miter and interior angles for any-sided frame, planter, or segmented ring, plus outer segment length and total board footage with waste allowance. Woodworking category. 895 hub checks pass.
