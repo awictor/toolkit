@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.4.0
+
+- Added **Vapor Pressure Deficit** (tool 1024) — air and leaf VPD from temperature and humidity, saturation and actual vapor pressure, and the humidity for a target VPD. Environmental category. 1030 hub checks pass.
+
 ## v87.3.0
 
 - Added **Roche Limit** (tool 1023) — the distance within which a moon is torn apart by tidal forces, for rigid and fluid bodies, from radius and densities. Astronomy category. 1029 hub checks pass.
