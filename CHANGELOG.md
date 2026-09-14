@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.5.0
+
+- Added **Sourdough Starter** (tool 875) — feeding calculator: flour and water to add at any ratio, plus starter needed for a target amount. Baking category. 881 hub checks pass.
+
 ## v72.4.0
 
 - Added **Carryover Cooking** (tool 874) — pull temperature from target and expected carryover rise, with cut presets. Cooking category. 880 hub checks pass.
