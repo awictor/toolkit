@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.8.0
+
+- Added **Percent Yield** (tool 908) — reaction percent yield from actual and theoretical yield, solving for either, plus theoretical mass from moles × molar mass. Chemistry category. 914 hub checks pass.
+
 ## v75.7.0
 
 - Added **Surface Gravity** (tool 907) — surface gravity of a planet or moon from mass and radius (g = GM/r²), relative to Earth, plus your weight and scale reading there, with planet presets. Astronomy category. 913 hub checks pass.
