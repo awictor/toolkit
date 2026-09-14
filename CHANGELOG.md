@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.0.0
+
+- 📡 **Milestone: 950 tools.** Added **Shannon-Hartley** (tool 950) — the maximum error-free channel capacity from bandwidth and signal-to-noise ratio (C = B·log₂(1+SNR)), plus spectral efficiency and the SNR needed for a target data rate. Communications category. 956 hub checks pass.
+
 ## v79.9.0
 
 - Added **Erlang B** (tool 949) — call blocking probability from offered traffic and channels, offered/carried traffic, and the trunks needed for a target grade of service. Telecom category. 955 hub checks pass.
