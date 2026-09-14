@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.1.0
+
+- Added **Helmholtz Resonator** (tool 981) — the resonant frequency of a cavity with a port from volume, port area, and neck length, for speaker boxes, bottles, and mufflers. Acoustics category. 987 hub checks pass.
+
 ## v83.0.0
 
 - 🌀 **Milestone: 980 tools.** Added **Bernoulli** (tool 980) — total pressure of a moving fluid (P + ½ρv² + ρgh), the velocity gained from a pressure drop, and Torricelli's efflux speed from a tank. Fluid dynamics category. 986 hub checks pass.
