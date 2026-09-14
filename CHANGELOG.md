@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.8.0
+
+- Added **Perpetuity** (tool 958) — present value of a level or growing perpetuity (Gordon model), plus the implied yield and payment. Finance category. 964 hub checks pass.
+
 ## v80.7.0
 
 - Added **Capacitor Code** (tool 957) — decode a 3-digit ceramic capacitor marking into picofarads, nanofarads, and microfarads, with the tolerance letter. Electronics category. 963 hub checks pass.
