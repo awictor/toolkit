@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.1.0
+
+- Added **Nernst Equation** (tool 911) — electrochemical cell potential from standard potential, electrons transferred, reaction quotient, and temperature, with the 2.303RT/F slope. Chemistry category. 917 hub checks pass.
+
 ## v76.0.0
 
 - 🎉 **910 tools.** Added **Freezing Point Depression** (tool 910) — colligative freezing point depression and boiling point elevation from molality, the van't Hoff factor, and the solvent constant, with new freezing/boiling points and solvent presets. Chemistry category. 916 hub checks pass.
