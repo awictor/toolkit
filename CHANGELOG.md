@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.2.0
+
+- Added **Free Fall Calculator** (tool 892) — fall time, drop height, and impact velocity under gravity from either known height or time, with selectable planetary gravity (Earth/Moon/Mars/Venus/Jupiter). Physics category. 898 hub checks pass.
+
 ## v74.1.0
 
 - Added **Trap Speed Horsepower** (tool 891) — estimate engine horsepower from quarter-mile trap speed or ET and vehicle weight (Fox equations), and predict trap speed and ET from horsepower. Automotive category. 897 hub checks pass.
