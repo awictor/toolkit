@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.4.0
+
+- Added **RLC Impedance** (tool 994) — inductive and capacitive reactance, series impedance magnitude and phase at a frequency, plus the resonant frequency. Electronics category. 1000 hub checks pass.
+
 ## v84.3.0
 
 - Added **Inductor Energy** (tool 993) — energy stored (½LI²), flux linkage, and back-EMF from a rate of current change, plus the current for a target energy. Electronics category. 999 hub checks pass.
