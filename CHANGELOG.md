@@ -1,3 +1,7 @@
+## v89.9.0
+
+- Add Capstan Equation (tool 1049): rope-friction tension multiplier for holdable load and required hold force.
+
 ## v89.8.0
 
 - Add Pipe Harmonics (tool 1048): open and closed pipe fundamentals and harmonics from length and speed of sound.
