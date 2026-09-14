@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.5.0
+
+- Added **Climb Gradient** (tool 945) — gradient percent and feet-per-nautical-mile from climb rate and groundspeed, plus the climb rate needed for a required gradient. Aviation category. 951 hub checks pass.
+
 ## v79.4.0
 
 - Added **Resistor Parallel** (tool 944) — total resistance in series and parallel for any list of resistors, plus the parallel resistor to reach a target. Electronics category. 950 hub checks pass.
