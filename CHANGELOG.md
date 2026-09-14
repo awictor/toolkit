@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.7.0
+
+- Added **Skid Speed** (tool 937) — estimate a vehicle's minimum speed from skid-mark length and road drag factor, with grade and braking-efficiency adjustments, for accident reconstruction. Automotive category. 943 hub checks pass.
+
 ## v78.6.0
 
 - Added **Fish Weight Estimator** (tool 936) — estimate a fish's weight from length and girth, or from length alone with a species shape factor, in lb and kg. Fishing category. 942 hub checks pass.
