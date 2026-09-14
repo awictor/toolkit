@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.8.0
+
+- Added **Body Roundness Index** (tool 928) — BRI from waist circumference and height, an ellipse-based measure of central obesity, with a risk category. Health category. 934 hub checks pass.
+
 ## v77.7.0
 
 - Added **Odds Ratio & Relative Risk** (tool 927) — odds ratio, relative risk, and exposed/unexposed risks from a 2×2 contingency table for epidemiology and case-control studies. Health category. 933 hub checks pass.
