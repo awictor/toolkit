@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.5.0
+
+- Added **Guitar Capo Key** (tool 855) — sounding key from a chord shape and capo fret, and the capo position for a target key. Music category. 861 hub checks pass.
+
 ## v70.4.0
 
 - Added **Quilt Backing** (tool 854) — backing fabric yardage, panels, and seams from quilt top size, overhang, and fabric width. Crafts category. 860 hub checks pass.
