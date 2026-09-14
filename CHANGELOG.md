@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.5.0
+
+- Added **Tip Speed Ratio** (tool 975) — a wind turbine's blade tip speed and TSR from RPM, radius, and wind speed, with the RPM for a target TSR and the optimal TSR by blade count. Wind energy category. 981 hub checks pass.
+
 ## v82.4.0
 
 - Added **Current Ratio** (tool 974) — liquidity ratios (current, quick/acid-test, cash) plus working capital from a balance sheet. Finance category. 980 hub checks pass.
