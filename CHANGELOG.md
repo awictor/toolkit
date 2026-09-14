@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.2.0
+
+- Added **Heat Conduction** (tool 1002) — steady-state heat flow through a wall via Fourier's law: conduction rate, thermal resistance, heat flux, and daily energy. Physics category. 1008 hub checks pass.
+
 ## v85.1.0
 
 - Added **Young's Modulus** (tool 1001) — axial stress, strain, elastic modulus, elongation under load, and axial stiffness for a rod or wire. Physics category. 1007 hub checks pass.
