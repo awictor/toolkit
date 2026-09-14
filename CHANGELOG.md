@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.7.0
+
+- Added **Air Density** (tool 1007) — dry-air density from pressure and temperature (ideal gas), relative density versus sea level, and dynamic pressure. Physics category. 1013 hub checks pass.
+
 ## v85.6.0
 
 - Added **Magnetic Force** (tool 1006) — force on a current-carrying wire (BIL), the Lorentz force on a moving charge, path radius, cyclotron frequency, and loop torque. Physics category. 1012 hub checks pass.
