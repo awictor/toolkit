@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.7.0
+
+- Added **Cycling Power & Speed** (tool 897) — speed from power (and the power to hold a speed) via the standard cycling model: rolling resistance, gravity on a grade, and aerodynamic drag, with configurable mass, CdA, and Crr. Cycling category. 903 hub checks pass.
+
 ## v74.6.0
 
 - Added **Cocktail Dilution** (tool 896) — volume-weighted ABV blend from a drink's ingredients plus final strength and volume after neat/rocks/stirred/shaken dilution, with alcohol conserved. Cooking category. 902 hub checks pass.
