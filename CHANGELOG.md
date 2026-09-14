@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.3.0
+
+- Added **Partial Pressure** (tool 1043) — Dalton's law: partial pressure from mole fraction and total pressure, mole fraction from moles, and total from partials. Chemistry category. 1049 hub checks pass.
+
 ## v89.2.0
 
 - Added **Graham's Law** (tool 1042) — effusion and diffusion rate ratio of two gases from their molar masses, the time ratio, and an unknown molar mass. Chemistry category. 1048 hub checks pass.
