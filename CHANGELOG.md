@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.1.0
+
+- Added **Rocket Altitude Tracker** (tool 851) — single-station model rocket apogee from baseline distance and elevation angle, with slant range. Rocketry category. 857 hub checks pass.
+
 ## v70.0.0
 
 - Added **MOA / Mil Converter** (tool 850) — convert MOA, milliradians, and inches at any distance for rifle scope zeroing and holdover. Shooting category. 856 hub checks pass.
