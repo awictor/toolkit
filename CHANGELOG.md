@@ -1,5 +1,9 @@
 # Changelog
 
+## v82.1.0
+
+- Added **Hydrostatic Pressure** (tool 971) — gauge and absolute pressure at depth in a fluid, the depth for a target pressure, and the force on a submerged surface. Physics category. 977 hub checks pass.
+
 ## v82.0.0
 
 - 🧲 **Milestone: 970 tools.** Added **Coulomb's Law** (tool 970) — the electrostatic force between two charges, the electric field of a charge, the potential energy, and the distance for a target force. Physics category. 976 hub checks pass.
