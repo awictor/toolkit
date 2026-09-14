@@ -1,5 +1,10 @@
 # Changelog
 
+## v70.0.0
+
+- Added **MOA / Mil Converter** (tool 850) — convert MOA, milliradians, and inches at any distance for rifle scope zeroing and holdover. Shooting category. 856 hub checks pass.
+- Milestone: the Toolkit now spans **850 tools**.
+
 ## v69.9.0
 
 - Added **Soap Lye Calculator** (tool 849) — lye (NaOH) and water for a cold-process soap batch from oil weight, SAP value, superfat, and water:lye ratio. Crafts category. 855 hub checks pass.
