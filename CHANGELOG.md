@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.0.0
+
+- 🌋 **Milestone: 960 tools.** Added **Richter Magnitude** (tool 960) — earthquake energy and TNT equivalent from magnitude, plus the energy (~31.6×/step) and ground-shaking (10×/step) ratio between two quakes. Geology category. 966 hub checks pass.
+
 ## v80.9.0
 
 - Added **Standard Error** (tool 959) — standard error of the mean and of a proportion, the margin of error, and the sample size needed for a target precision. Statistics category. 965 hub checks pass.
