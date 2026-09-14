@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.2.0
+
+- Added **Leather Weight** (tool 872) — leather ounce-to-thickness conversion (mm/inch, both directions) with a project-use guide. Crafts category. 878 hub checks pass.
+
 ## v72.1.0
 
 - Added **Name Number** (tool 871) — numerology Expression Number from a name using the Pythagorean letter system, preserving master numbers. Lifestyle category. 877 hub checks pass.
