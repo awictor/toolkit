@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.6.0
+
+- Added **Population Growth** (tool 966) — project an exponential population, find the growth rate between two counts, the time to reach a target, and the doubling time. Demographics category. 972 hub checks pass.
+
 ## v81.5.0
 
 - Added **Moment Magnitude** (tool 965) — an earthquake's Mw from its seismic moment, the moment from a fault rupture (μ·A·d), and the moment ratio between magnitudes. Geology category. 971 hub checks pass.
