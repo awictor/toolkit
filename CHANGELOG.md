@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.7.0
+
+- Added **Priming Sugar** (tool 877) — dextrose for bottle conditioning from batch volume, target carbonation, and fermentation temperature. Brewing category. 883 hub checks pass.
+
 ## v72.6.0
 
 - Added **Keg Carbonation** (tool 876) — kegerator regulator PSI for a target CO₂ volume at serving temperature, with style presets. Brewing category. 882 hub checks pass.
