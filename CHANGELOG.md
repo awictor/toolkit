@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.2.0
+
+- Added **Redshift Velocity** (tool 1022) — recession velocity from cosmological redshift (classical and relativistic), Hubble distance, and observed wavelength. Astronomy category. 1028 hub checks pass.
+
 ## v87.1.0
 
 - Added **Lens Diopters** (tool 1021) — optical power from focal length and back, combined power of stacked lenses, equivalent focal length, and magnifier power. Optics category. 1027 hub checks pass.
