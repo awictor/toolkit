@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.2.0
+
+- Added **Flywheel Energy** (tool 942) — rotational kinetic energy stored in a spinning disk from mass, radius, and RPM, with moment of inertia and angular velocity. Physics/mechanical category. 948 hub checks pass.
+
 ## v79.1.0
 
 - Added **Glide Ratio** (tool 941) — glide distance from altitude, glide angle, and sink rate at a chosen airspeed for sailplanes and engine-out planning. Aviation category. 947 hub checks pass.
