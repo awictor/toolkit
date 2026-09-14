@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.4.0
+
+- Added **Bandwidth-Delay Product** (tool 924) — the bandwidth-delay product and minimum TCP window size from link speed and round-trip time, plus the throughput a window allows. Networking category. 930 hub checks pass.
+
 ## v77.3.0
 
 - Added **Cents Converter** (tool 923) — cents between two pitches, detune a frequency by cents, and ratio-to-cents conversion for tuning and microtonal work. Music category. 929 hub checks pass.
