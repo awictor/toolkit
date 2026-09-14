@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.9.0
+
+- Added **Combinatorics Calculator** (tool 999) — combinations (nCr), permutations (nPr), factorial, and the with-repetition variants. Math category. 1005 hub checks pass.
+
 ## v84.8.0
 
 - Added **Solar Panel Output** (tool 998) — array rated power, daily and annual energy from peak sun hours and a performance ratio, arrays needed, and CO₂ avoided. Energy category. 1004 hub checks pass.
