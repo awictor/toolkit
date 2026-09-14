@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.9.0
+
+- Added **Soap Lye Calculator** (tool 849) — lye (NaOH) and water for a cold-process soap batch from oil weight, SAP value, superfat, and water:lye ratio. Crafts category. 855 hub checks pass.
+
 ## v69.8.0
 
 - Added **Wing Loading** (tool 848) — wing loading and cubic wing loading from weight and wing area, with an RC flight-character category. Aviation category. 854 hub checks pass.
