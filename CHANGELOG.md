@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.6.0
+
+- Added **Fish Weight Estimator** (tool 936) — estimate a fish's weight from length and girth, or from length alone with a species shape factor, in lb and kg. Fishing category. 942 hub checks pass.
+
 ## v78.5.0
 
 - Added **Coax Cable Loss** (tool 935) — total feedline loss in dB, power delivered to the antenna, and percent of power lost from cable length and loss per 100 ft. Radio category. 941 hub checks pass.
