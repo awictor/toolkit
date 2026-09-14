@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.7.0
+
+- Added **Noise Figure** (tool 967) — convert noise figure to noise factor and effective noise temperature, and compute a receiver chain's Friis cascade noise figure. RF/electronics category. 973 hub checks pass.
+
 ## v81.6.0
 
 - Added **Population Growth** (tool 966) — project an exponential population, find the growth rate between two counts, the time to reach a target, and the doubling time. Demographics category. 972 hub checks pass.
