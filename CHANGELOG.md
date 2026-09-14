@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.6.0
+
+- Added **Punnett Square** (tool 996) — monohybrid genetic cross: offspring genotype counts, dominant-to-recessive phenotype ratio, and the chance of the dominant trait. Biology category. 1002 hub checks pass.
+
 ## v84.5.0
 
 - Added **Wheatstone Bridge** (tool 995) — the unknown resistance that balances a bridge, the output voltage when unbalanced, node voltages, and a balance check. Electronics category. 1001 hub checks pass.
