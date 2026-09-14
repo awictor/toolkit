@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.3.0
+
+- Added **Angular Size Calculator** (tool 903) — apparent angular size of an object from its physical size and distance (θ = 2·arctan(s/2d)) in degrees, arcminutes, and arcseconds, plus inverse solves for size or distance. Astronomy category. 909 hub checks pass.
+
 ## v75.2.0
 
 - Added **Sailing VMG** (tool 902) — velocity made good, cross-track speed, efficiency, and time on a leg from boat speed and the angle to the target or wind. Sailing category. 908 hub checks pass.
