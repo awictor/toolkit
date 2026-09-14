@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.6.0
+
+- Added **Keg Carbonation** (tool 876) — kegerator regulator PSI for a target CO₂ volume at serving temperature, with style presets. Brewing category. 882 hub checks pass.
+
 ## v72.5.0
 
 - Added **Sourdough Starter** (tool 875) — feeding calculator: flour and water to add at any ratio, plus starter needed for a target amount. Baking category. 881 hub checks pass.
