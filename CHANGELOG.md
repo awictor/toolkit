@@ -1,5 +1,9 @@
 # Changelog
 
+## v72.8.0
+
+- Added **Chaptalization** (tool 878) — sugar to add to must to reach a target potential alcohol, with potential ABV from starting gravity. Winemaking category. 884 hub checks pass.
+
 ## v72.7.0
 
 - Added **Priming Sugar** (tool 877) — dextrose for bottle conditioning from batch volume, target carbonation, and fermentation temperature. Brewing category. 883 hub checks pass.
