@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.7.0
+
+- Added **Osmotic Pressure** (tool 987) — van't Hoff osmotic pressure (π = iMRT) from molarity, temperature, and dissociation factor, with osmolarity and the reverse. Chemistry category. 993 hub checks pass.
+
 ## v83.6.0
 
 - Added **Regular Polygon** (tool 986) — area, perimeter, interior angle, apothem, and circumradius of a regular polygon from its sides and side length. Geometry category. 992 hub checks pass.
