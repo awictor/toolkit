@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.5.0
+
+- Added **Coax Cable Loss** (tool 935) — total feedline loss in dB, power delivered to the antenna, and percent of power lost from cable length and loss per 100 ft. Radio category. 941 hub checks pass.
+
 ## v78.4.0
 
 - Added **Heat Sink Temperature** (tool 934) — junction temperature, max power dissipation, and the heat-sink thermal resistance needed from series thermal resistances and power. Electronics category. 940 hub checks pass.
