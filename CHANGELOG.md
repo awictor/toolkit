@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.6.0
+
+- Added **Board Cut List** (tool 926) — pieces per board, boards needed, waste per board, and kerf lost from stock length, piece length, and saw kerf. Woodworking category. 932 hub checks pass.
+
 ## v77.5.0
 
 - Added **Print Bleed & Safe Area** (tool 925) — full document size with bleed and the safe area from trim size, bleed, and margin, in inches, mm, or px. Design category. 931 hub checks pass.
