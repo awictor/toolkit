@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.1.0
+
+- Added **Mass-Energy** (tool 961) — Einstein's E = mc²: energy locked in a mass and its inverse, the TNT equivalent, and relativistic total energy at speed. Physics category. 967 hub checks pass.
+
 ## v81.0.0
 
 - 🌋 **Milestone: 960 tools.** Added **Richter Magnitude** (tool 960) — earthquake energy and TNT equivalent from magnitude, plus the energy (~31.6×/step) and ground-shaking (10×/step) ratio between two quakes. Geology category. 966 hub checks pass.
