@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.9.0
+
+- Added **Tippet Calculator** (tool 859) — fly-fishing tippet X-size to diameter (in/mm), approximate pound test, and suggested fly sizes. Fishing category. 865 hub checks pass.
+
 ## v70.8.0
 
 - Added **Bend Allowance** (tool 858) — sheet metal bend allowance, bend deduction, and flat blank length from thickness, radius, angle, and K-factor. Fabrication category. 864 hub checks pass.
