@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.4.0
+
+- Added **Passer Rating** (tool 914) — NFL quarterback passer rating from completions, attempts, yards, touchdowns, and interceptions, with the four capped components and a quality tier. Sports category. 920 hub checks pass.
+
 ## v76.3.0
 
 - Added **Batting Stats** (tool 913) — batting average, on-base percentage, slugging percentage, and OPS from a hitter's line (hit types, at-bats, walks, HBP, sac flies). Sports category. 919 hub checks pass.
