@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.7.0
+
+- Added **Odds Ratio & Relative Risk** (tool 927) — odds ratio, relative risk, and exposed/unexposed risks from a 2×2 contingency table for epidemiology and case-control studies. Health category. 933 hub checks pass.
+
 ## v77.6.0
 
 - Added **Board Cut List** (tool 926) — pieces per board, boards needed, waste per board, and kerf lost from stock length, piece length, and saw kerf. Woodworking category. 932 hub checks pass.
