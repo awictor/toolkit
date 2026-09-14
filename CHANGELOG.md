@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.2.0
+
+- Added **Return on Equity** (tool 982) — ROE and ROA from net income, the equity multiplier, and the DuPont breakdown into margin, asset turnover, and leverage. Finance category. 988 hub checks pass.
+
 ## v83.1.0
 
 - Added **Helmholtz Resonator** (tool 981) — the resonant frequency of a cavity with a port from volume, port area, and neck length, for speaker boxes, bottles, and mufflers. Acoustics category. 987 hub checks pass.
