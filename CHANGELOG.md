@@ -1,5 +1,9 @@
 # Changelog
 
+## v69.8.0
+
+- Added **Wing Loading** (tool 848) — wing loading and cubic wing loading from weight and wing area, with an RC flight-character category. Aviation category. 854 hub checks pass.
+
 ## v69.7.0
 
 - Added **Fall Factor** (tool 847) — climbing fall factor, severity, and estimated peak rope impact force from fall length, rope out, and climber weight. Climbing category. 853 hub checks pass.
