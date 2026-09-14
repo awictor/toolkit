@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.6.0
+
+- Added **Spring Frequency** (tool 1016) — mass-spring natural and angular frequency, period, and the spring or mass needed for a target frequency. Physics category. 1022 hub checks pass.
+
 ## v86.5.0
 
 - Added **Enzyme Kinetics** (tool 1015) — Michaelis-Menten reaction rate from Vmax, Km, and substrate, the fraction of Vmax, and catalytic efficiency. Biology category. 1021 hub checks pass.
