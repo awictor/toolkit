@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.9.0
+
+- Added **Frame Miter Calculator** (tool 889) — miter and interior angles for any-sided frame, planter, or segmented ring, plus outer segment length and total board footage with waste allowance. Woodworking category. 895 hub checks pass.
+
 ## v73.8.0
 
 - Added **Rock Bottom Gas** (tool 888) — minimum gas reserve two divers need to ascend safely from depth (problem + ascent + safety stop) in cu ft and tank psi, with configurable SAC, ascent rate, divers, and tank. Diving category. 894 hub checks pass.
