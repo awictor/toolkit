@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.6.0
+
+- Added **EC / PPM Converter** (tool 856) — hydroponic nutrient strength between EC (mS/cm) and PPM on the 500 and 700 scales. Gardening category. 862 hub checks pass.
+
 ## v70.5.0
 
 - Added **Guitar Capo Key** (tool 855) — sounding key from a chord shape and capo fret, and the capo position for a target key. Music category. 861 hub checks pass.
