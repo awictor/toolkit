@@ -1,5 +1,9 @@
 # Changelog
 
+## v70.8.0
+
+- Added **Bend Allowance** (tool 858) — sheet metal bend allowance, bend deduction, and flat blank length from thickness, radius, angle, and K-factor. Fabrication category. 864 hub checks pass.
+
 ## v70.7.0
 
 - Added **Music Interval** (tool 857) — interval name, semitone distance, and quality between two notes (ascending within an octave). Music category. 863 hub checks pass.
