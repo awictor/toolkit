@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.8.0
+
+- Added **Save Percentage** (tool 918) — goalie save percentage (SV%), goals-against average (GAA), and shots faced for hockey or soccer, with configurable game length. Sports category. 924 hub checks pass.
+
 ## v76.7.0
 
 - Added **Shooting Efficiency** (tool 917) — basketball field goal %, effective field goal %, true shooting %, and points per shot from a scoring line. Sports category. 923 hub checks pass.
