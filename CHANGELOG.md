@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.7.0
+
+- Added **Barbell Plate Loader** (tool 887) — greedy plate loading per side to hit a target weight in kg or lb, with a bar visual, loaded total, and short-by remainder. Fitness category. 893 hub checks pass.
+
 ## v73.6.0
 
 - Added **dBm Converter** (tool 886) — convert RF power between dBm, watts, milliwatts, and microwatts, plus apply dB gain/loss along a signal chain. Electronics category. 892 hub checks pass.
