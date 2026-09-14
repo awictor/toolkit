@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.8.0
+
+- Added **Rock Bottom Gas** (tool 888) — minimum gas reserve two divers need to ascend safely from depth (problem + ascent + safety stop) in cu ft and tank psi, with configurable SAC, ascent rate, divers, and tank. Diving category. 894 hub checks pass.
+
 ## v73.7.0
 
 - Added **Barbell Plate Loader** (tool 887) — greedy plate loading per side to hit a target weight in kg or lb, with a bar visual, loaded total, and short-by remainder. Fitness category. 893 hub checks pass.
