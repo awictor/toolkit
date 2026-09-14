@@ -1,5 +1,9 @@
 # Changelog
 
+## v80.9.0
+
+- Added **Standard Error** (tool 959) — standard error of the mean and of a proportion, the margin of error, and the sample size needed for a target precision. Statistics category. 965 hub checks pass.
+
 ## v80.8.0
 
 - Added **Perpetuity** (tool 958) — present value of a level or growing perpetuity (Gordon model), plus the implied yield and payment. Finance category. 964 hub checks pass.
