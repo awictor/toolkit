@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.2.0
+
+- Added **Inclined Plane** (tool 1012) — ramp forces: gravity down the slope, the normal force, sliding acceleration with friction, and mechanical advantage. Physics category. 1018 hub checks pass.
+
 ## v86.1.0
 
 - Added **Elastic Collision** (tool 1011) — final velocities of two masses in a 1D elastic collision, with momentum and kinetic-energy checks. Physics category. 1017 hub checks pass.
