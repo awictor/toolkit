@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.0.0
+
+- 🎉 **920 tools.** Added **Beatmatch BPM** (tool 920) — DJ tempo match: the pitch percentage to sync two tracks, the matched BPM, and beat/bar lengths in seconds, with a ±8% range warning. Music category. 926 hub checks pass.
+
 ## v76.9.0
 
 - Added **APM Calculator** (tool 919) — actions per minute, effective APM, and spam ratio from action counts and match time. Gaming category. 925 hub checks pass.
