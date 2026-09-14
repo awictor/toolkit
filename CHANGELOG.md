@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.2.0
+
+- Added **Capacitor Energy** (tool 992) — energy stored (½CV²) and charge in a capacitor, plus the voltage or capacitance needed for a target energy. Electronics category. 998 hub checks pass.
+
 ## v84.1.0
 
 - Added **Bragg's Law** (tool 991) — X-ray diffraction angle, atomic-plane spacing, or wavelength from nλ = 2d·sinθ, plus the maximum diffraction order. Physics/crystallography category. 997 hub checks pass.
