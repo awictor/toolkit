@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.3.0
+
+- Added **Honey Super Yield** (tool 863) — estimate a beehive's honey harvest from super type, frame count, and fill percentage, plus jars filled. Beekeeping category. 869 hub checks pass.
+
 ## v71.2.0
 
 - Added **Router Bit Speed** (tool 862) — maximum safe router RPM by bit diameter, with rim speed in ft/min and mph. Woodworking category. 868 hub checks pass.
