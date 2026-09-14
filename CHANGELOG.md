@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.9.0
+
+- Added **APM Calculator** (tool 919) — actions per minute, effective APM, and spam ratio from action counts and match time. Gaming category. 925 hub checks pass.
+
 ## v76.8.0
 
 - Added **Save Percentage** (tool 918) — goalie save percentage (SV%), goals-against average (GAA), and shots faced for hockey or soccer, with configurable game length. Sports category. 924 hub checks pass.
