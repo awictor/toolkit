@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.3.0
+
+- Added **Venturi Flow** (tool 983) — volumetric flow rate through a Venturi meter from the pressure drop, pipe and throat areas, and fluid density, with throat velocity. Fluid dynamics category. 989 hub checks pass.
+
 ## v83.2.0
 
 - Added **Return on Equity** (tool 982) — ROE and ROA from net income, the equity multiplier, and the DuPont breakdown into margin, asset turnover, and leverage. Finance category. 988 hub checks pass.
