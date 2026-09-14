@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.4.0
+
+- Added **Pythagorean Expectation** (tool 894) — expected win % and season wins from points scored and allowed, with Bill James exponents tuned per sport (baseball/basketball/football/hockey/soccer) plus a custom option. Sports category. 900 hub checks pass.
+
 ## v74.3.0
 
 - Added **Light Distance Converter** (tool 893) — convert astronomical distances between light-years, parsecs, AU, light-seconds/minutes/hours/days, km, and miles, and show the light-travel time. Astronomy category. 899 hub checks pass.
