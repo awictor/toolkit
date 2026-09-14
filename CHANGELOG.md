@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.5.0
+
+- Added **Wheatstone Bridge** (tool 995) — the unknown resistance that balances a bridge, the output voltage when unbalanced, node voltages, and a balance check. Electronics category. 1001 hub checks pass.
+
 ## v84.4.0
 
 - Added **RLC Impedance** (tool 994) — inductive and capacitive reactance, series impedance magnitude and phase at a frequency, plus the resonant frequency. Electronics category. 1000 hub checks pass.
