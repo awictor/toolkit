@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.4.0
+
+- Added **Fick Cardiac Output** (tool 984) — cardiac output by the Fick principle from oxygen consumption and the arteriovenous oxygen difference, with cardiac index. Physiology category. 990 hub checks pass.
+
 ## v83.3.0
 
 - Added **Venturi Flow** (tool 983) — volumetric flow rate through a Venturi meter from the pressure drop, pipe and throat areas, and fluid density, with throat velocity. Fluid dynamics category. 989 hub checks pass.
