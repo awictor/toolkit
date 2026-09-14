@@ -1,5 +1,10 @@
 # Changelog
 
+## v73.0.0
+
+- Added **Ability Modifier** (tool 880) — D&D 5e ability score to modifier plus proficiency bonus by level. Tabletop category. 886 hub checks pass.
+- Milestone: the Toolkit now spans **880 tools**.
+
 ## v72.9.0
 
 - Added **Cheese Rennet** (tool 879) — rennet dose by milk volume and type (single/double liquid, tablet), with drops and a set-strength adjustment. Cheesemaking category. 885 hub checks pass.
