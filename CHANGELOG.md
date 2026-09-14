@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.8.0
+
+- Added **Damping Ratio** (tool 1018) — spring-mass-damper: damping ratio, critical damping, natural and damped frequency, quality factor, and the damping regime. Physics category. 1024 hub checks pass.
+
 ## v86.7.0
 
 - Added **Column Buckling** (tool 1017) — Euler critical buckling load from stiffness, section, length, and end conditions, with moment of inertia and critical stress. Engineering category. 1023 hub checks pass.
