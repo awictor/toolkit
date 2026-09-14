@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.2.0
+
+- Added **Speaker SPL** (tool 1032) — loudness in dB from speaker sensitivity, amplifier power, and distance, the power for a target level, and combined SPL of two sources. Acoustics category. 1038 hub checks pass.
+
 ## v88.1.0
 
 - Added **Barometric Formula** (tool 1031) — air pressure and temperature at altitude, altitude from a pressure reading, sea-level reduction, and water's boiling point. Atmospheric category. 1037 hub checks pass.
