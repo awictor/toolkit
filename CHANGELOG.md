@@ -1,5 +1,9 @@
 # Changelog
 
+## v89.6.0
+
+- Added **Coefficient of Restitution** (tool 1046) — bounciness from rebound and impact speeds or drop and bounce heights, plus bounce height after N bounces. Physics category. 1052 hub checks pass.
+
 ## v89.5.0
 
 - Added **Logistic Growth** (tool 1045) — S-curve population over time toward a carrying capacity, the growth rate, inflection time, and peak growth rate. Biology category. 1051 hub checks pass.
