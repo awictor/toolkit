@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.5.0
+
+- Added **Print Bleed & Safe Area** (tool 925) — full document size with bleed and the safe area from trim size, bleed, and margin, in inches, mm, or px. Design category. 931 hub checks pass.
+
 ## v77.4.0
 
 - Added **Bandwidth-Delay Product** (tool 924) — the bandwidth-delay product and minimum TCP window size from link speed and round-trip time, plus the throughput a window allows. Networking category. 930 hub checks pass.
