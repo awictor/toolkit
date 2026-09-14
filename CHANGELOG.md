@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.5.0
+
+- Added **RAID Capacity** (tool 885) — usable storage, fault tolerance, and space efficiency for RAID 0/1/5/6/10 arrays with minimum-disk validation. Storage category. 891 hub checks pass.
+
 ## v73.4.0
 
 - Added **Creatine Dose** (tool 884) — creatine loading and maintenance doses by bodyweight, split into servings. Fitness category. 890 hub checks pass.
