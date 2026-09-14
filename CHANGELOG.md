@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.3.0
+
+- Added **Hardy-Weinberg** (tool 963) — equilibrium genotype frequencies (p², 2pq, q²) from an allele frequency, and the allele frequency back-solved from the recessive phenotype. Biology category. 969 hub checks pass.
+
 ## v81.2.0
 
 - Added **Kardashev Scale** (tool 962) — a civilization's Kardashev type from its power output, the power a target type needs, and the gap to reach it. Astronomy category. 968 hub checks pass.
