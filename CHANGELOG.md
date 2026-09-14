@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.9.0
+
+- Added **Banked Curve** (tool 939) — ideal banking angle for a curve from speed and radius, plus min and max safe speed once tire friction is included. Automotive/physics category. 945 hub checks pass.
+
 ## v78.8.0
 
 - Added **Power Factor** (tool 938) — power factor, apparent power (kVA), reactive power (kVAR), and correction kVAR to reach a target PF. Electrical category. 944 hub checks pass.
