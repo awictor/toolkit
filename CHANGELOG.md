@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.8.0
+
+- Added **Power Factor** (tool 938) — power factor, apparent power (kVA), reactive power (kVAR), and correction kVAR to reach a target PF. Electrical category. 944 hub checks pass.
+
 ## v78.7.0
 
 - Added **Skid Speed** (tool 937) — estimate a vehicle's minimum speed from skid-mark length and road drag factor, with grade and braking-efficiency adjustments, for accident reconstruction. Automotive category. 943 hub checks pass.
