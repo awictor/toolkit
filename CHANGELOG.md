@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.1.0
+
+- Added **DLI Calculator** (tool 861) — Daily Light Integral from grow-light PPFD and photoperiod, with crop-suitability guidance. Gardening category. 867 hub checks pass.
+
 ## v71.0.0
 
 - Added **Speaker Crossover** (tool 860) — first-order passive crossover capacitor and inductor from the crossover frequency and driver impedance. Audio category. 866 hub checks pass.
