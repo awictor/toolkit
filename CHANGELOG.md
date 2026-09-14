@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.8.0
+
+- Added **DSCR Calculator** (tool 1028) — debt service coverage ratio from NOI and debt payments, the max payment for a target DSCR, required NOI, and break-even occupancy. Finance category. 1034 hub checks pass.
+
 ## v87.7.0
 
 - Added **Mean Free Path** (tool 1027) — the average distance a gas molecule travels between collisions from temperature, pressure, and molecular size, with number density and collision frequency. Physics category. 1033 hub checks pass.
