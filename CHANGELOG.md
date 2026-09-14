@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.7.0
+
+- Added **Surface Gravity** (tool 907) — surface gravity of a planet or moon from mass and radius (g = GM/r²), relative to Earth, plus your weight and scale reading there, with planet presets. Astronomy category. 913 hub checks pass.
+
 ## v75.6.0
 
 - Added **Number Needed to Treat** (tool 906) — NNT/NNH, absolute and relative risk reduction, and relative risk from control and treatment event rates. Health category. 912 hub checks pass.
