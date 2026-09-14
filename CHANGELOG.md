@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.2.0
+
+- Added **Battery Bank Sizing** (tool 932) — off-grid battery capacity in amp-hours from daily load, days of autonomy, system voltage, and depth of discharge, with usable energy and runtime. Energy category. 938 hub checks pass.
+
 ## v78.1.0
 
 - Added **Aquarium Water Change** (tool 931) — water-change volume for a target percentage, nitrate remaining after one or more changes, and the percent change needed to hit a target level. Aquarium category. 937 hub checks pass.
