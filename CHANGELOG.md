@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.6.0
+
+- Added **Cocktail Dilution** (tool 896) — volume-weighted ABV blend from a drink's ingredients plus final strength and volume after neat/rocks/stirred/shaken dilution, with alcohol conserved. Cooking category. 902 hub checks pass.
+
 ## v74.5.0
 
 - Added **Tea Steeping Guide** (tool 895) — ideal water temperature and steep time for green, black, oolong, white, herbal, and pu-erh tea, with strength control and a gongfu multi-infusion schedule. Cooking category. 901 hub checks pass.
