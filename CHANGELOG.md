@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.4.0
+
+- Added **Triangle Solver** (tool 1034) — area, all three angles, perimeter, and type of a triangle from its three sides, with a validity check. Geometry category. 1040 hub checks pass.
+
 ## v88.3.0
 
 - Added **Cone Calculator** (tool 1033) — volume, slant height, lateral and total surface area of a right circular cone from its radius and height. Geometry category. 1039 hub checks pass.
