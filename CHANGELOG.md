@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.0.0
+
+- 🎉 **1000 tools.** Added **Hydraulic Press** (tool 1000) — Pascal's law force multiplier: output force, mechanical advantage, system pressure, and the piston-travel trade-off. Physics category. 1006 hub checks pass.
+
 ## v84.9.0
 
 - Added **Combinatorics Calculator** (tool 999) — combinations (nCr), permutations (nPr), factorial, and the with-repetition variants. Math category. 1005 hub checks pass.
