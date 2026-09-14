@@ -1,5 +1,9 @@
 # Changelog
 
+## v84.8.0
+
+- Added **Solar Panel Output** (tool 998) — array rated power, daily and annual energy from peak sun hours and a performance ratio, arrays needed, and CO₂ avoided. Energy category. 1004 hub checks pass.
+
 ## v84.7.0
 
 - Added **Wind Turbine Power** (tool 997) — rotor swept area, the power in the wind (½ρAv³), the power a turbine extracts, the Betz limit, and annual energy. Energy category. 1003 hub checks pass.
