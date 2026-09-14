@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.8.0
+
+- Added **Ellipsoid** (tool 1038) — volume, approximate surface area, and equal-volume sphere radius of an ellipsoid from its three semi-axes. Geometry category. 1044 hub checks pass.
+
 ## v88.7.0
 
 - Added **Annulus (Ring)** (tool 1037) — area between two concentric circles, ring width, inner and outer circumference, and the inner radius for a target area. Geometry category. 1043 hub checks pass.
