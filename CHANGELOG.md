@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.0.0
+
+- 🎉 **930 tools.** Added **XP Level Curve** (tool 930) — XP per level, total XP to reach a level, level from total XP, and XP remaining to a target for a configurable RPG leveling curve. Gaming category. 936 hub checks pass.
+
 ## v77.9.0
 
 - Added **NPK Fertilizer** (tool 929) — pounds of nitrogen, phosphate, and potash in a bag from its N-P-K grade, total nutrient, and bags needed for a target. Gardening category. 935 hub checks pass.
