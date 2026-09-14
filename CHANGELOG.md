@@ -1,5 +1,9 @@
 # Changelog
 
+## v71.5.0
+
+- Added **SWOLF Score** (tool 865) — swimming efficiency score (strokes + seconds per length) with a rating band and set averaging. Fitness category. 871 hub checks pass.
+
 ## v71.4.0
 
 - Added **Bike Frame Size** (tool 864) — road/mountain/hybrid frame size from inseam, with MTB inches and standover target. Cycling category. 870 hub checks pass.
