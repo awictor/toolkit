@@ -1,5 +1,9 @@
 # Changelog
 
+## v79.6.0
+
+- Added **Carnot Efficiency** (tool 946) — maximum theoretical heat-engine efficiency between two temperatures, plus the ideal COP of a refrigerator and heat pump. Thermodynamics category. 952 hub checks pass.
+
 ## v79.5.0
 
 - Added **Climb Gradient** (tool 945) — gradient percent and feet-per-nautical-mile from climb rate and groundspeed, plus the climb rate needed for a required gradient. Aviation category. 951 hub checks pass.
