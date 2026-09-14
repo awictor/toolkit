@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.3.0
+
+- Added **Cents Converter** (tool 923) — cents between two pitches, detune a frequency by cents, and ratio-to-cents conversion for tuning and microtonal work. Music category. 929 hub checks pass.
+
 ## v77.2.0
 
 - Added **Camelot Wheel** (tool 922) — harmonically compatible keys for DJ mixing (same, energy up/down, relative major/minor) with a full 24-key Camelot map and wrap-around. Music category. 928 hub checks pass.
