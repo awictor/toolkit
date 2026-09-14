@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.6.0
+
+- Added **DPS Calculator** (tool 916) — base and crit-adjusted damage per second from hit damage, fire rate, crit chance, and multiplier, plus time to kill a health pool. Gaming category. 922 hub checks pass.
+
 ## v76.5.0
 
 - Added **ERA & WHIP** (tool 915) — baseball pitching stats: ERA, WHIP, K/9, and BB/9 from a pitcher's line, plus outs-to-innings conversion. Sports category. 921 hub checks pass.
