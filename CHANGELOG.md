@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.3.0
+
+- Added **Poiseuille Flow** (tool 1003) — laminar pipe flow rate from pressure drop, radius, viscosity, and length (the r⁴ law), plus hydraulic resistance and velocity. Fluids category. 1009 hub checks pass.
+
 ## v85.2.0
 
 - Added **Heat Conduction** (tool 1002) — steady-state heat flow through a wall via Fourier's law: conduction rate, thermal resistance, heat flux, and daily energy. Physics category. 1008 hub checks pass.
