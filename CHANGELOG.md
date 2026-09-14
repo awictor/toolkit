@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.9.0
+
+- Added **NPK Fertilizer** (tool 929) — pounds of nitrogen, phosphate, and potash in a bag from its N-P-K grade, total nutrient, and bags needed for a target. Gardening category. 935 hub checks pass.
+
 ## v77.8.0
 
 - Added **Body Roundness Index** (tool 928) — BRI from waist circumference and height, an ellipse-based measure of central obesity, with a risk category. Health category. 934 hub checks pass.
