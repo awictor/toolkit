@@ -1,5 +1,9 @@
 # Changelog
 
+## v81.4.0
+
+- Added **Fujita Scale** (tool 964) — rate a tornado on the Enhanced Fujita scale from its wind speed, with tier thresholds, km/h conversion, and the original Fujita wind relation. Weather category. 970 hub checks pass.
+
 ## v81.3.0
 
 - Added **Hardy-Weinberg** (tool 963) — equilibrium genotype frequencies (p², 2pq, q²) from an allele frequency, and the allele frequency back-solved from the recessive phenotype. Biology category. 969 hub checks pass.
