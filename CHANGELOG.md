@@ -1,5 +1,9 @@
 # Changelog
 
+## v87.6.0
+
+- Added **Gas Molecule Speed** (tool 1026) — kinetic-theory RMS, mean, and most-probable molecular speed from temperature and molar mass, plus KE per mole. Physics category. 1032 hub checks pass.
+
 ## v87.5.0
 
 - Added **Path Loss (FSPL)** (tool 1025) — free-space path loss from distance and frequency, plus received power, link margin, and max range for a radio link. Telecom category. 1031 hub checks pass.
