@@ -1,5 +1,9 @@
 # Changelog
 
+## v77.1.0
+
+- Added **Audio Latency** (tool 921) — one-way and round-trip latency in milliseconds from buffer size and sample rate, plus the buffer needed for a target latency. Audio category. 927 hub checks pass.
+
 ## v77.0.0
 
 - 🎉 **920 tools.** Added **Beatmatch BPM** (tool 920) — DJ tempo match: the pitch percentage to sync two tracks, the matched BPM, and beat/bar lengths in seconds, with a ±8% range warning. Music category. 926 hub checks pass.
