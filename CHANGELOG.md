@@ -1,5 +1,9 @@
 # Changelog
 
+## v88.6.0
+
+- Added **Square Pyramid** (tool 1036) — volume, slant height, lateral and total surface area of a square pyramid from its base side and height. Geometry category. 1042 hub checks pass.
+
 ## v88.5.0
 
 - Added **Circle Sector** (tool 1035) — arc length, sector area, chord, and segment area of a circle slice from its radius and angle. Geometry category. 1041 hub checks pass.
