@@ -1,5 +1,9 @@
 # Changelog
 
+## v83.0.0
+
+- 🌀 **Milestone: 980 tools.** Added **Bernoulli** (tool 980) — total pressure of a moving fluid (P + ½ρv² + ρgh), the velocity gained from a pressure drop, and Torricelli's efflux speed from a tank. Fluid dynamics category. 986 hub checks pass.
+
 ## v82.9.0
 
 - Added **Diffraction Limit** (tool 979) — Rayleigh angular resolution of an aperture from wavelength and diameter, in arcseconds, and the smallest detail resolvable at a distance. Optics/astronomy category. 985 hub checks pass.
