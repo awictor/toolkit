@@ -1,5 +1,9 @@
 # Changelog
 
+## v86.5.0
+
+- Added **Enzyme Kinetics** (tool 1015) — Michaelis-Menten reaction rate from Vmax, Km, and substrate, the fraction of Vmax, and catalytic efficiency. Biology category. 1021 hub checks pass.
+
 ## v86.4.0
 
 - Added **Buffer pH** (tool 1014) — Henderson-Hasselbalch: buffer pH from pKa and the base-to-acid ratio, the ratio for a target pH, and pKa/Ka conversions. Chemistry category. 1020 hub checks pass.
