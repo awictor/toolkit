@@ -1,5 +1,9 @@
 # Changelog
 
+## v73.6.0
+
+- Added **dBm Converter** (tool 886) — convert RF power between dBm, watts, milliwatts, and microwatts, plus apply dB gain/loss along a signal chain. Electronics category. 892 hub checks pass.
+
 ## v73.5.0
 
 - Added **RAID Capacity** (tool 885) — usable storage, fault tolerance, and space efficiency for RAID 0/1/5/6/10 arrays with minimum-disk validation. Storage category. 891 hub checks pass.
