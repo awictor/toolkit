@@ -1,5 +1,9 @@
 # Changelog
 
+## v78.4.0
+
+- Added **Heat Sink Temperature** (tool 934) — junction temperature, max power dissipation, and the heat-sink thermal resistance needed from series thermal resistances and power. Electronics category. 940 hub checks pass.
+
 ## v78.3.0
 
 - Added **Turbo Boost** (tool 933) — turbo/supercharger pressure ratio, absolute manifold pressure, and estimated power gain from boost pressure and altitude. Automotive category. 939 hub checks pass.
