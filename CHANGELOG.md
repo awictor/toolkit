@@ -1,5 +1,9 @@
 # Changelog
 
+## v85.8.0
+
+- Added **Specific Gravity** (tool 1008) — relative density against water, a float-or-sink test, petroleum API gravity, and mass from volume. Physics category. 1014 hub checks pass.
+
 ## v85.7.0
 
 - Added **Air Density** (tool 1007) — dry-air density from pressure and temperature (ideal gas), relative density versus sea level, and dynamic pressure. Physics category. 1013 hub checks pass.
