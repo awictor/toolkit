@@ -1,5 +1,9 @@
 # Changelog
 
+## v75.0.0
+
+- 🎉 **900 tools.** Added **Aircraft Fuel Endurance** (tool 900) — flight endurance and still-air range from usable fuel, burn rate, and true airspeed, with a VFR reserve and per-leg fuel required. Aviation category. 906 hub checks pass.
+
 ## v74.9.0
 
 - Added **WBGT Heat Stress** (tool 899) — wet bulb globe temperature from wet-bulb, globe, and air temperatures (outdoor with solar load or indoor), with the green/yellow/red/black activity heat-stress flag. Health category. 905 hub checks pass.
