@@ -1,5 +1,9 @@
 # Changelog
 
+## v76.0.0
+
+- 🎉 **910 tools.** Added **Freezing Point Depression** (tool 910) — colligative freezing point depression and boiling point elevation from molality, the van't Hoff factor, and the solvent constant, with new freezing/boiling points and solvent presets. Chemistry category. 916 hub checks pass.
+
 ## v75.9.0
 
 - Added **Time Dilation** (tool 909) — Lorentz factor, time dilation, and length contraction at relativistic speeds from a fraction of the speed of light, with a speed slider. Physics category. 915 hub checks pass.
