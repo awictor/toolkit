@@ -1,5 +1,9 @@
 # Changelog
 
+## v74.3.0
+
+- Added **Light Distance Converter** (tool 893) — convert astronomical distances between light-years, parsecs, AU, light-seconds/minutes/hours/days, km, and miles, and show the light-travel time. Astronomy category. 899 hub checks pass.
+
 ## v74.2.0
 
 - Added **Free Fall Calculator** (tool 892) — fall time, drop height, and impact velocity under gravity from either known height or time, with selectable planetary gravity (Earth/Moon/Mars/Venus/Jupiter). Physics category. 898 hub checks pass.
